@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Papers of Volodymyr Kedrowsky
+                    <num>g.24</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-06-18T13:08-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Volodymyr and Katherine Kedrowsky Papers</unittitle>
+            <unitid>g.24</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.5 Linear feet</extent>
+                <extent>3 boxes, 8 reels of audio tape</extent>
+            </physdesc>
+            <unitdate normal="1920/1983" type="inclusive">1920-1983</unitdate>
+            <abstract id="ref1" label="Abstract">The Volodymyr and Katherine Kedrowsky Papers contain primary source material regarding Volodymyr's activities as a diplomat for the Ukrainian People's Republic, as director of the Ukrainian service of the Voice of America, and his political and historical writings. It also includes photographs and ephemera related to Katherine's work with Girl Scouting and Ukrainian women's affairs.</abstract>
+            <langmaterial id="ref6" label="Language of Materials">Ukrainian, unless otherwise noted at the series or file level below.</langmaterial>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Kedrovsʹkyĭ, Volodymyr, 1890-1970</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Kedrovsʹkа, Kateryna, 1904-1997</persname>
+            </origination>
+        </did>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Volodymyr Kedrowsky (Володимир Кедровський, Volodymyr Kedrovskyi) was a colonel in the army of the Ukrainian People's Republic (Ukrains'ka Narodnia Respublika, UNR), political activist, diplomat, writer, and radio broadcaster. He wrote under the literary pseudonyms Mykola Shram, Khersonets, Petro Chevliy, Did Buchar and Batuninets. His second wife Katherine was a Ukrainian-American who was involved in scouting and Ukrainian-American women's clubs. She was a founding member of the Ukrainian National Women's League of America (Soiuz Ukrainok Ameryky).</p>
+            <p>V. Kedrowsky was born in Kherson in 1890 into a family that had considerable land holdings along the Inhul and Inhulets rivers. As a young man, he was influenced by the Ukrainian Socialist Revolutionary Party, and was active in Ukrainophile revolutionary youth groups in Kherson, which (among other things) staged performances of Ukrainian plays as propaganda campaigns among the Ukrainian peasantry. He studied at the Imperial Novorossiya University in Odessa from 1907 to 1911, obtaining a degree in statistics and economics. After graduating, Kedrowsky married fellow Kherson native Marta Odarik.</p>
+            <p>He worked at the Statistical Division of the Kherson Zemstvo until the outbreak of World War I, when he was drafted into the Imperial Russian Army, in which he served as an officer. In 1917 he was appointed Deputy Secretary of Military Affairs in the UNR. He resigned in protest of the entry of German troops into Ukraine, and returned to the Kherson Zemstvo. After the fall of the Hetmanate, he was appointed Chief of Mobilization and Quartermaster General for the army of the Directorate. In early 1919 he was the military attaché of the UNR to the Ottoman Empire. In December 1919 he began a string of diplomatic assignments as UNR ambassador to Latvia, Estonia and Finland. In 1920 he was a UNR delegate at the Russian-Polish peace negotiations that lead to the Treaty of Riga, and in 1921 was a special military representative of the Directorate and personal representative of Symon Petliura to the Turkish government.</p>
+            <p>After the Bolshevik takover of Ukraine, he and his wife settled in Baden, Austria, and then immigrated to the United States in December 1923. He was active in Ukrainian-American organizations, and served as co-editor of the Svoboda newspaper from 1926 to 1933. In 1932, his wife Marta died, and he married Katherine Schutock. From 1955 to 1963 he worked for the United States Department of State and served as the chief of the Ukrainian Service of the Voice of America, where he was involved in the writing of the programs as well as an on-air reader. He died in Metuchen NJ in 1970. Throughout his career, he wrote articles on political, military, and historical topics.</p>
+            <p>Katherine Kedrowsky was born Katherine Schutock (Shattuck) in 1904 in New York City to a Ukrainian family originating from Bukovina. She was a graduate City College. Having been active in Girl Scouting since her school days. she organized the first Ukrainian Girl Scout troops at Ukrainian-American churches and settlement houses. She was a charter member and the first treasurer of the Ukrainian National Women's League of America.</p>
+        </bioghist>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for researcher use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Volodymyr and Katherine Kedrowsky Papers; box number; folder number; Ukrainian Historical and Educational Center Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <arrangement id="ref62">
+            <head>Arrangement</head>
+            <p>Arranged by context of creation or genre in eight series, as follows:</p>
+            <list type="ordered">
+                <item>Ukrainian People's Republic</item>
+                <item>Voice of America</item>
+                <item>Correspondence</item>
+                <item>Subject files</item>
+                <item>Writings</item>
+                <item>Photographs and postcards</item>
+                <item>Third-party materials</item>
+                <item>Published and near-print materials</item>
+            </list>
+        </arrangement>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials</head>
+            <p>The bulk of Volodymyr Kedrowsky's papers were donated by the family to the 
+                <extref ns2:href="http://uvan.org/archives/">Ukrainian Academy of Arts and Sciences in the U.S. (http://uvan.org/archives/)</extref>.</p>
+        </relatedmaterial>
+        <scopecontent id="ref9">
+            <head>Scope and Contents</head>
+            <p>This collection contains primarily materials assembled by V. Kedrowsky in the course of his work for the diplomatic corps the UNR, the Voice of America, and his writings. It contains some diplomatic correspondence, a significant number of radio scripts used for broadcast, an audio recording of a Ukrainian Catholic liturgy in the National Shrine in Washington, DC, drafts and finished versions of his writings, photographs, and ephemera. In addition, it contains material assembled by K. Kedrowsky, including photographs, periodicals, and ephemera.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname source="naf" role="Author (aut)">Vlasovsʹkyĭ, Ivan, 1883-1969</persname>
+            <subject source="lcsh">Church music--Catholic Church (Byzantine rite) </subject>
+            <subject source="lcsh">Radio scripts</subject>
+            <subject source="lcsh">Ukraine--History--Revolution, 1917-192</subject>
+            <subject source="lcsh">Ukraine--History--Revolution, 1917-1921--Sources</subject>
+            <subject source="lcsh">Ukraïnsʹka Narodni︠a︡ Respublika (Government-in-exile)</subject>
+            <subject source="lcsh">Voice of America (Organization)</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref56" level="series">
+                <did>
+                    <unittitle>Ukrainian People's Republic</unittitle>
+                    <unitid>Series 1.</unitid>
+                    <physdesc>
+                        <extent>3 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1920/1921" type="inclusive">1920-1921</unitdate>
+                    <langmaterial id="ref59" label="Language of Materials">Ukrainian, Russian, Latvian, Lithuanian, German and French.</langmaterial>
+                </did>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>Correspondence of consulate in Riga, Latvia</unittitle>
+                        <container id="cid144001" type="Box" label="Text">1</container>
+                        <container parent="cid144001" type="Folder">1</container>
+                        <unitdate normal="1920/1921" type="inclusive">1920-1921</unitdate>
+                    </did>
+                    <scopecontent id="ref15">
+                        <head>Scope and Contents</head>
+                        <p>Incoming and copies of outgoing correspondence, primarily with the Finnish consulate in regards to a large shipment of paper products bound for Ukraine that had been stranded in Riga after falling into Bolshevik hands.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref19" level="subseries">
+                    <did>
+                        <unittitle>Official documents</unittitle>
+                        <unitdate normal="1918/1921" type="inclusive">1918-1921</unitdate>
+                    </did>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>Originals</unittitle>
+                            <container id="cid144002" type="Box" label="Text">1</container>
+                            <container parent="cid144002" type="Folder">2</container>
+                            <unitdate normal="1919/1920" type="inclusive">1919-1920</unitdate>
+                            <physdesc id="ref32" label="Physical Facet">
+                                <physfacet>Documents were pasted onto 8.5x11" office paper, making the writing on the reverse of some of the documents inaccessible.</physfacet>
+                            </physdesc>
+                        </did>
+                        <scopecontent id="ref33">
+                            <head>Scope and Contents</head>
+                            <p>Travel permits for Volodymyr and Marta Kedrowsky, Lithuanian diplomatic status certificate, letter certifying that Marta is the wife of Army Chief Inspector Volodymyr Kedrowsky, and an invitation to an evening tea from the Chairman of the Council of People's Ministers (Kamianets').</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>Photocopies</unittitle>
+                            <container id="cid144003" type="Box" label="Text">1</container>
+                            <container parent="cid144003" type="Folder">3</container>
+                            <unitdate normal="1918/1921" type="inclusive">1918-1921</unitdate>
+                        </did>
+                        <scopecontent id="ref34">
+                            <head>Scope and Contents</head>
+                            <p>Photocopies of diplomatic passports and visas.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref55" level="series">
+                <did>
+                    <unittitle>Voice of America</unittitle>
+                    <unitid>Series 2.</unitid>
+                    <unitdate normal="1957/1963" type="inclusive">1957-1963</unitdate>
+                </did>
+                <c02 id="ref37" level="subseries">
+                    <did>
+                        <unittitle>Scripts</unittitle>
+                        <physdesc>
+                            <extent>11 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1957/1963" type="inclusive">1957-1963</unitdate>
+                    </did>
+                    <arrangement id="ref63">
+                        <head>Arrangement</head>
+                        <p>Arranged chronologically by date of broadcast.</p>
+                    </arrangement>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents</head>
+                        <p>Spirit-duplicated broadcast scripts of programming by the Voice of America Ukrainian Service. A number of the scripts have pencil annotations, including last-minute revisions as well as accent and phrasing marks indicating that they were likely used for on-air broadcast.</p>
+                    </scopecontent>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid145002" type="Box" label="Text">1</container>
+                            <container parent="cid145002" type="Folder">4</container>
+                            <unitdate normal="1957/1957">1957</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid145001" type="Box" label="Text">1</container>
+                            <container parent="cid145001" type="Folder">5</container>
+                            <unitdate normal="1958/1958">1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid145003" type="Box" label="Text">1</container>
+                            <container parent="cid145003" type="Folder">6-7</container>
+                            <physdesc>
+                                <extent>2 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1959/1959">1959</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid145004" type="Box" label="Text">1</container>
+                            <container parent="cid145004" type="Folder">8-10</container>
+                            <physdesc>
+                                <extent>3 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1960/1960">1960</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid145005" type="Box" label="Text">2</container>
+                            <container parent="cid145005" type="Folder">1-2</container>
+                            <physdesc>
+                                <extent>2 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1961/1961">1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid145006" type="Box" label="Text">2</container>
+                            <container parent="cid145006" type="Folder">3</container>
+                            <unitdate normal="1962/1962">1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid145007" type="Box" label="Text">1</container>
+                            <container parent="cid145007" type="Folder">4</container>
+                            <unitdate normal="1963/1963">1963</unitdate>
+                        </did>
+                        <scopecontent id="ref71">
+                            <head>Scope and Contents</head>
+                            <p>Also contains one undated sheet with manuscript in pencil.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref36" level="subseries">
+                    <did>
+                        <unittitle>Audio recordings</unittitle>
+                        <physdesc>
+                            <extent>8 reels of audio tape (approximately 3 hours)</extent>
+                        </physdesc>
+                        <unitdate>early 1960s</unitdate>
+                        <physdesc id="ref91" label="Physical Facet">
+                            <physfacet>Adhesive tape used to splice the audio tape is dry and easily broken. Some of the paper leaders have already become detached.</physfacet>
+                        </physdesc>
+                    </did>
+                    <userestrict id="ref58">
+                        <head>Conditions Governing Use</head>
+                        <p>Advance notice is required to prepare access copies</p>
+                    </userestrict>
+                    <scopecontent id="ref90">
+                        <head>Scope and Contents</head>
+                        <p>Live and studio recordings of spoken word and music, most likely used during the editing of VOA Ukrainian Service programs.</p>
+                    </scopecontent>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>"Ukrainian High Mass - National Shrine"</unittitle>
+                            <container id="cid147002" type="Box" label="Audio">4</container>
+                            <container parent="cid147002" type="Reel">1-4</container>
+                            <physdesc>
+                                <extent>4 reels (approximately 2 hours)</extent>
+                            </physdesc>
+                            <unitdate normal="1961/1961">likely 1961</unitdate>
+                            <langmaterial id="ref86" label="Language of Materials">Church Slavonic and English.</langmaterial>
+                        </did>
+                        <scopecontent id="ref87">
+                            <head>Scope and Contents</head>
+                            <p>Live recording of a Ukrainian Catholic hierarchical Divine Liturgy celebrated by Bishop Joseph Schmondiuk at the National Shrine in Washington, DC. The recording was likely made during the Christmas season of early 1961 (but certainly before 1963), as mention is made of the "recent death" of Bishop Constantine Bohachevsky (d. January, 1961) and Pope John XXIII (papacy 1958-1963) is commemorated during litanies.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>"Ed R. Murrow's statement on the 25th Anniversary of T. G. Masaryk's death"</unittitle>
+                            <container id="cid147001" type="Box" label="Audio">4</container>
+                            <container parent="cid147001" type="Reel">5</container>
+                            <physdesc>
+                                <extent>1 reel (approximately 5 minutes)</extent>
+                            </physdesc>
+                            <unitdate normal="1962/1962">1962</unitdate>
+                            <langmaterial id="ref80" label="Language of Materials">English.</langmaterial>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Music recordings</unittitle>
+                            <container id="cid147003" type="Box" label="Audio">4</container>
+                            <container parent="cid147003" type="Reel">6-8</container>
+                            <physdesc>
+                                <extent>3 reels (approximately 45 minutes)</extent>
+                            </physdesc>
+                            <unitdate>undated</unitdate>
+                            <langmaterial id="ref89" label="Language of Materials">Ukrainian, English and Latin.</langmaterial>
+                        </did>
+                        <scopecontent id="ref92">
+                            <head>Scope and Contents</head>
+                            <p>Recordings of Ukrainian and American Christmas carols, and Schubert's Ave Maria.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>Series 3.</unitid>
+                    <container id="cid145008" type="Box" label="Text">2</container>
+                    <container parent="cid145008" type="Folder">5</container>
+                    <physdesc>
+                        <extent>1 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1927/1970" type="inclusive">1927-1970</unitdate>
+                    <langmaterial id="ref74" label="Language of Materials">Ukrainian and English.</langmaterial>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Scope and Contents</head>
+                    <p>Incoming and outgoing correspondence, including a letter to the editor of the New York Times, and letters of condolence to K. Kedrowsky.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref49" level="series">
+                <did>
+                    <unittitle>Subject files</unittitle>
+                    <unitid>Series 4.</unitid>
+                    <physdesc>
+                        <extent>3 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1922/1971" type="inclusive">1922-1971</unitdate>
+                </did>
+                <c02 id="ref35" level="series">
+                    <did>
+                        <unittitle>Fellowship of Supporters of the League of Nations</unittitle>
+                        <container id="cid145009" type="Box" label="Text">2</container>
+                        <container parent="cid145009" type="Folder">6</container>
+                        <unitdate normal="1922/1924" type="inclusive">1922-1924 and undated</unitdate>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents</head>
+                        <p>Incoming correspondence to V. Kedrowsky as president of the Fellowship of Supporters of the League of Nations from the Ministry of Foreign Affairs of the UNR government-in-exile.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Isaak Mazepa</unittitle>
+                        <container id="cid145010" type="Box" label="Text">2</container>
+                        <container parent="cid145010" type="Folder">7</container>
+                        <unitdate normal="1946/1953" type="inclusive">1946-1953</unitdate>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents</head>
+                        <p>Materials related to the Ukrainian political leader Isaak Mazepa, including copies of outgoing letters, text of speech given at a memorial service honoring Mazepa, and special issue of "Vil'ne Slovo" (June, 1952) dedicated to Mazepa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Obituaries and death notices</unittitle>
+                        <container id="cid145011" type="Box" label="Text">2</container>
+                        <container parent="cid145011" type="Folder">8</container>
+                        <unitdate normal="1971/1971">1971</unitdate>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents</head>
+                        <p>Newspaper clippings related to the death of V. Kedrowsky collected by K. Kedrowsky.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Writings</unittitle>
+                    <unitid>Series 5.</unitid>
+                    <physdesc>
+                        <extent>5 folders</extent>
+                    </physdesc>
+                    <unitdate>undated</unitdate>
+                </did>
+                <scopecontent id="ref61">
+                    <head>Scope and Contents</head>
+                    <p>Political and historical writings by V. Kedrowsky, as well as related research materials.</p>
+                </scopecontent>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>"Ukrains'ka viis'kova orhanizatsia"</unittitle>
+                        <container id="cid145012" type="Box" label="Text">2</container>
+                        <container parent="cid145012" type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>"Tsenzurovanyi prymirnyk 'Dosvitky' P. Kulisha"</unittitle>
+                        <container id="cid145014" type="Box" label="Text">1</container>
+                        <container parent="cid145014" type="Folder">10</container>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Short articles and fragments</unittitle>
+                        <container id="cid145015" type="Box" label="Text">2</container>
+                        <container parent="cid145015" type="Folder">11</container>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Notes and correspondence</unittitle>
+                        <container id="cid145013" type="Box" label="Text">2</container>
+                        <container parent="cid145013" type="Folder">12</container>
+                        <unitdate normal="1937/1969" type="inclusive">1937, 1969, and undated</unitdate>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents</head>
+                        <p>Press release for lecture tour, correspondence related to publication of writings, and research notes.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Copies of published writings</unittitle>
+                        <container id="cid145016" type="Box" label="Text">2</container>
+                        <container parent="cid145016" type="Folder">13</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Photographs and postcards</unittitle>
+                    <unitid>Series 6.</unitid>
+                    <container id="cid145017" type="Box" label="Graphic materials">2</container>
+                    <container parent="cid145017" type="Folder">14</container>
+                    <physdesc>
+                        <extent>1 folder (20 photographs and 4 postcards)</extent>
+                    </physdesc>
+                    <unitdate normal="1920/1942" type="inclusive">circa 1920-1942 and undated</unitdate>
+                </did>
+                <scopecontent id="ref24">
+                    <head>Scope and Contents</head>
+                    <p>Includes photographs from the UNR diplomatic mission to the Baltics; the dedication of the tombstone to M. Drahomanov in Sofia, Bulgaria; Ukrainian-American Sich and scouting events; market scenes in Vinnytsia and Kharkiv taken by German photographers in 1942; and other unidentified/undated images.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Third-party materials</unittitle>
+                    <unitid>Series 7.</unitid>
+                    <physdesc>
+                        <extent>2 folders</extent>
+                    </physdesc>
+                </did>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Ivan Vlasovs'kyi article</unittitle>
+                        <container id="cid147004" type="Box" label="Text">2</container>
+                        <container parent="cid147004" type="Folder">15</container>
+                        <unitdate>circa 1958</unitdate>
+                    </did>
+                    <scopecontent id="ref47">
+                        <head>Scope and Contents</head>
+                        <p>Typescript and galley proof of article by Ivan Vlasovs'kyi entitled "Kniaz' K. K. Ostroz'kyi, znamenytyi patron i oboronets' pravoslavia v istorii ukrains'koho narodu" ("Князь К. К. Острозький, знаменитий патрон і оборонець православія в історії українського народу", "Prince K. Ostroz'kyi, the famous patron and defender of Orthodoxy in the history of the Ukrainian people"), with corrections and comments.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Personal and family documents</unittitle>
+                        <container id="cid146001" type="Box" label="Text">2</container>
+                        <container parent="cid146001" type="Folder">16</container>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Contents</head>
+                        <p>Genealogical booklet of the Ivanyshyn family and travel permit issued to Volodymyr Shoff [?] by the UNR consulate in Turkey.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref57" level="series">
+                <did>
+                    <unittitle>Published and near-print materials</unittitle>
+                    <unitid>Series 8.</unitid>
+                    <physdesc>
+                        <extent>7 folders</extent>
+                    </physdesc>
+                </did>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Inscribed publications</unittitle>
+                        <container id="cid146008" type="Box" label="Text">2</container>
+                        <container parent="cid146008" type="Folder">17</container>
+                        <unitdate normal="1931/1947" type="inclusive">1931, 1947</unitdate>
+                    </did>
+                    <scopecontent id="ref93">
+                        <head>Scope and Contents</head>
+                        <p>Copies of "Z dyplomatychnoi diial'nosty Danyla Hreka" by Dr. Panas Fedenko, and "Sira Ukraina" by Dr. Tymish Olesiuk, both inscribed by their authors to V. Kedrowsky.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref25" level="series">
+                    <did>
+                        <unittitle>Newspaper clippings, periodicals and ephemera</unittitle>
+                        <container id="cid146002" type="Box" label="Text">2</container>
+                        <container parent="cid146002" type="Folder">18</container>
+                        <unitdate normal="1933/1983" type="inclusive">1933-1983</unitdate>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents</head>
+                        <p>Includes June 1921 issue of "Nasha Zoria" (Łańcut, Poland); the May 1933 issue of "Zhinochyi Svit" (Pittsburgh, Penn.); "Ukrainian Bureau" newsletters (1939-1940), and materials collected by K. Kedrowsky.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="subseries">
+                    <did>
+                        <unittitle>"Starodavnia Ukraiina"</unittitle>
+                        <physdesc>
+                            <extent>5 bound volumes</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents</head>
+                        <p>A series of plays under the title "Starodavnia Ukraiina v dramatychnykh spravakh" ("Стародавня Украйина въ драматычных справах") (Odessa, 1899, lithographically reproduced holograph). The author listed on the cover is "O. Ts... bat'ko" (O. Ц... батько). A note by K. Kedrowsky indicates that they were written by a great-uncle of V. Kedrowsky and were printed in an edition of 100.</p>
+                    </scopecontent>
+                    <userestrict id="ref45">
+                        <head>Conditions Governing Use</head>
+                        <p>Access and duplication may be restricted due to fragile condition.</p>
+                    </userestrict>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Parts 1-2: "Чорный Шляхъ", "Козакъ Байда"</unittitle>
+                            <container id="cid146003" type="Box" label="Text">3</container>
+                            <container parent="cid146003" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Parts 3-4: "За виру и правду", "Тарасъ Бульба"</unittitle>
+                            <container id="cid146004" type="Box" label="Text">3</container>
+                            <container parent="cid146004" type="Folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Parts 5-6: "Левенци", "Пушкаривна"</unittitle>
+                            <container id="cid146005" type="Box" label="Text">3</container>
+                            <container parent="cid146005" type="Folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>Part 7: "Злыгодни"</unittitle>
+                            <container id="cid146006" type="Box" label="Text">3</container>
+                            <container parent="cid146006" type="Folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Part 8: "За булаву"</unittitle>
+                            <container id="cid146007" type="Box" label="Text">3</container>
+                            <container parent="cid146007" type="Folder">5</container>
+                            <physdesc id="ref46" label="Physical Facet">
+                                <physfacet>Missing cover and title page.</physfacet>
+                            </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

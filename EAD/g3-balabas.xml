@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://www.UkrHEC.org/collections/archives/finding-aids/oleksii-balabas-papers"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the papers of Oleksii Balabas
+                    <num>g.3</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+                <date>9-28-2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-12-23T13:59-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>01-12-2012</date>
+                <item>Added descriptions of additional correspondence that was discovered after the first published finding aid.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Oleksii Balabas Papers</unittitle>
+            <unitid>g.3</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+                <extent>3 bound volumes, 2 boxes</extent>
+            </physdesc>
+            <unitdate normal="1915/1960" type="inclusive">1915-1960</unitdate>
+            <langmaterial id="ref14" label="Language of Materials note">Ukrainian, Russian, Czech, German and English.</langmaterial>
+            <abstract id="ref43" label="Abstract">This collection contains material relating to the life of Oleksii Balabas and his family in the Kuban' region of Russia, Prague, Germany, and Chicago. It includes six volumes of diaries from the 1940s and '50s, official and legal documents, correspondence, writings on Kuban' history, and photographs.</abstract>
+            <origination label="creator">
+                <persname source="local">Balabas, Oleksii, 1890-1960</persname>
+            </origination>
+        </did>
+        <arrangement id="ref37">
+            <head>Arrangement</head>
+            <p>The collection is arranged in 5 series as follows:</p>
+            <list numeration="arabic" type="ordered">
+                <item>
+                    <ref target="ref15">Documents</ref></item>
+                <item>
+                    <ref target="ref21">Correspondence</ref></item>
+                <item>
+                    <ref target="ref30">Writings on Kuban'</ref></item>
+                <item>
+                    <ref target="ref7">Photographs</ref></item>
+                <item>
+                    <ref target="ref1">Diaries</ref></item>
+            </list>
+        </arrangement>
+        <scopecontent id="ref41">
+            <head>Scope and Contents</head>
+            <p>The Oleksii Balabas Papers contain material relating to the life of Kuban' native of Ukrainian descent Oleksii Balabas and his family in Russia, Prague, as a Displaced Person in Germany, and in Chicago. Of particular importance are six volumes of diaries in which he describes his life in Germany and Chicago and his attempts to deal with his grief over the death of his wife. In addition, the collection has official and legal documents from pre-Revolutionary Russia and his immigration into the USA, family and personal correspondence, writings on Kuban' history, and photographs from Kuban', Prague, Germany and the USA. Two letters dated 1933 from family members in Kuban' make reference to the Holodomor.</p>
+        </scopecontent>
+        <bioghist id="ref11">
+            <head>Biographical/Historical note</head>
+            <p>Oleksii Balabas was an "ordinary man" whose life encapsulates in microcosm a great deal of the history of Ukrainians in the first half of the 20th century.</p>
+            <p>He was born in 1890 in the "stantsia" Slovians'ka in Kuban' (Russian northern Caucuses). He was conscripted into the Russian Army upon the outbreak of World War I, attended cavalry school and joined as an ensign with the Slovians'ka regiment, with which he fought on the Western and Turkish fronts. After the 1917 Revolution he joined the government of the Kuban' People's Republic, associating closely with many of the top government leaders. After the takeover of the government by the monarchist "Black Hundreds" counter-revolutionaries he was arrested and exiled in 1919 to Istanbul. In 1920, he moved with his family to Prauge.</p>
+            <p>In Prague, he worked as a compositor in the print shop of the social-democratic newspaper "Právo Lidu" while furthering his education. He eventually defended a doctoral dissertation from the Charles University in Prague, and became a teacher and administrator of the Ukrainian Gymansium in Modřany.</p>
+            <p>Fleeing ahead of the Red Army in World War II, he spent time in the Karlsfeld, Füssen, and Mittenwald DP camps. He served as teacher and director of the Mittenwald camp Gymnasium. His wife Ievheniia (Pobidonostseva) died in 1947, and in 1950 he emigrated to Chicago. He worked for the Czech-language newspaper "Svernost" and taught at the Ukrainian Orthodox school. He later joined the printing establishment of Prof. Terlets'kyi where he worked as a linotype operator. He moved to New Jersey after prostate surgury, where he likely worked in the printing shop at the Ukrainian Orthodox Church of the USA in South Bound Brook.</p>
+        </bioghist>
+        <prefercite id="ref39">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Oleksii Balabas Papers; box number; folder number; Ukrainian Historical and Educational Center Archives, Somerset, NJ.</p>
+        </prefercite>
+        <accessrestrict id="ref40">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for research use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <userestrict id="ref86">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <controlaccess>
+            <subject source="lcsh"> Kubanʹ (Russia : Region)</subject>
+            <subject source="lcsh">Exiles--Ukrainian--Czechoslovakia--Prague</subject>
+            <subject source="lcsh">Exiles--Ukrainian--Turkey--Istanbul</subject>
+            <subject source="lcsh">Immigrants--United States--Diaries</subject>
+            <subject source="lcsh">Refugee camps--Germany--Füssen</subject>
+            <subject source="lcsh">Refugee camps--Germany--Mittenwald</subject>
+            <subject source="lcsh">Ukrainian-Americans--Illinois--Chicago</subject>
+            <subject source="lcsh">Ukrainians -- Russia (Federation) -- Kubanʹ (Region)</subject>
+            <subject source="lcsh">World War, 1939-1945--Refugees </subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>Documents</unittitle>
+                    <unitid>Series 1.</unitid>
+                    <physdesc>
+                        <extent>8 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1916/1960" type="inclusive">1916-1960</unitdate>
+                </did>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Kuban' and Istanbul</unittitle>
+                        <container id="cid86002" type="Box" label="Paper documents">1</container>
+                        <container parent="cid86002" type="Folder">1-2</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1916/1920" type="inclusive">1916-1920</unitdate>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents</head>
+                        <p>Russian passports, bank passbooks, deeds of sale of real estate, and a passport issued by the consulate of the Netherlands in Istanbul for transit to Prague.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Prague</unittitle>
+                        <container id="cid86004" type="Box" label="Paper documents">1</container>
+                        <container parent="cid86004" type="Folder">3-5</container>
+                        <container id="cid107001" type="Oversize" label="Text">1</container>
+                        <physdesc>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1923/1945" type="inclusive">1923-1945</unitdate>
+                    </did>
+                    <scopecontent id="ref20">
+                        <head>Scope and Contents</head>
+                        <p>Academic documents of Oleksii and his wife, including diplomas, coursework records and student ID cards. Identification documents from the period of Nazi occupation. Certificate of appreciation from his printer colleagues.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Germany</unittitle>
+                        <container id="cid86005" type="Box" label="Paper documents">1</container>
+                        <container parent="cid86005" type="Folder">6</container>
+                        <unitdate normal="1945/1949" type="inclusive">1945-1949</unitdate>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents</head>
+                        <p>DP worker's pass and ID cards. Newspaper clippings related to Ievheniia Balabas' death. Death certificates. Administrative correspondence regarding Gymnasium faculty position.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>United States</unittitle>
+                        <container id="cid93001" type="Box" label="Paper documents">1</container>
+                        <container parent="cid93001" type="Folder">7</container>
+                        <unitdate normal="1949/1960" type="inclusive">1949-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents</head>
+                        <p>Immigration documents. Baggage tag. Immigrant Report forms and cards. Naturalization forms. Paperwork regarding request for removal to Germany. Address books. Membership cards for various organizations.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref21" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>Series 2.</unitid>
+                    <physdesc>
+                        <extent>7 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1916/1960" type="inclusive">1916-1960</unitdate>
+                </did>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Wife and daughter</unittitle>
+                        <container id="cid87002" type="Box" label="Paper documents">1</container>
+                        <container parent="cid87002" type="Folder">8</container>
+                        <unitdate normal="1919/1921" type="bulk">Bulk, 1919-1921</unitdate>
+                        <unitdate normal="1916/1945" type="inclusive">1916-1945</unitdate>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents</head>
+                        <p>Letters from Oleksii to his wife and daughter, written from Kuban', Istanbul, Prague and Germany. Postcards from his daughter enroute from Prague to Germany.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Family in Kuban'</unittitle>
+                        <container id="cid114003" type="Box" label="Text">1</container>
+                        <container parent="cid114003" type="Folder">9</container>
+                        <unitdate normal="1928/1935" type="bulk">Bulk, 1928-1935</unitdate>
+                        <unitdate normal="1928/1960" type="inclusive">1928-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with family members who remained in Kuban', primarily with a Masha (Mama?) and Fenia, and later with Ievhenia Smola (his sister?), and a Zhenia (surname unknown). Two of the letters from 1933 contain allusions to the Holodomor.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Vladimir Chernoi</unittitle>
+                        <container id="cid114004" type="Box" label="Text">1</container>
+                        <container parent="cid114004" type="Folder">10</container>
+                        <unitdate normal="1921/1934" type="inclusive">1921-1934</unitdate>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with Vladimir Chernoi, who may be a cousin, as he addresses himself to Oleksii as "tvoi brat" ("your brother"). Correspondence, mostly in the form of postcards, is addressed from Kuban' and Moscow.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Kathi Ostler</unittitle>
+                        <container id="cid87003" type="Box" label="Paper documents">1</container>
+                        <container parent="cid87003" type="Folder">11</container>
+                        <unitdate normal="1951/1956" type="inclusive">1951-1956</unitdate>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents</head>
+                        <p>Correspondene with the Ostler family in Mittenwald, who may have been caring for Ievheniia's grave.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Vasyl' and Petro Kachurovskyi</unittitle>
+                        <container id="cid114001" type="Box" label="Text">2</container>
+                        <container parent="cid114001" type="Folder">1</container>
+                        <unitdate normal="1959/1960" type="bulk">Bulk, 1959-1960</unitdate>
+                        <unitdate normal="1951/1960" type="inclusive">1951-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence from Balabas' son-in-law and school-age grandson after Balabas moved to New Jersey.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref84" level="subseries">
+                    <did>
+                        <unittitle>R. Lukianova</unittitle>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1949/1960" type="inclusive">1949-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with R. Lukianova (first name unknown) in Winnipeg, Manitoba.</p>
+                    </scopecontent>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>Letters</unittitle>
+                            <container id="cid114002" type="Box" label="Text">2</container>
+                            <container parent="cid114002" type="Folder">2</container>
+                            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Photographs</unittitle>
+                            <container id="cid140005" type="Box" label="Text">2</container>
+                            <container parent="cid140005" type="Folder">3</container>
+                            <unitdate normal="1949/1959" type="inclusive">1949-1959</unitdate>
+                        </did>
+                        <scopecontent id="ref80">
+                            <head>Scope and Contents</head>
+                            <p>Portraits, group photographs, and other scenes sent to Balabas by R. Lukianova, most with extensive inscriptions on the reverse.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>General correspondence</unittitle>
+                        <container id="cid88002" type="Box" label="Paper documents">2</container>
+                        <container parent="cid88002" type="Folder">4</container>
+                        <unitdate normal="1947/1959" type="bulk">Bulk, 1947-1959</unitdate>
+                        <unitdate normal="1921/1960" type="inclusive">1921-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents</head>
+                        <p>Primarily personal correspondence with individuals in the USA, Canada, and the United Kingdom, as well as correspondence dating to the DP period, and some from Prague. It includes correpspondence with Alexandr Bolotenko, Ivan Fin'ko, the Holoskevych family, V. Ivanys, Maria Kasianchuk, Liudmyla Kay (his daughter), Volodymyr Korytnyk, A. Khorii (?), A. Lobachevs'kyi, Abp. Mstyslav, V. Minokov, T. V. Pucholsky, Olesiuk family, Ovcharenko family, ? Sergeiev, Selihor family, I. Varyvoda, M. Vovkodav, and others with illegible signatures.</p>
+                    </scopecontent>
+                    <arrangement id="ref34">
+                        <head>Arrangement</head>
+                        <p>This file is arranged alphabetically by the correspondent's surname. Materials with unknown or illegible surnames are at the end of the file.</p>
+                    </arrangement>
+                </c02>
+            </c01>
+            <c01 id="ref30" level="series">
+                <did>
+                    <unittitle>Writings on Kuban'</unittitle>
+                    <unitid>Series 3.</unitid>
+                    <container id="cid87004" type="Box" label="Paper documents">2</container>
+                    <container parent="cid87004" type="Folder">5</container>
+                    <physdesc>
+                        <extent>1 folder</extent>
+                    </physdesc>
+                    <unitdate>Circa 1948</unitdate>
+                </did>
+                <scopecontent id="ref31">
+                    <head>Scope and Contents</head>
+                    <p>Manuscripts, newspaper clippings and correspondence related to the history of the Kuban' region.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Photographs and postcards</unittitle>
+                    <unitid>Series 4.</unitid>
+                    <physdesc>
+                        <extent>7 folders (89 photographs, 27 postcards)</extent>
+                    </physdesc>
+                    <unitdate normal="1915/1960" type="inclusive">1915-1960</unitdate>
+                </did>
+                <scopecontent id="ref9">
+                    <head>Scope and Contents</head>
+                    <p>Photographs from Kuban', Prauge, Mittenwald, and Chicago. Includes inscribed photographs sent by R. Lukianova, as well as family photographs, group pictures, and portraits.</p>
+                </scopecontent>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Kuban' and Prague</unittitle>
+                        <container id="cid140001" type="Box" label="Graphic materials">2</container>
+                        <container parent="cid140001" type="Folder">6</container>
+                        <physdesc>
+                            <extent>1 folder (8 photographs, 1 postcard)</extent>
+                        </physdesc>
+                        <unitdate>1915 - 1940s</unitdate>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents</head>
+                        <p>Portraits, group photographs, and postcard of the Modřany Gymnasium.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Germany</unittitle>
+                        <container id="cid140002" type="Box" label="Graphic materials">2</container>
+                        <container parent="cid140002" type="Folder">7</container>
+                        <physdesc>
+                            <extent>1 folder (15 photographs)</extent>
+                        </physdesc>
+                        <unitdate normal="1945/1949" type="inclusive">1945-1949</unitdate>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Contents</head>
+                        <p>Portraits, group photographs, and images of Mittenwald city and DP camp. Portrait card from Balabas' former students Bohdan and Volodymyr Bilan.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Funeral of Ievheniia Balabas</unittitle>
+                        <container id="cid140003" type="Box" label="Graphic materials">2</container>
+                        <container parent="cid140003" type="Folder">8</container>
+                        <physdesc>
+                            <extent>1 folder (30 photographs, 3 negatives)</extent>
+                        </physdesc>
+                        <unitdate>1947</unitdate>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents</head>
+                        <p>Photographs from the church service, funeral procession, and interment, as well as images of the cemetery and grave site with friends and family members.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>United States</unittitle>
+                        <container id="cid140004" type="Box" label="Graphic materials">2</container>
+                        <container parent="cid140004" type="Folder">9</container>
+                        <physdesc>
+                            <extent>1 folder (18 photographs)</extent>
+                        </physdesc>
+                        <unitdate normal="1954/1960" type="inclusive">1954-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents</head>
+                        <p>Portraits and group photographs of Balabas, friends, and family members.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Relatives and others</unittitle>
+                        <container id="cid140006" type="Box" label="Graphic materials">2</container>
+                        <container parent="cid140006" type="Folder">10</container>
+                        <physdesc>
+                            <extent>1 folder (7 photographs)</extent>
+                        </physdesc>
+                        <unitdate>1960 and undated</unitdate>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents</head>
+                        <p>Portraits (presumably of relatives) and group photographs. Only one photograph of Balabas' sister and nephew in Luga (Leningrad Oblast) is identified.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Postcards</unittitle>
+                        <container id="cid140007" type="Box" label="Graphic materials">2</container>
+                        <container parent="cid140007" type="Folder">11</container>
+                        <physdesc>
+                            <extent>1 folder (26 postcards)</extent>
+                        </physdesc>
+                        <unitdate>1940s - 1950s</unitdate>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents</head>
+                        <p>Blank postcards from Bavaria, Bremen, and Chicago.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>Diaries</unittitle>
+                    <unitid>Series 5.</unitid>
+                    <physdesc>
+                        <extent>3 bound volumes and 4 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1948/1959" type="bulk">Bulk, 1948-1959</unitdate>
+                    <unitdate normal="1920/1959" type="inclusive">1920-1959</unitdate>
+                </did>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Volume 1</unittitle>
+                        <container id="cid126003" type="Volume" label="Text">1</container>
+                        <unitdate>December 1947 - May 1949</unitdate>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents</head>
+                        <p>Entries made primarily in Mittenwald, Germany.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Volume 2</unittitle>
+                        <container id="cid126001" type="Volume" label="Text">2</container>
+                        <unitdate>May 1949 - March 1950</unitdate>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents</head>
+                        <p>Entries made in Mittenwald and Bremen. Also contains an entry dated March 10, 1949.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Volume 3</unittitle>
+                        <container id="cid126002" type="Volume" label="Text">3</container>
+                        <unitdate>1953</unitdate>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents</head>
+                        <p>Entries made in Chicago, IL.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Volume 4</unittitle>
+                        <container id="cid126004" type="Box" label="Text">2</container>
+                        <container parent="cid126004" type="Folder">12</container>
+                        <unitdate>March 1954 - May 1955</unitdate>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents</head>
+                        <p>Entries made in Chicago, IL.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Volume 5</unittitle>
+                        <container id="cid126005" type="Box" label="Text">2</container>
+                        <container parent="cid126005" type="Folder">13</container>
+                        <unitdate>1955</unitdate>
+                    </did>
+                    <scopecontent id="ref65">
+                        <head>Scope and Contents</head>
+                        <p>Entries made in Chicago, IL.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Volume 6</unittitle>
+                        <container id="cid126006" type="Box" label="Text">2</container>
+                        <container parent="cid126006" type="Folder">14</container>
+                        <unitdate>August 1957 - August 1959</unitdate>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents</head>
+                        <p>Entries made in Chicago, IL and South Bound Brook, NJ.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Loose diary pages</unittitle>
+                        <container id="cid126007" type="Box" label="Text">2</container>
+                        <container parent="cid126007" type="Folder">15</container>
+                        <unitdate>1920, 1950-1956</unitdate>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents</head>
+                        <p>Loose pages containing diary entries from 1920 (Istanbul and in transit to Prague), July 1950 - March 1951 (Chicago), December 7, 1951 (Chicago), January 14, 1955 (Chicago), January 8, 1956 (Chicago), as well as undated holograph writings.</p>
+                    </scopecontent>
+                    <processinfo id="ref87">
+                        <head>Processing Information</head>
+                        <p>The undated holograph writings were found folded between the pages of the bound diaries.</p>
+                    </processinfo>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

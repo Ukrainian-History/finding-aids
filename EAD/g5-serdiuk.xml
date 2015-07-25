@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Vasyl' and Liudmyla Serdiuk Papers
+                    <num>g.5</num>
+                </titleproper>
+                <author>Finding aid prepared by M. Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+                <date>9-28-2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-01-13T11:11-0500</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Vasyl' and Liudmyla Serdiuk Papers</unittitle>
+            <unitid>g.5</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="ukr"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.7 Linear feet</extent>
+                <extent>2 boxes</extent>
+            </physdesc>
+            <unitdate normal="1924/1988" type="inclusive">1924-1988</unitdate>
+            <abstract id="ref56" label="Abstract">This collection contains material relating to the lives of Vasyl' and Liudmyla Serdiuk. It primarily documents their work in the theater in Western Ukraine and the United States through correspondence, programs, and photographs. It also documents the activities of the St. George Ukrainian Orthodox parish in Yardville, NJ in an extensive collection of photographs.</abstract>
+            <origination label="creator">
+                <persname source="local">Serdiuk, Liudmyla, 1899-1984</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="local">Serdiuk, Vasyl', 1900-1993</persname>
+            </origination>
+        </did>
+        <prefercite id="ref55">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Vasyl' and Liudmyla Serdiuk Papers; box number; folder number; Ukrainian Historical and Educational Center Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <arrangement id="ref57">
+            <head>Arrangement</head>
+            <p>The collection is arranged into seven series as follows:</p>
+            <list numeration="arabic" type="ordered">
+                <item>
+                    <ref target="ref29">Correspondence</ref></item>
+                <item>
+                    <ref target="ref6">Theater and concert programs, ephemera</ref></item>
+                <item>
+                    <ref target="ref30">L. Serdiuk materials</ref></item>
+                <item>
+                    <ref target="ref31">Documents</ref></item>
+                <item>
+                    <ref target="ref25">Periodical articles</ref></item>
+                <item>
+                    <ref target="ref28">Third-party material</ref></item>
+                <item>
+                    <ref target="ref2">Photographs</ref></item>
+            </list>
+        </arrangement>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>The Vasy'l and Liudmyla Serdiuk Papers contain material relating to their lives in Western Ukraine, Germany, and the United States. As professional actors and directors, the collection has extensive material related to the Ukrainian and Ukrainian-American theater. This includes correspondence with other actors and directors, originals and photocopies of theater programs from pre-WWII Western Ukraine, post-war Germany, and the USA, correspondence related to the publication of the periodical "Holos Aktora" ("Voice of the Actor"), and a substantial number of photographs of theater people and theatrical productions in pre-war Western Ukraine and the USA after the war.</p>
+            <p>In addition, the Serdiuks were very active members of the St. George Ukrainian Orthodox parish in Yardville, NJ, and the collection includes a large number of photographs documenting parish life in the 1970s and '80s.</p>
+        </scopecontent>
+        <bioghist id="ref54">
+            <head>Biographical/Historical note</head>
+            <p>Vasyl' and Liudmyla (or Ludmila) Serdiuk were actors in Ukrainian theater companies in L'viv and other Ukrainian areas of the inter-War Polish Republic. Liudmyla was born Liudmyla Targoni on May 6, 1899 in the village of Nimovychi, Volyn' region of Ukraine to Antin and Mokryna Targoni. In 1924 she began acting in various touring theater companies, including "Emihrant", "Zahrava" and the "I. Kotliarevs'kyi Theater". Vasyl' Serdiuk was born in 1900. He fought in the Ukrainian War of Independence, after which he became an actor and theater director in Western Ukraine. Vasyl' and Liudmyla married in 1928. By 1939 Liudmyla was acting in resident theater companies in L'viv, including the Lesia Ukrainka Dramatic Theater and the L'viv Opera Theater, where her husband was a director. They emigrated to the USA in 1949 via German DP camps and settled in Trenton, NJ. They continued to be active as actors and directors of professional and amature Ukrainian-American theater groups, including the "Teatral'na Studia Molodi" in Trenton and "Teatr u Piatnytsiu" in Philadelphia, and as members of the Association of Ukrainian Theatre Artists ("Obiednannia Mysttsiv Ukrains'koi Stseny"). The Serdiuks were also very active in the St. George Ukrainian Orthodox Church in Yardville, NJ and in the Ukrainian-American community. Liudmyla died on July 13, 1984, and Vasyl' died on September 11, 1993.</p>
+        </bioghist>
+        <accessrestrict id="ref59">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for researcher use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <userestrict id="ref60">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <controlaccess>
+            <persname source="naf">Blavat͡sʹkyĭ, Volodymyr, 1900-1953</persname>
+            <genreform source="yabelgft">Theater programs</genreform>
+            <subject source="lcsh">Theater--Ukraine--L'viv</subject>
+            <subject source="lcsh">Ukrainian American churches--New Jersey--Yardville</subject>
+            <subject source="lcsh">Ukrainian American theater</subject>
+            <subject source="lcsh">Ukrainian-Americans--New Jersey--Trenton</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref29" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>Series 1. </unitid>
+                    <physdesc>
+                        <extent>3 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1956/1987" type="inclusive">1956-1987</unitdate>
+                </did>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Personal correspondence</unittitle>
+                        <container id="cid96001" type="Box" label="Paper documents">1</container>
+                        <container parent="cid96001" type="Folder">1</container>
+                        <unitdate normal="1956/1985" type="inclusive">1956-1985</unitdate>
+                    </did>
+                    <arrangement id="ref23">
+                        <head>Arrangement</head>
+                        <p>Sorted by surname of correspondent using English transliteration sort order. Illegible or unknown surnames are at the end of folder.</p>
+                    </arrangement>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with Julia and Mykhailo Dobosh, Ivan Kernyts'kyi ("Iker"), Luka Leus, Syl'vestr Milyanskyi (Mylyans'kyi), Vasyl' Nadraga, Bohdan Pasdreyi, Leonid Poltava, Mykhailo Sadovsky, Hanna and Petro Samutyn, Halyna Shembel', Mikoła Siwicki, V. Stechyshyn, Liubov and Roman Tymchuk, Vasyl' Veryha and other unidentified individuals.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Postcards</unittitle>
+                        <container id="cid96002" type="Box" label="Paper documents">1</container>
+                        <container parent="cid96002" type="Folder">2</container>
+                        <unitdate normal="1963/1987" type="inclusive">1963-1987</unitdate>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents</head>
+                        <p>Postcards sent from Europe, Canada and USA from Jurii Levyts'kyi and other unidentified individuals. Also includes third-party postcards: one sent to Pavlo Shandruk, and one sent by Abp. Mstyslav from Greece to Fr. F. Kulchynskyi.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref3" level="file">
+                    <did>
+                        <unittitle>Association of Ukrainian Theatre Artists correspondence</unittitle>
+                        <container id="cid96003" type="Box" label="Paper documents">1</container>
+                        <container parent="cid96003" type="Folder">3</container>
+                        <unitdate normal="1971/1974" type="bulk">Bulk, 1971-1974</unitdate>
+                        <unitdate normal="1968/1983" type="inclusive">1968-1983</unitdate>
+                    </did>
+                    <arrangement id="ref4">
+                        <head>Arrangement</head>
+                        <p>Items are arranged by date, except for items grouped together by creator (which are arranged by date of initial item). Undated material is at the end of the file.</p>
+                    </arrangement>
+                    <scopecontent id="ref5">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence related to the administration of the Association of Ukrainian Theatre Artists (OMUS, Ukrainian: Об'єднання Мистців Української Сцени - ОМУС). Appears to be third-party material belonging to Iurii Kononiv of Irvington, NJ, which was likely transferred to the Serdiuks in the 1980s. Correspondence with Leonid Poltava, Eryna Harasovs'ka, N. Osadcha-Yanata, Khrystyna and Bohdan Kul'chyts'ki, Vasy' and Ludmyla Serdiuk, Oleh [surname unknown], Slavko K. [surname unknown], Yevhen Kurylo, Volodymyr Shasharovskyi, Mr. and Mrs. Sokhanivs'ki, and others with illegible signatures. Registration list for the Convention of Workers of the Ukrainian Stage (Зїзд Працівників Української Сцени), May 29-31 1971. Biographical notes about Ukrainian actors.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Theater and concert programs, ephemera</unittitle>
+                    <unitid>Series 2. </unitid>
+                    <container id="cid96004" type="Box" label="Paper documents">1</container>
+                    <container parent="cid96004" type="Folder">4</container>
+                    <physdesc>
+                        <extent>1 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1935/1983" type="inclusive">1935-1983</unitdate>
+                </did>
+                <scopecontent id="ref36">
+                    <head>Scope and Contents</head>
+                    <p>Originals and photocopies of programs, flyers, posters and brochures for concerts, theatrical productions, and community events. Earliest original item is from Germany (1945/46 theatrical season).</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref30" level="series">
+                <did>
+                    <unittitle>L. Serdiuk materials</unittitle>
+                    <unitid>Series 3. </unitid>
+                    <container id="cid96005" type="Box" label="Paper documents">1</container>
+                    <container parent="cid96005" type="Folder">5</container>
+                    <physdesc>
+                        <extent>1 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1963/1985" type="inclusive">1963-1985</unitdate>
+                </did>
+                <scopecontent id="ref37">
+                    <head>Scope and Contents</head>
+                    <p>Photocopies and originals of correspondence and documents related to L. Serdiuk's 80th birthday celebration. Obituaries of L. Serdiuk.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref31" level="series">
+                <did>
+                    <unittitle>Documents</unittitle>
+                    <unitid>Series 4. </unitid>
+                    <container id="cid127001" type="Oversize" label="Text">1</container>
+                    <container id="cid96006" type="Box" label="Paper documents">1</container>
+                    <container parent="cid96006" type="Folder">6</container>
+                    <physdesc>
+                        <extent>1 folder</extent>
+                    </physdesc>
+                    <unitdate>1945 - Circa 1985</unitdate>
+                </did>
+                <scopecontent id="ref38">
+                    <head>Scope and Contents</head>
+                    <p>Photocopies of DP-era personal documents. Death announcement poster for Volodymyr Blavatsky. Receipts and award certificates.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref25" level="series">
+                <did>
+                    <unittitle>Periodical articles</unittitle>
+                    <unitid>Series 5. </unitid>
+                    <physdesc>
+                        <extent>4 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1924/1983" type="inclusive">1924-1983</unitdate>
+                </did>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Typed copies of newspaper articles</unittitle>
+                        <container id="cid96008" type="Box" label="Paper documents">1</container>
+                        <container parent="cid96008" type="Folder">7</container>
+                        <unitdate normal="1924/1930" type="inclusive">1924-1930</unitdate>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents</head>
+                        <p>Typewritten copies of articles from Western Ukrainian periodicals, including Театральне Мистецтво and Новий Час. It is not clear when or by whom these copies were made.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings</unittitle>
+                        <container id="cid96007" type="Box" label="Paper documents">1</container>
+                        <container parent="cid96007" type="Folder">8</container>
+                        <unitdate normal="1960/1983" type="inclusive">1960-1983</unitdate>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents</head>
+                        <p>Clippings from publications of the Association of Ukrainian Theatre Artists.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Holos Aktora</unittitle>
+                        <container id="cid96009" type="Box" label="Paper documents">1</container>
+                        <container parent="cid96009" type="Folder">9</container>
+                        <unitdate normal="1973/1979" type="inclusive">1973-1979</unitdate>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Contents</head>
+                        <p>Four issues of "Holos Aktora" (The Voice of the Actor) published by the Association of Ukrainian Theatre Artists: February 1973, April 1974, May 1977, and September 1979.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Typescripts and photocopies</unittitle>
+                        <container id="cid96010" type="Box" label="Paper documents">1</container>
+                        <container parent="cid96010" type="Folder">10</container>
+                        <unitdate>Circa 1930 - Circa 1980</unitdate>
+                    </did>
+                    <scopecontent id="ref40">
+                        <head>Scope and Contents</head>
+                        <p>Typescript "Перший З'їзд Еміграції УНР" by V. Serdiuk. Photocopies of articles and photographs from 1930s L'viv.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref28" level="series">
+                <did>
+                    <unittitle>Third-party material</unittitle>
+                    <unitid>Series 6. </unitid>
+                    <physdesc>
+                        <extent>2 folders</extent>
+                    </physdesc>
+                </did>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Volodymyr Blavatskyi manuscript</unittitle>
+                        <container id="cid96011" type="Box" label="Paper documents">1</container>
+                        <container parent="cid96011" type="Folder">11</container>
+                    </did>
+                    <scopecontent id="ref41">
+                        <head>Scope and Contents</head>
+                        <p>Photocopy of an untitled and undated manuscript attributed on the basis of handwriting to V. Blavatskyi. Contains 49 pages of typescript and 79 pages of autograph.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Writings and correspondence</unittitle>
+                        <container id="cid96012" type="Box" label="Paper documents">1</container>
+                        <container parent="cid96012" type="Folder">12</container>
+                        <unitdate normal="1942/1967" type="inclusive">1942-1967</unitdate>
+                    </did>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents</head>
+                        <p>Article "Про 'Рідну Атмосферу' і інші справи" by Oleh Lysiak. Letter from Sofia Stadnytska to Klavdia Kempe-Hosh (1959). Letter from Volodymyr Blavatskyi to O. Lysiak (1948, Regensburg). Photocopies of 2 letters from K. Hukalo to V. Blavatskyi (1942, Kyiv). Other writings of unknown authorship. Correspondence from Mykola Chebotariv to Iakiv Tantsiura (1966-1967).</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>Series 7. </unitid>
+                    <physdesc>
+                        <extent>9 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1927/1988" type="inclusive">1927-1988</unitdate>
+                </did>
+                <scopecontent id="ref44">
+                    <head>Scope and Contents</head>
+                    <p>Most photographs are labeled on the reverse with the location, date and individuals present in the image.</p>
+                </scopecontent>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Western Ukraine</unittitle>
+                        <container id="cid97001" type="Box" label="Paper documents">2</container>
+                        <container parent="cid97001" type="Folder">1</container>
+                        <unitdate>Circa 1930 - 1944</unitdate>
+                    </did>
+                    <scopecontent id="ref45">
+                        <head>Scope and Contents</head>
+                        <p>35 photographs, primarily snapshots and posed photographs of groups of actors involved in the theater community of L'viv and surrounding areas, both in the city and engaged in recreational activites in the countryside. Photographs of members of the L'viv Ukrainian Literary and Artistic Club (Український Літературно-Мистецький Клюб).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Poland and Germany</unittitle>
+                        <container id="cid97003" type="Box" label="Paper documents">2</container>
+                        <container parent="cid97003" type="Folder">2</container>
+                        <unitdate>1944, 1948</unitdate>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents</head>
+                        <p>16 photographs of individuals and street scenes in Oppeln, Germany (now Opole, Poland). Three group photographs of the students of the Motor-Mechanic School at the IRO Training Center (Arolsen, Germany).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Trenton NJ</unittitle>
+                        <container id="cid97008" type="Box" label="Paper documents">2</container>
+                        <container parent="cid97008" type="Folder">3</container>
+                        <unitdate normal="1953/1986" type="inclusive">1953-1986</unitdate>
+                    </did>
+                    <scopecontent id="ref47">
+                        <head>Scope and Contents</head>
+                        <p>13 photographs of the Serdiuks and others, and group photographs from St. George's Parish when it was still located in Trenton. Two photographs from an amateur production of Na Ruiinakh (Lesia Ukraiinka).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>Chercha, Cream Ridge NJ</unittitle>
+                        <container id="cid97004" type="Box" label="Paper documents">2</container>
+                        <container parent="cid97004" type="Folder">4</container>
+                        <unitdate normal="1955/1972" type="inclusive">1955-1972</unitdate>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents</head>
+                        <p>47 photographs of the the Serdiuks and others at their home in Cream Ridge NJ.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>St. George's Parish, Yardville NJ</unittitle>
+                        <container id="cid97005" type="Box" label="Paper documents">2</container>
+                        <container parent="cid97005" type="Folder">5</container>
+                        <unitdate normal="1979/1988" type="inclusive">1979-1988</unitdate>
+                    </did>
+                    <scopecontent id="ref50">
+                        <head>Scope and Contents</head>
+                        <p>116 photographs of buildings, individuals, groups, church services and events at the Ukrainian Orthodox parish in Yardville NJ.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Association of Ukrainian Theatre Artists</unittitle>
+                        <container id="cid97007" type="Box" label="Paper documents">2</container>
+                        <container parent="cid97007" type="Folder">6</container>
+                        <unitdate normal="1971/1986" type="inclusive">1971-1986</unitdate>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents</head>
+                        <p>13 photographs of groups and events, and 16 original photographs and photocopies of photographs of members of the Association of Ukrainian Theatre Artists.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Theatrical productions (Poland, Ukraine, and Germany)</unittitle>
+                        <container id="cid97002" type="Box" label="Paper documents">2</container>
+                        <container parent="cid97002" type="Folder">7</container>
+                        <unitdate>1927 - later 1940s, 1930-1940 bulk</unitdate>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents</head>
+                        <p>40 photographs of productions by the Zahrava Theater, the L'viv Opera Theater, the Tobilevych Theater, the Emihrant Theater, and others. Many are original images, while others appear to be later photographic reproductions. Notations on the reverse of some of the reproductions are in the handwriting of Jurii Levyts'kyi.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Theatrical productions (North America)</unittitle>
+                        <container id="cid97006" type="Box" label="Paper documents">2</container>
+                        <container parent="cid97006" type="Folder">8</container>
+                        <unitdate normal="1946/1971" type="inclusive">1946-1971</unitdate>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents</head>
+                        <p>15 photographs of productions by Teatr u Piatnytsiu (Philadelphia PA), Studia Mystets'koho Slova (New York NY), an unidentified theater company in Toronto, and others.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Community events</unittitle>
+                        <container id="cid97009" type="Box" label="Paper documents">2</container>
+                        <container parent="cid97009" type="Folder">9</container>
+                        <unitdate normal="1953/1986" type="inclusive">1953-1986</unitdate>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents</head>
+                        <p>65 photographs of various individuals, Ukrainian-American community events, the 1967 Parma OH Sobor of the UOC of USA, choir and orchestra of the Ukrainian-language elementary school in Detroit MI, and of the funerals of Maksym Skorups'kyi, Bohdan Dubyk, L. Lepkyi, Pavlo Shandruk, Volodymyr Karpiak, and Volodymyr Blavats'kyi.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

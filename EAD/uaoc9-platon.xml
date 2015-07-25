@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the papers of Bishop Platon
+                    <num>uaoc.9</num>
+                </titleproper>
+                <titleproper type="filing">Bishop Platon Papers</titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+                <date>12-19-2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-01-13T10:49-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Bishop Platon Papers</unittitle>
+            <unitid>uaoc.9</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="ukr"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.7 Linear feet</extent>
+                <extent>7 boxes</extent>
+            </physdesc>
+            <unitdate normal="1942/1951" type="inclusive">1942-1951</unitdate>
+            <langmaterial id="ref3" label="Language of Materials note">Primarily Ukrainian, but also German, English, and Belarusian.</langmaterial>
+            <abstract id="ref175" label="Abstract">This collection contains material relating to the rebirth of the Ukrainian Autocephalous Orthodox Church in Nazi-occupied Ukraine and its continued existence in exile in post-war Germany.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Platon, Bishop of Rivne, 1891-1951</persname>
+            </origination>
+        </did>
+        <processinfo id="ref174">
+            <head>Processing Information</head>
+            <p>In principle, this collection would be more properly broken into two and named something like "Ukrainian Autocephalous Orthodox Church Records. Rivne Eparchy. Bishop (1942-1943 : Platon)" and "Ukrainian Autocephalous Orthodox Church Records. Synod of Bishops. Secretary (1944-1951 : Platon)". However, Platon had no predecessor or successor in either of these positions. Therefore, we have chosen to group them together as a single personal collection, even though much of the material is administrative in nature. Given this, it was not clear where to demarcate the boundary between the Platon's papers as Secretary of the Synod of Bishops and the Administrative Records of the UAOC. We have made the decision to include in this collection those materials with which Bishop Platon appears to have had direct involvement based on internal evidence.</p>
+        </processinfo>
+        <scopecontent id="ref120">
+            <head>Scope and Contents</head>
+            <p>The Bishop Platon Papers contain material relating to the rebirth of the Ukrainian Autocephalous Orthodox Church in Nazi-occupied Ukraine and its continued existence in exile in post-war Germany. The material includes records and correspondence related to the administration of the UAOC, UAOC bishops' council (Sobor) meeting minutes and related documents, records and correspondence pertaining to refugee relief and resettlement, and extensive correspondence with other UAOC hierarchs. These provide a window into the difficulties faced by Ukrainian refugees in post-war Germany and the efforts of the Church to minister to its faithful and deal with the internal conflicts that arose in that unstable time. In addition, this collection contains important information of genealogical interest in the form of employment records and relief aid distribution reports.</p>
+        </scopecontent>
+        <arrangement id="ref123">
+            <head>Arrangement</head>
+            <p>The collection is arranged in two subcollections: documents dating to his time as Bishop of Rivne, and documents from his period of exile. Within these subcollections, the material is arranged in 7 series as follows.</p>
+            <list type="ordered">
+                <head>Subcollection I: Ukraine</head>
+                <item>
+                    <ref target="ref12">Notifications to clergy</ref></item>
+                <item>
+                    <ref target="ref15">Circulars</ref></item>
+                <item>
+                    <ref target="ref18">Correspondence</ref></item>
+            </list>
+            <list numeration="upperalpha" type="ordered">
+                <head>Subcollection II: Germany and Canada</head>
+                <item>
+                    <ref target="ref28">UAOC Records</ref></item>
+                <item>
+                    <ref target="ref47">UAOC Sobors and Conferences</ref></item>
+                <item>
+                    <ref target="ref27">Correspondence</ref></item>
+                <item>
+                    <ref target="ref32">Subject Files</ref></item>
+            </list>
+        </arrangement>
+        <relatedmaterial id="ref172">
+            <head>Related Archival Materials</head>
+            <p>This collection has considerable overlap with the collections of the other UAOC hierarchs. In addition, the demarcation between this collection and the UAOC Administrative Records Collection is unclear, and interested researchers are urged to consult that collection as well. For an "opposing viewpoint" on the Conciliar schism, see the Fr. Petro Stel'makh Papers.</p>
+        </relatedmaterial>
+        <accessrestrict id="ref171">
+            <head>Conditions Governing Access</head>
+            <p>Access and use of this collection may be subject to restrictions. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <custodhist id="ref122">
+            <head>Custodial History</head>
+            <p>Part of the collection of UAOC records kept by Metr. Nikanor. Obtained by the UOC of USA upon Nikanor's death. It is not clear how the material dating to his time in Canada immediately prior to his death ended up as part of this collection.</p>
+        </custodhist>
+        <bioghist id="ref119">
+            <head>Biographical/Historical note</head>
+            <p>Bishop Platon (born Platon Artemiuk) was a hierarch of the Ukrainian Autocephalous Orthodox Church, and served as the Secretary of that Church's Synod of Bishops during post-war exile in Germany. He was born on December 18, 1891 in the village of Nosov, Bilo-Pidlas'kyi county in the Kholm region of Ukraine. He completed the Bilo-Pidlas'kyi Teacher's Seminary in 1910 and worked as a teacher for 3 years before entering the Teacher's Institue in Vilnius, which he completed in 1916. He was ordained a priest on March 15, 1936 by Metr. Oleksii (Hromads'kyi) and assigned to the parish in the village of Novostavtsi in the Rivne area of Volyn'. He was ordained as the UAOC bishop of Rivne on August 2, 1942 in Kyiv. Left Rivne for Warsaw as a refugee on January 14, 1944, and was appointed Secretary of the Synod of Bishops of the UAOC by the Warsaw Sobor. He remained Secretary of the Synod in Germany throughout the DP era. He resettled in Toronto, Canada in 1951, where he died in the same year.</p>
+        </bioghist>
+        <userestrict id="ref176">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <controlaccess>
+            <subject source="lcsh">Refugee camps--Germany </subject>
+            <subject source="lcsh">Ukraine--History--German occupation, 1941-1944--Sources</subject>
+            <subject source="lcsh">Ukraïnsʹka avtokefalʹna pravoslavna t︠s︡erkva--Germany</subject>
+            <subject source="lcsh">Ukraïnsʹka avtokefalʹna pravoslavna t︠s︡erkva--Ukraine--Volhynia</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="subgrp">
+                <did>
+                    <unittitle>Ukraine</unittitle>
+                    <unitid>Subcollection I: </unitid>
+                    <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+                </did>
+                <c02 id="ref12" level="series">
+                    <did>
+                        <unittitle>Notifications to clergy</unittitle>
+                        <unitid>Series 1. </unitid>
+                        <container id="cid112001" type="Box" label="Text">1</container>
+                        <container parent="cid112001" type="Folder">1</container>
+                        <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Handwritten drafts and typescripts of notifications sent to clergy in the Rivne eparchy.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref15" level="series">
+                    <did>
+                        <unittitle>Circulars</unittitle>
+                        <unitid>Series 2. </unitid>
+                        <container id="cid112002" type="Box" label="Text">1</container>
+                        <container parent="cid112002" type="Folder">2</container>
+                        <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="series">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <unitid>Series 3. </unitid>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+                    </did>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>General correspondence</unittitle>
+                            <container id="cid112003" type="Box" label="Text">1</container>
+                            <container parent="cid112003" type="Folder">3</container>
+                            <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+                        </did>
+                        <scopecontent id="ref20">
+                            <head>Scope and Contents</head>
+                            <p>Includes requests from clergy to join the UAOC and matters regarding monasteries in the Rivne diocese, including allegations of the theft of church property.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>Sobor of the Resurrection</unittitle>
+                            <container id="cid112004" type="Box" label="Text">1</container>
+                            <container parent="cid112004" type="Folder">4</container>
+                            <unitdate>1942</unitdate>
+                        </did>
+                        <scopecontent id="ref23">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence and documents related to the sharing of the Sobor of the Resurrection in Rivne between the Autocaphalous and Autonomous factions. Petition signed by approx. 1000 parishoners of the Sobor requesting to join the UAOC.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Regarding Bp. Fotii (Tymoshchuk)</unittitle>
+                            <container id="cid109001" type="Box" label="Text">1</container>
+                            <container parent="cid109001" type="Folder">5</container>
+                            <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+                        </did>
+                        <scopecontent id="ref125">
+                            <head>Scope and Contents</head>
+                            <p>Correpondence with Metr. Polikarp, the Nazi occupational authorities, and others regarding Bp. Fotii.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref10" level="subgrp">
+                <did>
+                    <unittitle>Germany and Canada</unittitle>
+                    <unitid>Subcollection II: </unitid>
+                    <unitdate normal="1946/1951" type="inclusive">1946-1951</unitdate>
+                </did>
+                <c02 id="ref28" level="series">
+                    <did>
+                        <unittitle>UAOC Records</unittitle>
+                        <unitid>Series 1. </unitid>
+                        <physdesc>
+                            <extent>5 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate>
+                    </did>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>Employment certificates</unittitle>
+                            <container id="cid112005" type="Box" label="Text">1</container>
+                            <container parent="cid112005" type="Folder">6</container>
+                            <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate>
+                        </did>
+                        <scopecontent id="ref31">
+                            <head>Scope and Contents</head>
+                            <p>Records of applications for official credentials by clergy, choir directors, cantors, parish board members and others in the employ of the UAOC. Correspondece with clergy seeking to join the UAOC. Autobiographical information. Passport-style photographs.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref159" level="file">
+                        <did>
+                            <unittitle>Clergy and parish information</unittitle>
+                            <container id="cid111005" type="Box" label="Text">1</container>
+                            <container parent="cid111005" type="Folder">7</container>
+                            <unitdate normal="1946/1951" type="inclusive">1946-1951</unitdate>
+                        </did>
+                        <scopecontent id="ref161">
+                            <head>Scope and Contents</head>
+                            <p>Parish information forms for Germany and Austria. Clergy information forms for clergy who emigrated from Germany with information about where they settled.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>Baptism, matrimonial and divorce records</unittitle>
+                            <container id="cid112006" type="Box" label="Text">1</container>
+                            <container parent="cid112006" type="Folder">8</container>
+                            <unitdate normal="1945/1950" type="inclusive">1945-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref35">
+                            <head>Scope and Contents</head>
+                            <p>Baptism (1946-1950) and pre-matrimonial statement (1946-1950) records from the Stuttgart-Zuffenhausen DP camp. Baptism (1946-1948) and matrimony (1946-1950) records from Ulm DP camp. Baptism records from Esslingen (?) or from Baden-Württemberg in general (?) (1945-1947). Statements by converts to Orthodoxy. Depositions regarding baptism and marraiges. Divorce cases.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>Refugee aid (American Zone)</unittitle>
+                            <container id="cid111004" type="Box" label="Text">1</container>
+                            <container parent="cid111004" type="Folder">9</container>
+                            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref139">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence with and reports to the World Council of Churches Refugee Division. UAOC clergy directories and aid distribution reports. Correspondence with and reports from clergy.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref168" level="file">
+                        <did>
+                            <unittitle>Refugee resettlement</unittitle>
+                            <container id="cid111008" type="Box" label="Text">2</container>
+                            <container parent="cid111008" type="Folder">1</container>
+                            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref170">
+                            <head>Scope and Contents</head>
+                            <p>Primarily correspondence with and reports from Fr. Mykola Laszczuk in Dillingen, who served as a representative of the UAOC with the refugee division of the World Council of Churches. Also correspondence with UAOC British Zone administration, United Ukrainian American Relief Committee, Fr. Ivan Perelaznyi, Semen Veremchuk, Leontii Starostenko, Fr. Terentii Havryk, Fr. Shevchuk, Fr. Leonid Dolyns'kyi, Fr. Mykola Kharishchak, Fr. Ilarii Zhukovs'kyi, Fr. V. Umanets', Fr. Aleksander Tsyhaniuk, Bp. Hennadij, Abp. Ihor, and others with illegible signatures. Lists of clergy wishing to emigrate. Extensive lists (arranged by DP Camp) of non-Church individuals wishing to emigrate via Church World Service or ZUDAK, with birthdates and occupations.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref47" level="series">
+                    <did>
+                        <unittitle>UAOC Sobors and Conferences</unittitle>
+                        <unitid>Series 2. </unitid>
+                        <physdesc>
+                            <extent>14 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1946/1949" type="inclusive">1946-1949</unitdate>
+                    </did>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>Regensburg All-Church Conference</unittitle>
+                            <container id="cid112007" type="Box" label="Text">2</container>
+                            <container parent="cid112007" type="Folder">2</container>
+                            <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+                        </did>
+                        <scopecontent id="ref50">
+                            <head>Scope and Contents</head>
+                            <p>Material related to the preparation for and organization of the All-Church Conference which took place in Regensburg on 25-27 December 1947. Invitation letters to organizations. Delegate list. Minutes of organization meeting. Correspondence with hierarchs Ihor, Volodymyr, Hennadii, Nikanor, Fr. F. Kul'chynevs'kyi, Fr. Iakovlevych, M. Holobenko, Ievhen Tyravskyi, and Ivan Vlasovs'kyi. Minutes of the Conference itself. Manuscripts of lectures presented at the Conference. Letters of greeting from Bp. Aleksander, Mykhailo Omelianovych, Mykhailo Hikavyi, and the Ukrains'ke Khrystyians'ke Obiednannia IMKA-IVKA.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Minutes of Sobors of Bishops</unittitle>
+                            <container id="cid112008" type="Box" label="Text">2</container>
+                            <container parent="cid112008" type="Folder">3-4</container>
+                            <physdesc>
+                                <extent>2 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1946/1949" type="inclusive">1946-1949</unitdate>
+                        </did>
+                        <scopecontent id="ref53">
+                            <head>Scope and Contents</head>
+                            <p>Original signed minutes of meetings of the Sobor of Bishops. Encyclicals. Parish bylaws. Syllibi for religious instruction in elementary schools and Gymnasia. Minutes of meetings of March 14-17, 1946 (Esslingen), June 14-17, 1946 (Esslingen), August 23-26, 1946 (Munich), November 19-23, 1946 (Kornberg), May 10-15, 1947 (Munich), August 5-8, 1947 (Mainz-Kastel), October 21-24, 1947 (extraordinary meeting in Aschaffenburg), April 15-17 and 19-20, 1948 (Augsburg), November 12-14, 1948 (Ellwangen), June 15-17, 1949 (Munich), and November 1-5, 1949 (Dillingen).</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref54" level="subseries">
+                        <did>
+                            <unittitle>Addenda to Minutes of Sobor of Bishops</unittitle>
+                            <physdesc>
+                                <extent>11 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1946/1949" type="inclusive">1946-1949</unitdate>
+                        </did>
+                        <c04 id="ref55" level="file">
+                            <did>
+                                <unittitle>Esslingen, March 1946</unittitle>
+                                <container id="cid112009" type="Box" label="Text">2</container>
+                                <container parent="cid112009" type="Folder">5</container>
+                            </did>
+                            <scopecontent id="ref65">
+                                <head>Scope and Contents</head>
+                                <p>Correspondence with Bp. Viacheslav, Bp. Serhii, Bp. Sylvestr, Abp. Hennadii, Abp. Nikanor, Abp. Ihor, I. Harashchenko, P. Kovaliv, Korovyts'kyi (?), Levkovych (?). Encyclical from UAOC hierarchs to all other Orthodox Churches. Text of address by Metr. Polikarp to the Sobor of Bishops. Temporary bylaws of the UAOC. Manuscripts of lectures (?).</p>
+                            </scopecontent>
+                        </c04>
+                        <c04 id="ref56" level="file">
+                            <did>
+                                <unittitle>Munich, August 1946</unittitle>
+                                <container id="cid112010" type="Box" label="Text">2</container>
+                                <container parent="cid112010" type="Folder">6</container>
+                            </did>
+                            <scopecontent id="ref67">
+                                <head>Scope and Contents</head>
+                                <p>Program of the Sobor. Letter from Belarusian Autocephalous Orthodox Church. Correspondence from Abp. Hennadii, Abp. Ihor, Bp. Volodymyr, Bp. Syl'vestr, Fr. Demyd Burko, Fr. Nykola Voiakovsky (Ukrainian Catholic Apostolic Visitator), Antokhii (?), and individuals with illegible signatures. Drafts of syllibi for religious education in gymnasia. Draft of letter to General Secretary of the UN. Handwritten draft of Church bylaws. Financial statement. Petition from Ellwangen parish regarding the mis-behavior of Bp. Syl'vestr. Bylaws of the "Trudova Hromada" ("Work Community") of the Ukrainian Orthodox Church in Regensburg.</p>
+                            </scopecontent>
+                        </c04>
+                        <c04 id="ref57" level="file">
+                            <did>
+                                <unittitle>Kornberg, November 1946</unittitle>
+                                <container id="cid112011" type="Box" label="Text">2</container>
+                                <container parent="cid112011" type="Folder">7</container>
+                            </did>
+                            <scopecontent id="ref69">
+                                <head>Scope and Contents</head>
+                                <p>Draft program of the Sobor. Bylaws of the "Ukrains'koho Pravoslavnoho Bratstva Myloserdia". Correspondence with Ivan Vlasovskyi regarding the Scientific-Theological Institute. Correspondence with, and minutes of meetings of the Ukrains'koho Natsional'no-Derzhavnoho Soiuzu. Correspondence with Bp. Viacheslav, Bp. Volodymyr, Abp. Palladii, Abp. Nikanor, Fr. Nikola Voiakovs'kyi, A. Bilous, Vasyl' Bozhko, I. Iaroslavs'kyi (Buenos Aires). Draft of press release.</p>
+                            </scopecontent>
+                        </c04>
+                        <c04 id="ref58" level="file">
+                            <did>
+                                <unittitle>Munich, May 1947</unittitle>
+                                <container id="cid112012" type="Box" label="Text">2</container>
+                                <container parent="cid112012" type="Folder">8</container>
+                            </did>
+                            <scopecontent id="ref71">
+                                <head>Scope and Contents</head>
+                                <p>Draft of Sobor program. Handwritten report on the activities of the Synod during 1946. Financial and budget reports. Petition to Metr. Polikap. Petition to the Sobor from the Conciliarist "Initiative Group" (I. Harashchenko). Correspondence with Bp. Mstyslav, Bp. Viacheslav, Bp. Syl'vestr, Prof. Palyvoda (Ukrainian Central Aid Committee). Press release. Correspondence with Pro Una Sancta Ecclesia (Munich).</p>
+                            </scopecontent>
+                            <processinfo id="ref86">
+                                <head>Processing Information</head>
+                                <p>Contains three files, two of which were clearly labeled as being associated with the Munich Sobor, while the third has been attributed to this session based on the dates of the items.</p>
+                            </processinfo>
+                        </c04>
+                        <c04 id="ref83" level="file">
+                            <did>
+                                <unittitle>Mainz-Kastel, August 1947</unittitle>
+                                <container id="cid112013" type="Box" label="Text">2</container>
+                                <container parent="cid112013" type="Folder">9</container>
+                            </did>
+                            <scopecontent id="ref89">
+                                <head>Scope and Contents</head>
+                                <p>Sobor program. Petition from clergy of the Hanover region. Minutes of the meeting of the clergy of the Hanover region. Copies of excerpts of the minutes of meettings of UAOC bishops in Mannheim (August 1945), Bad Kissingen (July 1945), and Munich (November 1945). Correspondence with Metr. Polikarp, Abp. Ioann, Abp. Mykhail, Bp. Hryhorii, Fr. Tyt Iakovkevych, Fr. Ol. Popivs'kyi, Fr. Dmytro Fokii, Fr. Nykolai Voiakovs'kyi, Fr. Mytrofan Iatsuna, Fr. Diatelovych, M. Mukha, M Nenashiv, and others with illegible signatures. Invitation from the Ukrainian Central Aid Committee to attend the May 1947 Convention. Instructions for church elders. Bylaws of the Ukrainian Orthodox Brotherhood of Mercy. Ukrainian DP camp newspaper, Somme-Kaserne, August 2, 1947.</p>
+                            </scopecontent>
+                            <processinfo id="ref88">
+                                <head>Processing Information</head>
+                                <p>This file was originally arranged as part of Addenda to Sobors of Bishops, but not labeled with the session. It has been attributed to the Mainz-Kastel session based on internal evidence.</p>
+                            </processinfo>
+                        </c04>
+                        <c04 id="ref59" level="file">
+                            <did>
+                                <unittitle>Aschaffenburg, October 1947</unittitle>
+                                <container id="cid112015" type="Box" label="Text">2</container>
+                                <container parent="cid112015" type="Folder">10</container>
+                                <container id="cid112014" type="Box" label="Text">3</container>
+                                <container parent="cid112014" type="Folder">1</container>
+                                <physdesc>
+                                    <extent>2 folders</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent id="ref73">
+                                <head>Scope and Contents</head>
+                                <p>Draft of Sobor program. Drafts of letters by Bp. Platon. Correspondence with P. Kovaliv and Abp. Mykhail regarding the Theological-Scientific Academy. Minutes of the meeting of the Senate and Council of Professors of the Academy. Correspondence with Bp. Volodymyr regarding the Theological-Pedagogical Academy and other matters. Correspondece with Metr. Polikarp, Metr. Ilarion, Abp. Hennadii, Abp. Nikanor, Abp. Ihor, Abp. Palladii, Bp. Syl'vestr, Bp. Viacheslav, Fr. Illia Nahirniak, Fr. Perelaznyi, Fr. Petro Stel'makh, Fr. M. Iatsun, Fr. Demyd Burko, Fr. K. Danylavs'kyi, Fr. Semen Haiuk, I. Bakalo, I. Harashchenko, Dmytro Shulika, the "Bat'kivs'kyi Komitet" ("Parent's Committee") in Ellwangen, the Sanitary Charitable Service, Union of Ukrainian Invalids, the Ukrainian Orthodox parish in Bayreuth, and others with illegible signatures. Petitions from parishoners at Mainz-Kastel, Somme Kaserne, Regensburg, Lyssenko Camp in Hanover, Dillingen, and others. Minutes of meeting of the Brotherhood of St. Volodymyr (Augsburg). Correspondence from the office of the Secretary of the Synod (A. Teodorovych, secretary).</p>
+                            </scopecontent>
+                        </c04>
+                        <c04 id="ref60" level="file">
+                            <did>
+                                <unittitle>Augsburg, April 1948</unittitle>
+                                <container id="cid113001" type="Box" label="Text">3</container>
+                                <container parent="cid113001" type="Folder">2</container>
+                            </did>
+                            <scopecontent id="ref75">
+                                <head>Scope and Contents</head>
+                                <p>Sobor program. Opening address by Metr. Polikarp. Handwritten manuscript of report on Synodal activities for 1947. Report from Bp. Serhii. Requests for clerical awards by Bps. Volodymyr and Viacheslav. Parish list and meeting minutes for the Greater Hessen region. Correspondence of Bp. Syl'vestr, Abp. Nikanor, Fr. Leonid Dolyns'kyi.</p>
+                            </scopecontent>
+                        </c04>
+                        <c04 id="ref61" level="file">
+                            <did>
+                                <unittitle>Ellwangen, November 1948</unittitle>
+                                <container id="cid113002" type="Box" label="Text">3</container>
+                                <container parent="cid113002" type="Folder">3</container>
+                            </did>
+                            <scopecontent id="ref77">
+                                <head>Scope and Contents</head>
+                                <p>Sobor program. Handwritten drafts of minutes. Handwritten notes. Financial reports. Letter, reports and syllibi from Fr. F. Kul'chyns'kyi regarding religious education. Reports from V. Kovaliv and Bp. Volodymyr regarding the Theological Academy. Correspondence with Metr. Polikarp, Abp. Mykhail, Abp. Ihor, Bp. Viacheslav, Bp. Serhii, Bp. Syl'vestr, Fr. Iurii Peleshuk, Fr. Vasyl' Bulavka, Fr. Leonid Dolyns'kyi, Fr. L. Kravchuk, Fr. Oleksander Shcherban, Fr. Semen Haiuk, Fr. Borys Iakovkevych, Fr. Boris Korvin-Kamenskii, Anatolii Kotovych, P. Kurinnyi (UVAN), Sava Tymchyk, Andrii Novyts'kyi, Hryhorii Vovk, Andrii Pererva, the Sanitary Charitable Service, the Brotherhood of Mercy and others with illegible signatures. Parish bylaws.</p>
+                            </scopecontent>
+                        </c04>
+                        <c04 id="ref62" level="file">
+                            <did>
+                                <unittitle>Munich, June 1949</unittitle>
+                                <container id="cid113003" type="Box" label="Text">3</container>
+                                <container parent="cid113003" type="Folder">4</container>
+                            </did>
+                            <scopecontent id="ref79">
+                                <head>Scope and Contents</head>
+                                <p>Sobor program. Inventory of the property of the Synod. Financial reports. Report from the Theological Academy. Reports by Metr. Polikarp on various geographical regions (France, Brazil, Germany-British Zone, Australia, UK, Paraguay, Austria, Venezuela, Argentina, USA and Canada, Belgium). Report from Metr. Polikarp regarding Bp. Viacheslav. Copies of correspondence from Venezuela and Argentina. Correspondence with Abp. Mykhail, Abp. Ihor, Bp. Viacheslav, Fr. Iurii Peleshuk, Fr. N. Ovcharenko, Fr. Mykola Liashchuk, Anatolii Kotovych, the Union of Ukrainians in Germany (Munich office), the Ukrainian Geneological Institute (Ukrains'ka Rodovidna Ustanova). Published "memorandum" to the Ukrainian National Council from the UAOC(C). Copy of letter from the Ukrainian National Council to Ecumenical Patriarch Athenagoras. Handwritten minutes and drafts of resolutions.</p>
+                            </scopecontent>
+                        </c04>
+                        <c04 id="ref63" level="file">
+                            <did>
+                                <unittitle>Dillingen, November 1949</unittitle>
+                                <container id="cid113004" type="Box" label="Text">3</container>
+                                <container parent="cid113004" type="Folder">5</container>
+                            </did>
+                            <scopecontent id="ref82">
+                                <head>Scope and Contents</head>
+                                <p>Program. Attendee list. Handwritten notes. Report on the activity of the Office of the Synod of Bishops. Financial reports. Lists of clergy who have emigrated and are still in Germany. Notes regarding the Sanitary Charitable Service. Report regarding Bp. Syl'vestr. Correspondence with Abp. Hennadii, Abp. Ihor, Abp. Mykhail, Bp. Volodymyr, Bp. Serhii, Bp. Viacheslav, Rev. H. Becker (Church World Service/IRO), Fr. Iurii Peleshuk, Fr. Mykolai Liashchuk and the Dillingen parish council, Fr. Petro Ivanovs'kyi, Fr. Petro Hranovs'kyi, Fr. Illia Nahirniak, Fr. Petro Kasianchuk, Anatolii Kotovych, Chuiko (Dillingen camp commandant), the Australian Military Mission (DP Branch), the Association of Ukrainian Veterans. Copy of letter from Danylo Skoropadskyi.</p>
+                            </scopecontent>
+                        </c04>
+                    </c03>
+                </c02>
+                <c02 id="ref27" level="series">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <unitid>Series 3. </unitid>
+                        <physdesc>
+                            <extent>24 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1945/1951" type="inclusive">1945-1951</unitdate>
+                    </did>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>Abp. Hennadij</unittitle>
+                            <container id="cid94001" type="Box" label="Paper documents">3</container>
+                            <container parent="cid94001" type="Folder">6</container>
+                            <unitdate normal="1946/1951" type="inclusive">1946-1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="file">
+                        <did>
+                            <unittitle>Bp. Hryhorii</unittitle>
+                            <container id="cid101006" type="Box" label="Paper documents">3</container>
+                            <container parent="cid101006" type="Folder">7</container>
+                            <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate>
+                        </did>
+                        <scopecontent id="ref104">
+                            <head>Scope and Contents</head>
+                            <p>Also includes correspondence with Abp. Ihor, Fr. Oleksander Dovhal', Fr. Iurii Turzhans'kyi [?] and another correspondent with illegible signature regarding Bp. Hryhorii and copies of correspondence from Metr. Polikarp to Bp. Hryhorii. Report by Fr. Ananii Teodorvych.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>Abp. Ihor</unittitle>
+                            <container id="cid95001" type="Box" label="Paper documents">3</container>
+                            <container parent="cid95001" type="Folder">8</container>
+                            <unitdate normal="1946/1951" type="inclusive">1946-1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="file">
+                        <did>
+                            <unittitle>Abp. Ioann</unittitle>
+                            <container id="cid101004" type="Box" label="Paper documents">3</container>
+                            <container parent="cid101004" type="Folder">9</container>
+                            <unitdate normal="1945/1950" type="inclusive">1945-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref99">
+                            <head>Scope and Contents</head>
+                            <p>In addition, contains copies of correspondence between Ioann and Abp. Polikarp.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>Abp. Mstyslav</unittitle>
+                            <container id="cid101002" type="Box" label="Paper documents">4</container>
+                            <container parent="cid101002" type="Folder">1</container>
+                            <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref93">
+                            <head>Scope and Contents</head>
+                            <p>In addition to correspondence with Bp. (later Abp.) Mstyslav, also contains copies of correspondence of Metr. Polikarp with Mstyslav and Metr. Ioann, correspondence with Fr. D. Fotii and Fr. Danyliuk, copies of correspondence, press releases and other items from Mstyslav's office, and correspondence from Platon's office on behalf of Mstyslav.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>Abp. Mykhail</unittitle>
+                            <container id="cid92002" type="Box" label="Paper documents">4</container>
+                            <container parent="cid92002" type="Folder">2-4</container>
+                            <physdesc>
+                                <extent>3 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1945/1951" type="inclusive">1945-1951</unitdate>
+                        </did>
+                        <scopecontent id="ref40">
+                            <head>Scope and Contents</head>
+                            <p>Includes correspondence from third parties to Abp. Mykhail which were forwarded to Bp. Platon, as well as correspondence of Bp. Platon related to correspondence with Abp. Mykhail. Correspondence with the Church Administration office for Bavaria.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref8" level="file">
+                        <did>
+                            <unittitle>Abp. Nikanor</unittitle>
+                            <container id="cid88001" type="Box" label="Paper documents">4</container>
+                            <container parent="cid88001" type="Folder">5-6</container>
+                            <physdesc>
+                                <extent>2 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1946/1951" type="inclusive">1946-1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>Metr. Polikarp</unittitle>
+                            <container id="cid103001" type="Box" label="Paper documents">4</container>
+                            <container parent="cid103001" type="Folder">7</container>
+                            <container id="cid102001" type="Box" label="Paper documents">5</container>
+                            <container parent="cid102001" type="Folder">1-4</container>
+                            <physdesc>
+                                <extent>5 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1945/1951" type="inclusive">1945-1951</unitdate>
+                        </did>
+                        <scopecontent id="ref114">
+                            <head>Scope and Contents</head>
+                            <p>Also includes correspondence with Fr. I. Hubarzhevs'kyi, the United Nations Relief and Rehabilitation Administration, the US and British Military Government and Rev. Walter Lack, forwarded letters to Metr. Polikarp from Fr. Hryhorii Antokhiv and M. Tode, copies of letters from D. Volkovs'kyi and to Bp. Mykhail, and copy of report from Fr. Iurii Kovalenko regarding a meeting on refugee resettlement with the World Council of Churches.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>Bp. Serhii</unittitle>
+                            <container id="cid101005" type="Box" label="Paper documents">5</container>
+                            <container parent="cid101005" type="Folder">5</container>
+                            <unitdate normal="1946/1949" type="inclusive">1946-1949</unitdate>
+                        </did>
+                        <scopecontent id="ref102">
+                            <head>Scope and Contents</head>
+                            <p>Additional correspondence from Fr. V. Umanets[kyi?], Fr. Borys Maslovs'kyi, Fr. Ivan Magas, M. Zalis'kyi, [?] Vakhoms'kyi[?], and other illegible signatures. Correspondence from members of Russian Orthodox community in Constance, including P. Senitzkii. Notes on the history of the UAOC in Constance.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Bp. Syl'vestr</unittitle>
+                            <container id="cid101003" type="Box" label="Paper documents">5</container>
+                            <container parent="cid101003" type="Folder">6</container>
+                            <unitdate normal="1945/1949" type="inclusive">1945-1949</unitdate>
+                        </did>
+                        <scopecontent id="ref96">
+                            <head>Scope and Contents</head>
+                            <p>In addition to the Syl'vestr correspondence, also includes correspondence with the rector of the parish in Ellwangen (name illegible), a prisoner of war postcard from Mykola Maluzhynskyi to Bp. Mykhail, and Syl'vestr's holiday pastoral letters.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>Bp. Viacheslav</unittitle>
+                            <container id="cid101007" type="Box" label="Paper documents">6</container>
+                            <container parent="cid101007" type="Folder">1</container>
+                            <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref108">
+                            <head>Scope and Contents</head>
+                            <p>Also includes letters from Fr. Ferestiuk [?] and another illegible signature.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>Bp. Volodymyr</unittitle>
+                            <container id="cid101008" type="Box" label="Paper documents">6</container>
+                            <container parent="cid101008" type="Folder">2</container>
+                            <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref111">
+                            <head>Scope and Contents</head>
+                            <p>Also includes letter from Fr. Ipolit Shemetylo, Fr. Tyt Iakovkevych, and Ivan Vlasovs'kyi.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref150" level="file">
+                        <did>
+                            <unittitle>Mykola Zabello</unittitle>
+                            <container id="cid111001" type="Box" label="Text">6</container>
+                            <container parent="cid111001" type="Folder">3</container>
+                            <unitdate>1949</unitdate>
+                        </did>
+                        <scopecontent id="ref152">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence with Mykola Zabello, the leader of the Ukrainian community in Istanbul, Turkey, primarily on matters relating to the Ecumenical Patriarchate.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref153" level="file">
+                        <did>
+                            <unittitle>Emigrating clergy</unittitle>
+                            <container id="cid111002" type="Box" label="Text">6</container>
+                            <container parent="cid111002" type="Folder">4</container>
+                            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref154">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence with clergy and other employees of the UAOC that left or were about to leave Germany to the USA, Canada, Australia, Belgium, and Venezuela, including Fr. Anatoli Strushyns'kyi, Deacon Mykola Krytiuk, Fr. Petro Pankrativ, Fr. Pavel Fal'ko, Fr. Epyfanii Chyzhov (Chyzhiv), Fr. Mykhailo Kozariichuk, Fr. V. Varvariv, Fr. Stepan Hredil', Fr. Mykhailo Fliak, Fr. Vasyl' Boichuk, cantor V. Shpak, and others with illegible signatures.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref156" level="file">
+                        <did>
+                            <unittitle>Clergy in Germany</unittitle>
+                            <container id="cid111003" type="Box" label="Text">6</container>
+                            <container parent="cid111003" type="Folder">5</container>
+                            <unitdate>1950</unitdate>
+                        </did>
+                        <scopecontent id="ref158">
+                            <head>Scope and Contents</head>
+                            <p>Primarily correspondence with clergy, including Fr. Terentii Havryk, Deacon Lazar Takhtarenko, Fr. Fomichevs'kyi, Fr. Kharyton Dorohyn, Fr. Vasyl' Umanets', Fr. Vasyl' Ilins'kyi, Fr. Ipolit Shemetylo, Deacon Ievhenii Mahdych, Fr. Mykhailo Hil'taichuk, and others with illegible signatures. Also includes a clergy circular and correspondence with the military authorities regarding the liquidation of the Lehbühlstrasse DP camp in Landshut.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref162" level="file">
+                        <did>
+                            <unittitle>Ukrainian National Council</unittitle>
+                            <container id="cid111006" type="Box" label="Text">6</container>
+                            <container parent="cid111006" type="Folder">6</container>
+                            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref164">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence with the Ukrainain National Council (Ukrains'ka Natsional'na Rada), the Union of Ukrainians in Germany (Soiuz Ukraintsiv u Nimechchyni), Andrij Livyts'kyi, and Borys Ivanyts'kyi. Pamphlet "Documents of Ukrainian Foreign Policy".</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>Ukrainian student societies</unittitle>
+                            <container id="cid111007" type="Box" label="Text">6</container>
+                            <container parent="cid111007" type="Folder">7</container>
+                            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref166">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence with the Society of Students of the Theological Academy (Munich) and Society of Ukrainian Orthodox Students (Erlangen).</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref32" level="series">
+                    <did>
+                        <unittitle>Subject files</unittitle>
+                        <unitid>Series 4. </unitid>
+                        <physdesc>
+                            <extent>10 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
+                    </did>
+                    <c03 id="ref4" level="file">
+                        <did>
+                            <unittitle>Theological Academy - Munich</unittitle>
+                            <container id="cid87001" type="Box" label="Paper documents">6</container>
+                            <container parent="cid87001" type="Folder">8-9</container>
+                            <physdesc>
+                                <extent>2 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref7">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence, primarily with director Panteleimon Kovaliv. Constitution, minutes, reports. Request to German ministries for salaries. Poems. Corresponce with hierarchs Hennadii, Sylvestr. Programs of opening ceremony and 1 year anniversary.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>Belarusian Autocephalous Orthodox Church</unittitle>
+                            <container id="cid89001" type="Box" label="Paper documents">6</container>
+                            <container parent="cid89001" type="Folder">10</container>
+                            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref26">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence related to the ordination of Bp. Vasili for the BAOC. Original episcopal ordination "Profession of Faith" document. Correspondence with Metr. Polikarp, Bp. Serhij, the Belarusian Orthodox Brotherhood of Zyrovitsy, the Belarusian National Republic in Exile, and other Belarusian exile groups.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>Fr. Iakiv Kindzeriavyi-Pastukhiv</unittitle>
+                            <container id="cid104001" type="Box" label="Paper documents">6</container>
+                            <container parent="cid104001" type="Folder">11</container>
+                            <unitdate>1946-1948, bulk 1946</unitdate>
+                        </did>
+                        <scopecontent id="ref117">
+                            <head>Scope and Contents</head>
+                            <p>Records and correspondence related to the defrocking of Fr. Iakiv Kindzeriavyi-Pastukhiv and controversy regarding the assignment of clergy to the Ingolstadt DP camp church. Correspondence with Fr. Iakiv Kindzeriavyi-Pastukhiv, Abp. Ihor, Abp. Mykhail, Ingolstadt DP camp administration, Ingolstadt UAOC church council, Fr. Teodozii Diatelovych, Fr. V. Varvariv, UAOC adminstration office for Bavaria, Fr. Leonid Dolyns'kyi, and UNRRA Director T. G. M. Davidson. Report and minutes of UAOC Church Court. Petitions from parisioners.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref126" level="file">
+                        <did>
+                            <unittitle>Fr. Illia Nahirniak</unittitle>
+                            <container id="cid110001" type="Box" label="Text">7</container>
+                            <container parent="cid110001" type="Folder">1</container>
+                            <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+                        </did>
+                        <scopecontent id="ref127">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence with Fr. Illia Nahirniak, Abp. Ihor, and General Mykola Kapustians'kyi regarding the conflict between Fr. Nahirniak and Abp. Ihor.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref130" level="file">
+                        <did>
+                            <unittitle>Regensburg parish</unittitle>
+                            <container id="cid110002" type="Box" label="Text">7</container>
+                            <container parent="cid110002" type="Folder">2</container>
+                            <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+                        </did>
+                        <scopecontent id="ref132">
+                            <head>Scope and Contents</head>
+                            <p>Documents regarding conflicts within the Regensburg DP camp parish as well as between the parish and the UAOC administration. Correspondence with the parish board, Abp. Mykhail, Fr. K. Danylevs'kyi, Fr. Borys Iakovkevych, Bp. Sylvestr, Bp. Mstyslav, Bp. Volodymyr, and parishoners. Fr. K. Danylevs'kyi clergy information form. Meeting minutes. Parish bylaws.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>Mannheim parish</unittitle>
+                            <container id="cid110003" type="Box" label="Text">7</container>
+                            <container parent="cid110003" type="Folder">3</container>
+                            <unitdate>1946-1948, bulk 1946</unitdate>
+                        </did>
+                        <scopecontent id="ref136">
+                            <head>Scope and Contents</head>
+                            <p>Documents related to the Conciliar schism and the UAOC parish in Mannheim. Correspondence with Fr. M. Iatsun, M. Sadovskyi, Fr. Stepan Pozykhailo, Fr. Demyd Burko, Fr. Mytrofan Iavdas', Fr. Illia Nahirniak, Abp. Ihor, Bp. Sylvestr, and the Mannheim parish board. Meeting minutes.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref140" level="file">
+                        <did>
+                            <unittitle>France</unittitle>
+                            <container id="cid110004" type="Box" label="Text">7</container>
+                            <container parent="cid110004" type="Folder">4</container>
+                            <unitdate normal="1948/1950" type="inclusive">1948-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref143">
+                            <head>Scope and Contents</head>
+                            <p>Documents related to UAOC in France, especially Paris. Correspondence with Fr. Volodymyr Vyshnevs'kyi, Symon Sozontiv, and the UAOC parish board in Paris.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref144" level="file">
+                        <did>
+                            <unittitle>Great Britain</unittitle>
+                            <container id="cid110005" type="Box" label="Text">7</container>
+                            <container parent="cid110005" type="Folder">5</container>
+                            <unitdate normal="1948/1950" type="inclusive">1948-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref146">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence with UAOC Administration in the UK, including administrator Fr. Ihor Hubarzhevs'kyi, and M. Krat.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref147" level="file">
+                        <did>
+                            <unittitle>Austria</unittitle>
+                            <container id="cid110006" type="Box" label="Text">7</container>
+                            <container parent="cid110006" type="Folder">6</container>
+                            <unitdate normal="1947/1950" type="inclusive">1947-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref148">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence with Fr. Vasyl' Vyshyvan, Fr. Dmytro Fokii, Fr. Petro Stefiuk, Fr. Petro Pankratii, Dmytro Papenko, and others related to UAOC church administration in Austria.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

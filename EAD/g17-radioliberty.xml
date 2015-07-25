@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Radio Liberty Ukrainian Service Collection
+                    <num>g.17</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-04-04T19:12-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Radio Liberty Ukrainian Service Collection</unittitle>
+            <unitid>g.17</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+                <extent>3 boxes, 19 folders</extent>
+            </physdesc>
+            <unitdate normal="1961/1963" type="bulk">Bulk, 1961-1963</unitdate>
+            <unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate>
+            <langmaterial id="ref25" label="Language of Materials">Ukrainian, with the exception of two newsletters in English.</langmaterial>
+            <abstract id="ref22" label="Abstract">This collection consists primarily of radio scripts that were sent from the director of the Ukrainian service of Radio Liberty to (then) Archbhishop Mstyslav of the Ukrainian Orthodox Church of the USA. They provide a record of Western Cold War-era broadcasting of news and political commentary to Ukrainian-speakers living in the Soviet Union.</abstract>
+            <origination label="creator">
+                <persname source="naf">Mstyslav, Patriarch of Kiev and All Ukraine, 1898-1993 </persname>
+            </origination>
+        </did>
+        <arrangement id="ref23">
+            <head>Arrangement</head>
+            <p>This collection is arranged in two series as follows:</p>
+            <list type="ordered">
+                <item>Daily broadcast scripts</item>
+                <item>Newsletters</item>
+            </list>
+        </arrangement>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>The collection consists primarily of spirit-duplicated copies of radio scripts that were sent to (then) Archbishop Mstyslav of the Ukrainian Orthodox Church of the USA by Mykhailo Demkovych-Dobrians'kyi. It includes two letters from Demkovych-Dobrians'kyi to Msyslav, and a nearly complete set of daily scripts from October 1961 through January 1962, March 1963, and less-complete sets from other months in the time span covered by the collection. Some scripts appear to have annotations in Mstyslav's and Demkovych-Dobrians'kyi's hands. The content of the scripts consists of daily news reports, political commentary, and features on literature, the lives of Ukrainians west of the Iron Curtain, and other topics. It also includes Ukrainian and English language newsletters from Radio Liberty.</p>
+        </scopecontent>
+        <prefercite id="ref4">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Radio Liberty Ukrainian Service Collection; box number; folder number; Ukrainian Historical and Educational Center Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Radio Liberty (originally Radio Liberation) was formed by the American Committee for the Liberation of the Peoples of Russia (Amcomlib) in 1951. Radio Liberty began broadcasting in Russian on March 1, 1953, and by December 1954 it was broadcasting in 17 languages, including Ukrainian. Although ostensibly a non-governmental entity, much of its funding came covertly from the CIA until 1972, when control was transferred to the US State Department, and then to the Board for International Broadcasting. Radio Free Europe and Radio Liberty continue to serve as a surrogate free press in countries where a free press is banned by the government or is not fully established.</p>
+            <p>Mykhailo Demkovych-Dobrians'kyi was the director of Radio Liberty's Ukrainian service from 1956 to 1972. He was born in 1905 in the village of Lahodiv near Peremyshliany in what was then the Austro-Hungarian Empire. He studied history and philology at the L'viv University, and law and political science at the universities of Berlin and Vienna. He was active in Ukrainian nationalist politics in Polish-controlled Galicia, and was the editor of a number of Ukrainian Catholic periodicals. He left Ukraine as a displaced person, working as an editor for Ukrainian-language newspapers in Munich and London before becoming an editor at Radio Liberty in 1954.</p>
+            <p>Patriarch Mstyslav (who was an archbishop at the time of this collections' creation) was one of a group of bishops of the Ukrainian Autocephalous Orthodox Church who left Ukraine ahead of the Red Army during World War II. He was a leading figure in the Ukrainian Orthodox Church of the USA from 1950 until his death.</p>
+        </bioghist>
+        <accessrestrict id="ref31">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for researcher use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <userestrict id="ref32">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <processinfo id="ref33">
+            <head>Processing Information</head>
+            <p>Because this material bears only a tangential relationship with the remainder of Patriarch Mstyslav's papers, it is being treated separately as if it were an artifical collection.</p>
+        </processinfo>
+        <relatedmaterial id="ref34">
+            <head>Related Archival Materials</head>
+            <p>The bulk of the corporate and broadcast records of Radio Free Europe/Radio Liberty are currently housed at the Hoover Institution (Stamford University): 
+                <extref ns2:href="http://hoorferl.stanford.edu/RFE/index.php">http://hoorferl.stanford.edu/RFE/index.php</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname source="naf" role="Donor (dnr)">Demkovych-Dobrians'kyi, Mykhailo, 1905-1994</persname>
+            <corpname source="naf">Radio Liberty.</corpname>
+            <subject source="lcsh">Radio scripts</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref24" level="series">
+                <did>
+                    <unittitle>Daily broadcast scripts</unittitle>
+                    <unitid>Series 1.</unitid>
+                    <physdesc>
+                        <extent>19 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1961/1963" type="inclusive">1961-1963</unitdate>
+                </did>
+                <c02 id="ref7" level="subseries">
+                    <did>
+                        <unittitle></unittitle>
+                        <physdesc>
+                            <extent>0.5 Linear feet</extent>
+                            <extent>9 folders</extent>
+                        </physdesc>
+                        <unitdate>1961</unitdate>
+                    </did>
+                    <c03 id="ref10" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid136001" type="Box" label="Text">1</container>
+                            <container parent="cid136001" type="Folder">1</container>
+                            <physdesc>
+                                <extent>1 folder</extent>
+                            </physdesc>
+                            <unitdate>May-July 1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref13" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid136004" type="Box" label="Text">1</container>
+                            <container parent="cid136004" type="Folder">2-4</container>
+                            <physdesc>
+                                <extent>0.2 Linear feet</extent>
+                                <extent>3 folders</extent>
+                            </physdesc>
+                            <unitdate>October 1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref14" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid136007" type="Box" label="Text">1</container>
+                            <container parent="cid136007" type="Folder">5-7</container>
+                            <physdesc>
+                                <extent>0.2 Linear feet</extent>
+                                <extent>3 folders</extent>
+                            </physdesc>
+                            <unitdate>November 1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref15" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid136009" type="Box" label="Text">2</container>
+                            <container parent="cid136009" type="Folder">1-2</container>
+                            <physdesc>
+                                <extent>0.1 Linear feet</extent>
+                                <extent>2 folders</extent>
+                            </physdesc>
+                            <unitdate>December 1961</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref8" level="subseries">
+                    <did>
+                        <unittitle></unittitle>
+                        <physdesc>
+                            <extent>0.2 Linear feet</extent>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                        <unitdate>1962</unitdate>
+                    </did>
+                    <c03 id="ref16" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid136012" type="Box" label="Text">2</container>
+                            <container parent="cid136012" type="Folder">3-5</container>
+                            <physdesc>
+                                <extent>0.2 Linear feet</extent>
+                                <extent>3 folders</extent>
+                            </physdesc>
+                            <unitdate>January 1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid136013" type="Box" label="Text">2</container>
+                            <container parent="cid136013" type="Folder">6</container>
+                            <physdesc>
+                                <extent>1 folder</extent>
+                            </physdesc>
+                            <unitdate>February 1962</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref9" level="subseries">
+                    <did>
+                        <unittitle></unittitle>
+                        <physdesc>
+                            <extent>0.3 Linear feet</extent>
+                            <extent>5 folders</extent>
+                        </physdesc>
+                        <unitdate>1963</unitdate>
+                    </did>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid136015" type="Box" label="Text">2</container>
+                            <container parent="cid136015" type="Folder">7</container>
+                            <container id="cid136014" type="Box" label="Text">3</container>
+                            <container parent="cid136014" type="Folder">1</container>
+                            <physdesc>
+                                <extent>0.1 Linear feet</extent>
+                                <extent>2 folders</extent>
+                            </physdesc>
+                            <unitdate>March 1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid136018" type="Box" label="Text">3</container>
+                            <container parent="cid136018" type="Folder">2-4</container>
+                            <physdesc>
+                                <extent>0.2 Linear feet</extent>
+                                <extent>3 folders</extent>
+                            </physdesc>
+                            <unitdate>April 1963</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref20" level="series">
+                    <did>
+                        <unittitle>Loose pages</unittitle>
+                        <container id="cid136019" type="Box" label="Text">3</container>
+                        <container parent="cid136019" type="Folder">5</container>
+                        <physdesc>
+                            <extent>1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent id="ref21">
+                        <head>Scope and Contents</head>
+                        <p>Final pages which became detached and could not be readily reunited with the rest of the script.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref26" level="series">
+                <did>
+                    <unittitle>Newsletters</unittitle>
+                    <unitid>Series 2.</unitid>
+                    <physdesc>
+                        <extent>2 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+                </did>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Informator</unittitle>
+                        <container id="cid137001" type="Box" label="Text">3</container>
+                        <container parent="cid137001" type="Folder">6</container>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents</head>
+                        <p>Issues of the bimonthly Ukrainian-language newsletter "Informator", summarizing news from Soviet Ukraine as reported in the Soviet press.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Radio Liberty newsletter</unittitle>
+                        <container id="cid137002" type="Box" label="Text">3</container>
+                        <container parent="cid137002" type="Folder">7</container>
+                        <unitdate>Undated</unitdate>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Contents</head>
+                        <p>Two English-language issues of a newsletter published by Radio Liberty.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Records of the Ukrainian St. Peter and Paul Orthodox Church (Willimantic, CT)
+                    <num>r.7</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-01-12T16:42-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The Ukrainian St. Peter and Paul Orthodox Church (Willimantic, Conn.) Records</unittitle>
+            <unitid>r.7</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.2 Linear feet</extent>
+                <extent>20 bound volumes, 4 folders</extent>
+            </physdesc>
+            <unitdate normal="1930/1976" type="inclusive">1930-1976</unitdate>
+            <langmaterial id="ref36" label="Language of Materials">English and Ukrainian</langmaterial>
+            <abstract id="ref41" label="Abstract">The St. Peter and Paul parish was founded in the early 1930s during the height of the Great Depression, and remained active for approximately 40 years. The collection contains lists of parish members and records of baptisms, marriages and funerals, as well as legal records, deeds, and parish council meeting minutes dating back to the founding of the parish.</abstract>
+            <origination label="creator">
+                <corpname rules="aacr" source="local">Ukrainian St. Peter and Paul Orthodox Church (Willimantic, Conn.).</corpname>
+            </origination>
+        </did>
+        <prefercite id="ref38">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); The Ukrainian St. Peter and Paul Orthodox Church (Willimantic, Conn.) Records; box number; folder number; Ukrainian Historical and Educational Center Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <arrangement id="ref43">
+            <head>Arrangement</head>
+            <p>This collection is arranged in 4 series as follows:</p>
+            <list numeration="arabic" type="ordered">
+                <item>Membership records</item>
+                <item>Financial records</item>
+                <item>Parish council records</item>
+                <item>Register books</item>
+            </list>
+        </arrangement>
+        <accessrestrict id="ref42">
+            <head>Conditions Governing Access</head>
+            <p>Access and use of this collection may be subject to restrictions. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <bioghist id="ref39">
+            <head>Biographical/Historical note</head>
+            <p>The St. Peter and Paul parish appears to have been founded in the early 1930s during the height of the Great Depression by Ukrainian immigrants. It remained active for approximately 40 years, and was liquidated in the 1970s due to declining membership numbers. The membership appears to have been primarily pre-WWII immigrants and their descendents.</p>
+        </bioghist>
+        <scopecontent id="ref40">
+            <head>Scope and Contents</head>
+            <p>The collection contains lists of parish members and records of baptisms, marriages and funerals, as well as legal records, deeds, and parish council meeting minutes dating back to the founding of the parish in the 1930s.</p>
+        </scopecontent>
+        <controlaccess>
+            <genreform source="aat">Baptismal registers</genreform>
+            <genreform source="aat">Deeds</genreform>
+            <genreform source="aat">Funeral registers</genreform>
+            <genreform source="aat">Legal documents</genreform>
+            <genreform source="aat">Marriage registers</genreform>
+            <genreform source="aat">Parochial records</genreform>
+            <subject source="lcsh">Ukrainian American churches--Connecticut--Willimantic</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Membership records</unittitle>
+                    <unitid>Series 1. </unitid>
+                    <physdesc>
+                        <extent>2 bound volumes</extent>
+                    </physdesc>
+                    <unitdate normal="1933/1975" type="inclusive">1933-1975</unitdate>
+                </did>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Volume 1</unittitle>
+                        <container id="cid128001" type="Volume" label="Text">1</container>
+                        <unitdate normal="1933/1955" type="inclusive">1933-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Volume 2</unittitle>
+                        <container id="cid128002" type="Volume" label="Text">2</container>
+                        <unitdate normal="1959/1975" type="inclusive">1959-1975</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>Financial records</unittitle>
+                    <unitid>Series 2. </unitid>
+                    <physdesc>
+                        <extent>0.8 Linear feet</extent>
+                        <extent>12 bound volumes, 1 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1937/1976" type="inclusive">1937-1976</unitdate>
+                </did>
+                <c02 id="ref3" level="subseries">
+                    <did>
+                        <unittitle>Income and expense ledgers</unittitle>
+                        <physdesc>
+                            <extent>0.5 Linear feet</extent>
+                            <extent>6 bound volumes</extent>
+                        </physdesc>
+                        <unitdate normal="1937/1976" type="inclusive">1937-1976</unitdate>
+                    </did>
+                    <scopecontent id="ref6">
+                        <head>Scope and Contents</head>
+                        <p>Some records appear to be duplicated between ledger books.</p>
+                    </scopecontent>
+                    <c03 id="ref8" level="file">
+                        <did>
+                            <unittitle>Volume 1</unittitle>
+                            <container id="cid128008" type="Volume" label="Text">3</container>
+                            <unitdate>December 1937 - December 1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref4" level="file">
+                        <did>
+                            <unittitle>Volume 2</unittitle>
+                            <container id="cid128006" type="Volume" label="Text">4</container>
+                            <unitdate>January 1948 - December 1950, January 1953 - March 1954, January - July 1955</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref7" level="file">
+                        <did>
+                            <unittitle>Volume 3</unittitle>
+                            <container id="cid128007" type="Volume" label="Text">5</container>
+                            <unitdate>January 1950 - December 1959</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref10" level="file">
+                        <did>
+                            <unittitle>Volume 4</unittitle>
+                            <container id="cid128010" type="Volume" label="Text">6</container>
+                            <unitdate>January 1960 - December 1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref9" level="file">
+                        <did>
+                            <unittitle>Volume 5</unittitle>
+                            <container id="cid128009" type="Volume" label="Text">7</container>
+                            <unitdate>January 1966 - December 1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref11" level="file">
+                        <did>
+                            <unittitle>Volume 6</unittitle>
+                            <container id="cid128011" type="Volume" label="Text">8</container>
+                            <unitdate>January 1972 - April 1976</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref15" level="subseries">
+                    <did>
+                        <unittitle>Check stubs</unittitle>
+                        <physdesc>
+                            <extent>0.3 Linear feet</extent>
+                            <extent>6 bound volumes</extent>
+                        </physdesc>
+                        <unitdate normal="1952/1976" type="inclusive">1952-1976</unitdate>
+                    </did>
+                    <c03 id="ref16" level="file">
+                        <did>
+                            <unittitle>Volume 1</unittitle>
+                            <container id="cid128012" type="Volume" label="Text">9</container>
+                            <unitdate normal="1952/1958" type="inclusive">1952-1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>Volume 2</unittitle>
+                            <container id="cid128013" type="Volume" label="Text">10</container>
+                            <unitdate normal="1958/1963" type="inclusive">1958-1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>Volume 3</unittitle>
+                            <container id="cid128014" type="Volume" label="Text">11</container>
+                            <unitdate normal="1963/1967" type="inclusive">1963-1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>Volume 4</unittitle>
+                            <container id="cid128015" type="Volume" label="Text">12</container>
+                            <unitdate normal="1967/1970" type="inclusive">1967-1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>Volume 5</unittitle>
+                            <container id="cid128017" type="Volume" label="Text">13</container>
+                            <unitdate normal="1970/1974" type="inclusive">1970-1974</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>Volume 6</unittitle>
+                            <container id="cid128016" type="Volume" label="Text">14</container>
+                            <unitdate normal="1974/1976" type="inclusive">1974-1976</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Miscellanous receipts</unittitle>
+                        <container id="cid128019" type="Box" label="Text">1</container>
+                        <container parent="cid128019" type="Folder">1</container>
+                        <unitdate normal="1956/1975" type="inclusive">1956-1975</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Parish council records</unittitle>
+                    <unitid>Series 3. </unitid>
+                    <physdesc>
+                        <extent>2 bound volumes, 1 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1932/1976" type="inclusive">1932-1976</unitdate>
+                </did>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Legal records</unittitle>
+                        <container id="cid128023" type="Oversize" label="Text">1</container>
+                        <container id="cid128022" type="Box" label="Text">1</container>
+                        <container parent="cid128022" type="Folder">2</container>
+                        <unitdate normal="1933/1946" type="bulk">Bulk, 1933-1946</unitdate>
+                        <unitdate normal="1933/1960" type="inclusive">1933-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents</head>
+                        <p>Certificate of organization, bylaws, deeds, mortgage documents, tax exemption forms, and cemetary deeds.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Meeting minute books</unittitle>
+                        <physdesc>
+                            <extent>2 bound volumes</extent>
+                        </physdesc>
+                        <unitdate>1932-1938, 1973-1975</unitdate>
+                    </did>
+                    <c03 id="ref44" level="item">
+                        <did>
+                            <unittitle>Volume 1</unittitle>
+                            <container id="cid131001" type="Volume" label="Text">15</container>
+                            <unitdate normal="1932/1938" type="inclusive">1932-1938</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="item">
+                        <did>
+                            <unittitle>Volume 2</unittitle>
+                            <container id="cid131002" type="Volume" label="Text">16</container>
+                            <unitdate normal="1973/1975" type="inclusive">1973-1975</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Loose pages</unittitle>
+                        <container id="cid128020" type="Box" label="Text">1</container>
+                        <container parent="cid128020" type="Folder">3</container>
+                        <unitdate normal="1933/1976" type="inclusive">1933-1976</unitdate>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents</head>
+                        <p>Meeting minutes, correspondence, and parish closing records.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref23" level="series">
+                <did>
+                    <unittitle>Register books</unittitle>
+                    <unitid>Series 4. </unitid>
+                    <physdesc>
+                        <extent>4 bound volumes, 1 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1930/1973" type="inclusive">1930-1973</unitdate>
+                </did>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Baptism records</unittitle>
+                        <container id="cid128003" type="Volume" label="Text">17-18</container>
+                        <physdesc>
+                            <extent>2 bound volumes</extent>
+                        </physdesc>
+                        <unitdate normal="1930/1968" type="inclusive">1930-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Matrimonial records</unittitle>
+                        <container id="cid128004" type="Volume" label="Text">19</container>
+                        <physdesc>
+                            <extent>1 bound volume</extent>
+                        </physdesc>
+                        <unitdate normal="1939/1970" type="inclusive">1939-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Funeral records</unittitle>
+                        <container id="cid128005" type="Volume" label="Text">20</container>
+                        <physdesc>
+                            <extent>1 bound volume</extent>
+                        </physdesc>
+                        <unitdate normal="1939/1973" type="inclusive">1939-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Loose pages</unittitle>
+                        <container id="cid128018" type="Box" label="Text">1</container>
+                        <container parent="cid128018" type="Folder">4</container>
+                        <physdesc>
+                            <extent>1 folder</extent>
+                        </physdesc>
+                        <unitdate normal="1933/1967" type="inclusive">1933-1967</unitdate>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents</head>
+                        <p>Baptism records, plus one matrimonial record from 1937.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

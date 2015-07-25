@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the papers of Oleksii Matuk
+                    <num>g.12</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+                <date>4-5-2013</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-01-11T18:02-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Oleksii Matuch Papers</unittitle>
+            <unitid>g.12</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>1 box</extent>
+            </physdesc>
+            <unitdate normal="1954/1965" type="bulk">Bulk, 1954-1965</unitdate>
+            <unitdate normal="1944/1965" type="inclusive">1944-1965</unitdate>
+            <langmaterial id="ref4" label="Language of Materials">Primarily Ukrainian, with some English.</langmaterial>
+            <abstract id="ref49" label="Abstract">The Oleksii Matuch Papers contain what appears to be a comprehensive collection of ephemera related to the Ukrainian-American community in Buffalo, NY during the late 1950s and early 1960s, as well as some correspondence and personal documents.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Matuch, Oleksii, 1903?-1977</persname>
+            </origination>
+        </did>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Oleksii Matuk Papers; box number; folder number; Ukrainian Historical and Educational Center Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Not much is known about Oleksii Matuch (or Matukh), other than what is contained in his death announcement in the "Svoboda" newspaper (Vol. 84, No. 214, Sept. 30, 1977): he was a resident of Buffalo, NY, was a veteran of the Ukrainian War of Independence, had been the long-time president of the "Tovarystvo Spryiannia UNRady" ("Association of Supporters of the Ukrainian National Council"), and was a parishoner at Holy Trinity Ukrainian Orthodox Church in Buffalo. He died on September 26, 1977 at the age of 74.</p>
+            <p>It appears from the contents of the collection that he took a very active interest in the activities of the Ukrainian-American community in Buffalo. By the mid 1950s, the post-WWII Ukrainian refugees had had a chance to establish themselves in their new country, and the next decade was a period of intense activity in this immigrant community.</p>
+        </bioghist>
+        <arrangement id="ref47">
+            <head>Arrangement</head>
+            <p>The collection is arranged in three series, as follows:</p>
+            <list type="ordered">
+                <item>Correspondence</item>
+                <item>Personal records</item>
+                <item>Ephemera</item>
+            </list>
+        </arrangement>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>This collection consists primarily of fliers, programs, posters, and related ephemera for Ukrainian-American community events in Buffalo, NY, as well as church bulletins and other parish publications, and mailings and publications of Ukrainian-American organizations (most notably the Ukrainian Congress Committee of America). The collection also contains a small amount of correpondence, most notably with Bp. Platon of the Ukrainian Autocephalous Orthodox Church.</p>
+            <p>Some of the event posters and other material do not indicate the year of the event (only the month and day). These have been filed at the end of the correponding folder. In addition, some posters and fliers have hand-written annotations.</p>
+        </scopecontent>
+        <accessrestrict id="ref52">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for researcher use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <userestrict id="ref53">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname source="naf">Ob'i͡ednanni͡a demokratychnoï ukraïnsʹkoï molodi.</corpname>
+            <corpname source="naf">Plast ukraïnsʹka skavtsʹka orhanizat͡sii͡a.</corpname>
+            <persname rules="aacr" source="local">Platon, Bishop of Rivne, 1891-1951</persname>
+            <corpname source="naf">Ukrainian Congress Committee of America.</corpname>
+            <corpname source="naf">Ukrainian Youth Association of America.</corpname>
+            <subject source="lcsh">Refugee camps--Germany--Northeim</subject>
+            <subject source="lcsh">Ukrainian American churches--New York--Buffalo</subject>
+            <subject source="lcsh">Ukrainian-Americans--New York--Buffalo</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>Series I.</unitid>
+                    <physdesc>
+                        <extent>2 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1944/1962" type="inclusive">1944-1962</unitdate>
+                </did>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Bishop Platon</unittitle>
+                        <container id="cid133004" type="Box" label="Text">1</container>
+                        <container parent="cid133004" type="Folder">1</container>
+                        <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Association of Supporters of the UNRada</unittitle>
+                        <container id="cid133005" type="Box" label="Text">1</container>
+                        <container parent="cid133005" type="Folder">2</container>
+                        <unitdate normal="1954/1962" type="inclusive">1954-1962</unitdate>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with and mailings from the Tovarystvo Prykhyl'nykiv Ukrains'koi Natsionnal'noi Rady.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref24" level="series">
+                <did>
+                    <unittitle>Personal records</unittitle>
+                    <unitid>Series II.</unitid>
+                    <container id="cid133001" type="Box" label="Text">1</container>
+                    <container parent="cid133001" type="Folder">3</container>
+                    <physdesc>
+                        <extent>1 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1945/1962" type="inclusive">1945-1962</unitdate>
+                </did>
+                <scopecontent id="ref39">
+                    <head>Scope and Contents</head>
+                    <p>Donation receipts, certificates, and membership cards.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Ephemera</unittitle>
+                    <unitid>Series III. </unitid>
+                    <physdesc>
+                        <extent>16 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1954/1965" type="bulk">Bulk, 1954-1965</unitdate>
+                    <unitdate normal="1947/1965" type="inclusive">1947-1965</unitdate>
+                </did>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Germany</unittitle>
+                        <container id="cid133006" type="Box" label="Text">1</container>
+                        <container parent="cid133006" type="Folder">4</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                    <c03 id="ref33" level="item">
+                        <did>
+                            <unittitle>Flier for "Ukrainian Show" at Northeim DP Camp</unittitle>
+                            <unitdate>1947</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref36" level="subseries">
+                    <did>
+                        <unittitle>Ukrainian youth groups</unittitle>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1954/1965" type="inclusive">1954-1965</unitdate>
+                    </did>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents</head>
+                        <p>Fliers and other ephemera for events sponsored by or involving the three major post-World War II Ukrainian-American youth groups. Most but not all of the events took place in the Buffalo area.</p>
+                    </scopecontent>
+                    <c03 id="ref10" level="file">
+                        <did>
+                            <unittitle>Ukrainian Youth Association of America (SUMA)</unittitle>
+                            <container id="cid133008" type="Box" label="Text">1</container>
+                            <container parent="cid133008" type="Folder">5</container>
+                            <unitdate normal="1954/1961" type="inclusive">1954-1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref13" level="file">
+                        <did>
+                            <unittitle>Ukrainian Scouting Organization Plast</unittitle>
+                            <container id="cid133009" type="Box" label="Text">1</container>
+                            <container parent="cid133009" type="Folder">6</container>
+                            <unitdate normal="1954/1964" type="inclusive">1954-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>Ukrainian Democratic Youth Association (ODUM)</unittitle>
+                            <container id="cid133012" type="Box" label="Text">1</container>
+                            <container parent="cid133012" type="Folder">7</container>
+                            <unitdate normal="1960/1965" type="inclusive">1960-1965</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref15" level="subseries">
+                    <did>
+                        <unittitle>Buffalo events</unittitle>
+                        <physdesc>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1953/1965" type="inclusive">1953-1965</unitdate>
+                    </did>
+                    <c03 id="ref8" level="file">
+                        <did>
+                            <unittitle>Ukrainian Congress Committee</unittitle>
+                            <container id="cid133007" type="Box" label="Text">1</container>
+                            <container parent="cid133007" type="Folder">8</container>
+                            <unitdate normal="1953/1964" type="inclusive">1953-1964</unitdate>
+                        </did>
+                        <scopecontent id="ref9">
+                            <head>Scope and Contents</head>
+                            <p>Programs and fliers for concerts, dances, protests, meetings, and other events sponsored by the UCCA.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref14" level="file">
+                        <did>
+                            <unittitle>Dramatychno-Muzychnyi Ansambl'</unittitle>
+                            <container id="cid133010" type="Box" label="Text">1</container>
+                            <container parent="cid133010" type="Folder">9</container>
+                            <unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate>
+                        </did>
+                        <scopecontent id="ref48">
+                            <head>Scope and Contents</head>
+                            <p>Posters for events by the "Dramatico-Musical Ensemble" of Buffalo, including theatrical productions as well as dances and other events sposored by the Ensemble.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>Film screenings</unittitle>
+                            <container id="cid133011" type="Box" label="Text">1</container>
+                            <container parent="cid133011" type="Folder">10</container>
+                            <unitdate normal="1955/1960" type="inclusive">1955-1960</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>Other programs, fliers and posters</unittitle>
+                            <container id="cid133013" type="Box" label="Text">1</container>
+                            <container parent="cid133013" type="Folder">11</container>
+                            <unitdate normal="1953/1965" type="inclusive">1953-1965</unitdate>
+                        </did>
+                        <scopecontent id="ref37">
+                            <head>Scope and Contents</head>
+                            <p>Primarily Ukrainian-American community events, events with Ukrainian-American participation or connection, or events connected to the Matuch family. Includes programs and fliers for concerts, lectures, student recitals, dances, sporting events, protests, a politial campaign rally, and other events.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref28" level="subseries">
+                    <did>
+                        <unittitle>Holy Trinity Ukrainian Orthodox Church</unittitle>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1955/1965" type="inclusive">1955-1965</unitdate>
+                    </did>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Bulletins and other ephemera</unittitle>
+                            <container id="cid133014" type="Box" label="Text">1</container>
+                            <container parent="cid133014" type="Folder">12</container>
+                            <unitdate normal="1955/1964" type="inclusive">1955-1964</unitdate>
+                        </did>
+                        <scopecontent id="ref42">
+                            <head>Scope and Contents</head>
+                            <p>Bulletins and other parish publications, including a 32-page commemorative book celebrating the parish's 5th anniversary (1950-1955). Also includes other Orthodox Church-related ephemera.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Meeting minutes</unittitle>
+                            <container id="cid133015" type="Box" label="Text">1</container>
+                            <container parent="cid133015" type="Folder">13</container>
+                            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+                        </did>
+                        <scopecontent id="ref43">
+                            <head>Scope and Contents</head>
+                            <p>Period photocopies of parish general meeting minutes.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>St. Nicholas Ukrainian Catholic Church</unittitle>
+                        <container id="cid133002" type="Box" label="Text">1</container>
+                        <container parent="cid133002" type="Folder">14</container>
+                        <unitdate normal="1952/1964" type="inclusive">1952-1964</unitdate>
+                    </did>
+                    <scopecontent id="ref50">
+                        <head>Scope and Contents</head>
+                        <p>Church bulletins, reports, event programs, and other Catholic Church-related ephemera.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Ukrainian Congress Committee - Buffalo</unittitle>
+                        <container id="cid133003" type="Box" label="Text">1</container>
+                        <container parent="cid133003" type="Folder">15</container>
+                        <unitdate normal="1953/1959" type="inclusive">1953-1959</unitdate>
+                    </did>
+                    <scopecontent id="ref45">
+                        <head>Scope and Contents</head>
+                        <p>Official bulletins, reports, and other publications of the UCCA branch in Buffalo, NY.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Ukrainian Bandurist Chorus concerts and ephemera</unittitle>
+                        <container id="cid133018" type="Box" label="Text">1</container>
+                        <container parent="cid133018" type="Folder">16</container>
+                        <unitdate normal="1953/1962" type="inclusive">1953-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Canadian events</unittitle>
+                        <container id="cid133016" type="Box" label="Text">1</container>
+                        <container parent="cid133016" type="Folder">17</container>
+                        <unitdate normal="1954/1962" type="inclusive">1954-1962</unitdate>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents</head>
+                        <p>Programs and ephemera related to events that took place in Canada, primarily in the vicinity of Toronto and Hamilton, Ontario.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Tickets and ticket stubs</unittitle>
+                        <container id="cid133017" type="Box" label="Text">1</container>
+                        <container parent="cid133017" type="Folder">18</container>
+                        <unitdate normal="1953/1963" type="inclusive">1953-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Other ephemera</unittitle>
+                        <container id="cid133019" type="Box" label="Text">1</container>
+                        <container parent="cid133019" type="Folder">19</container>
+                        <unitdate normal="1953/1963" type="inclusive">1953-1963</unitdate>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents</head>
+                        <p>Advertising, bulletins and mailingsfrom various Ukrainian-American organizations, political publications, programs and announcements of events taking place outside of Buffalo.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

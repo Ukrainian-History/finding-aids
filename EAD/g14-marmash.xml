@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>g.14</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-05-05T14:52-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Joseph Marmash Papers</unittitle>
+            <unitid>g.14</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.3 Linear feet</extent>
+                <extent>2 boxes</extent>
+            </physdesc>
+            <unitdate normal="1931/1982" type="inclusive">1931-1982</unitdate>
+            <langmaterial id="ref41" label="Language of Materials">English and Ukrainian</langmaterial>
+            <abstract id="ref57" label="Abstract">Joseph Marmash was an active member of the Baltimore, MD Ukrainian-American community over many decades. He was born to members of the first wave of Ukrainian immigrants to the US, and his involvement with the Ukrainian-American Citizens Club and other organizations and causes began in the 1930s. This collection documents some of these activities, as well as his extensive work helping to resettle Ukrainian Displaced Persons after World War II.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Marmash, Joseph, 1911-1999</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>This collection contains extensive documentation of the activities of the Ukrainian-American Citizens Club of Baltimore, MD and other Ukrainian-American organizations with which Joseph Marmash was involved. He also kept extremely detailed records of his work on behalf of the Maryland State Committee for the Resettlement of Displaced Persons. The latter contain a large amount of correspondence with numerous Ukrainian refugees either trying to resettle or that already resettled in Maryland, as well as with their employers. A significant fraction of the correspondence deals with complaints about poor living conditions, maltreatment and/or breach of contract by their employers.</p>
+        </scopecontent>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Joseph Marmash was very active in the Ukrainian-American community of Baltimore, Maryland, and helped post-World War II refugees as a member of the Maryland State Committee for the Resettlement of Displaced Persons. He was born in 1911 in Maryland to a Ukrainian immigrant family. After completion of the 10th grade he began work for the Montgomery Ward mail order distribution center in Baltimore, eventually holding positions of supervisor and industrial engineer. He continued to work for Montgomery Ward through his retirement in 1976, with the exeption of a brief wartime position as a draftsman with the Bethlehem Steel Shipbuilding Company (1943-1945). His activities in the Ukrainian-American community included organizing the Ukrainian Youth Club in 1932, serving as president of the Ukrainian American Citizen's Club beginning in 1936, organizing and managing a Ukrainian-American softball team in 1937, and serving as president of Branch 320 of the Ukrainian National Association (1946-1952). In 1948 he was appointed by Maryland governor William Preston Lane as a representative to the Maryland State Committee for the Resettlement of Displaced Persons, and in 1949 he helped to organize and became the first president of the Baltimore branch of the Ukrainian Congress Committee of America.</p>
+        </bioghist>
+        <arrangement id="ref60">
+            <head>Arrangement</head>
+            <p>The collection is arranged in seven series, as follows:</p>
+            <list type="ordered">
+                <item>Maryland State Committee for the Resettlement of Displaced Persons</item>
+                <item>Lemko Housing Corporation</item>
+                <item>American-Ukrainian Democratic Club of Maryland</item>
+                <item>All-Nations Day Festival</item>
+                <item>Ukrainian Education Association of Maryland</item>
+                <item>General papers and correspondence</item>
+                <item>Photographs</item>
+            </list>
+        </arrangement>
+        <prefercite id="ref61">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Joseph Marmash Papers; box number; folder number; Ukrainian Historical and Educational Center Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <relatedmaterial id="ref63">
+            <head>Related Archival Materials</head>
+            <p>The records of the United Ukrainian American Relief Committee for the immediate post-war time period can be found at the Immigration History Research Center (University of Minnesota, Twin Cities).</p>
+            <p>The records of the Ukrainian American Citizen's Club of Baltimore, Maryland (of which Joseph Marmash was a long-time president) can be found at the Ukrainian Historical and Educational Center Archives (collection g.23).</p>
+        </relatedmaterial>
+        <accessrestrict id="ref67">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for researcher use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <userestrict id="ref68">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <processinfo id="ref69">
+            <head>Processing Information</head>
+            <p>The records of the Ukrainian American Citizen's Club which were originally part of this collection have been separated out into their own collection (ID number g.23).</p>
+        </processinfo>
+        <custodhist id="ref70">
+            <head>Custodial History</head>
+            <p>Bequethed by Joseph Marmash to his daughter Diana Marmash Carico, who donated these materials to the Ukrainian Historical and Educational Center.</p>
+        </custodhist>
+        <controlaccess>
+            <corpname source="naf">Ukrainian Congress Committee of America.</corpname>
+            <corpname source="naf">United Ukrainian American Relief Committee.</corpname>
+            <subject source="lcsh">Ukrainian Americans--Maryland--Baltimore</subject>
+            <subject source="lcsh">World War, 1939-1945--Refugees </subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Maryland State Committee for the Resettlement of Displaced Persons</unittitle>
+                    <unitid>Series 1.</unitid>
+                    <unitdate>1948-1976, bulk 1949</unitdate>
+                </did>
+                <c02 id="ref11" level="subseries">
+                    <did>
+                        <unittitle>Correspondence and records</unittitle>
+                        <physdesc>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents</head>
+                        <p>Contains incoming and outgoing correspondence with numerous Ukrainian refugees either trying to resettle or that were already in Maryland, as well as with their employers. A significant fraction of the correspondence deals with complaints about poor living conditions, maltreatment and/or breach of contract by their employers. Many of these letters have been summarized or paraphrased by J. Marmash into English. It also includes correspondence with Governor Lane and Governor Theodore McKeldin, D. L. B. Fringer (Director of Employment Services Division, MD Department of Employment Security), Committee chair William F. Laukaitis, Dr. Walter Gallan (Executive Director, United Ukrainian American Relief Committee), and others. Also contains copies of MD State Committee meeting minutes, records of the Ukrainian Relief Committee of Baltimore, J. Marmash's notes from investigative visits with resettled DPs and their employers, correspondence related to the "I Am an American" Day Parade (May 15, 1949), and DP arrival lists (containing names, ages, occupations, and destinations).</p>
+                    </scopecontent>
+                    <processinfo id="ref65">
+                        <head>Processing Information</head>
+                        <p>Material was originally housed in two folders and appeared to have been generally arranged chronologically by the creator, though there were some serious inconsistencies. Series is now arranged in chronological order, with undated items placed in roughly the same positions relative to the surrounding material in the original arrangement.</p>
+                    </processinfo>
+                    <c03 id="ref7" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid134015" type="Box" label="Text">1</container>
+                            <container parent="cid134015" type="Folder">1</container>
+                            <unitdate>1948-March 1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref8" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid134016" type="Box" label="Text">1</container>
+                            <container parent="cid134016" type="Folder">2</container>
+                            <unitdate>April-May 1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref9" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid134017" type="Box" label="Text">1</container>
+                            <container parent="cid134017" type="Folder">3</container>
+                            <unitdate>June-December 1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref10" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid134018" type="Box" label="Text">1</container>
+                            <container parent="cid134018" type="Folder">4</container>
+                            <unitdate>1950-1976</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref12" level="subseries">
+                    <did>
+                        <unittitle>Index card file</unittitle>
+                        <container id="cid134014" type="Box" label="Text">2</container>
+                        <physdesc>
+                            <extent>Approximately 500 index cards.</extent>
+                        </physdesc>
+                        <unitdate>Circa 1949</unitdate>
+                    </did>
+                    <scopecontent id="ref45">
+                        <head>Scope and Contents</head>
+                        <p>Contains 3"x5" index cards, each having information about a single resettled DP family, including their names, ages, occupations, country of origin, sponsor's name, and date of arrival.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>Lemko Housing Corporation</unittitle>
+                    <unitid>Series 2.</unitid>
+                    <physdesc>
+                        <extent>4 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1978/1982" type="inclusive">1978-1982</unitdate>
+                </did>
+                <scopecontent id="ref20">
+                    <head>Scope and Contents</head>
+                    <p>Records and other materials related to the Lemko Housing project, a subsidized housing development intended for Slavic senior citizens. It was initially to be built in the Canton neighborhood of Baltimore, but due to controversy and heated local opposition the site was eventually changed to an address in the Fell's Point neighborhood. Joseph Marmash was heavily involved with the project until his resignation from the board in August, 1981.</p>
+                </scopecontent>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Records</unittitle>
+                        <container id="cid134021" type="Box" label="Text">1</container>
+                        <container parent="cid134021" type="Folder">5</container>
+                        <unitdate>1978 - circa 1980</unitdate>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents</head>
+                        <p>Bylaws, Letter of Intent, and other miscellaneous records.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid134020" type="Box" label="Text">1</container>
+                        <container parent="cid134020" type="Folder">6</container>
+                        <unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents</head>
+                        <p>Incoming and outgoing correspondence with Senators Paul Sarbanes and Charles Mathias, Representatives Clarence Long, Barbara Mikulski, and other members of the Maryland Congressional delegation, copies of Department of Housing and Urban Development filings, and a letter to the editor.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings</unittitle>
+                        <container id="cid134022" type="Box" label="Text">1</container>
+                        <container parent="cid134022" type="Folder">7</container>
+                        <unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Contents</head>
+                        <p>Clippings primarily from the News American and the Baltimore Sun that detail the controversies around the Lemko Housing project.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Ephemera</unittitle>
+                        <container id="cid134019" type="Box" label="Text">1</container>
+                        <container parent="cid134019" type="Folder">8</container>
+                        <unitdate>circa 1980</unitdate>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents</head>
+                        <p>Brochures and application information for other subsidized housing projects. Newsletters from the Harkins Group construction company.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>American-Ukrainian Democratic Club of Maryland</unittitle>
+                    <unitid>Series 3.</unitid>
+                    <container id="cid135002" type="Box" label="Text">1</container>
+                    <container parent="cid135002" type="Folder">9</container>
+                    <physdesc>
+                        <extent>1 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate>
+                </did>
+                <scopecontent id="ref16">
+                    <head>Scope and Contents</head>
+                    <p>Incoming and outgoing correspondence, including letters to Democratic political candidates informing them of the Club's endorsement, letters of congratulation, thank-you letter from Edward Garmatz, correspondence with Stephen Jarema regarding a national Ukrainian-American Democratic organization, and congressional district maps.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>All-Nations Day Festival</unittitle>
+                    <unitid>Series 4.</unitid>
+                    <container id="cid135003" type="Box" label="Text">1</container>
+                    <container parent="cid135003" type="Folder">10</container>
+                    <physdesc>
+                        <extent>1 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1953/1954" type="bulk">Bulk, 1953-1954</unitdate>
+                    <unitdate normal="1949/1974" type="inclusive">1949-1974</unitdate>
+                </did>
+                <scopecontent id="ref18">
+                    <head>Scope and Contents</head>
+                    <p>Correspondence and ephemera related to the "All-Nations Day Festival" at Gwynn Oak Park. Also includes a photograph of the event in 1949, as well as one from an unknown event in 1974.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref48" level="series">
+                <did>
+                    <unittitle>Ukrainian Education Association of Maryland</unittitle>
+                    <unitid>Series 5.</unitid>
+                    <container id="cid135007" type="Box" label="Text">1</container>
+                    <container parent="cid135007" type="Folder">11</container>
+                    <unitdate normal="1973/1981" type="inclusive">1973-1981</unitdate>
+                </did>
+                <scopecontent id="ref51">
+                    <head>Scope and Contents</head>
+                    <p>The Ukrainian Education Association of MD was responsible for the publication of the book "The Ukrainians of Maryland" (1977). This series contains meeting minutes and photocopied publications of the Association on various topics, as well as material related to the sale of the book to school libraries.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref59" level="series">
+                <did>
+                    <unittitle>General papers and correspondence</unittitle>
+                    <unitid>Series 6.</unitid>
+                </did>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid135001" type="Box" label="Text">1</container>
+                        <container parent="cid135001" type="Folder">12</container>
+                        <physdesc>
+                            <extent>1 folder</extent>
+                        </physdesc>
+                        <unitdate normal="1951/1952" type="bulk">Bulk, 1951-1952</unitdate>
+                        <unitdate normal="1950/1964" type="inclusive">1950-1964</unitdate>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents</head>
+                        <p>Incoming and outgoing corresponcence regarding matters related to the Ukrainian-American community, as well as correspondence in his official capacities in the Ukrainian-American Citizen's Club, the Ukrainian National Home and the Ukrainian Congress Committee of America (UCCA). Includes invitations to dignitaries to Ukrainian-American events (and their responses), invitations to participate in events from government officials and other organizations, correspondence with Julian Revay (UCCA), Dmytro Halychyn (UCCA and Ukrainian National Association), and what appears to be an undated draft of a speech.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>UCCA address list</unittitle>
+                        <container id="cid135004" type="Box" label="Text">1</container>
+                        <container parent="cid135004" type="Folder">13</container>
+                        <unitdate>1979</unitdate>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents</head>
+                        <p>List of addresses and phone numbers of individuals who were either members of the Ukrainian Congress Committee of America, or who were on that organization's mailing list.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Writings</unittitle>
+                        <container id="cid135005" type="Box" label="Text">1</container>
+                        <container parent="cid135005" type="Folder">14</container>
+                        <unitdate>1978 and undated</unitdate>
+                    </did>
+                    <scopecontent id="ref50">
+                        <head>Scope and Contents</head>
+                        <p>Biographical statement and photocopies of two essays: "The Ukrainian American Citizens Club &amp; Ukrainian National Home" and "Ukrainian Schools in Maryland".</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings</unittitle>
+                        <container id="cid135008" type="Box" label="Text">1</container>
+                        <container parent="cid135008" type="Folder">15</container>
+                        <unitdate normal="1973/1981" type="inclusive">1973-1981</unitdate>
+                    </did>
+                    <processinfo id="ref66">
+                        <head>Processing Information</head>
+                        <p>Since most contain no annotation by the creator of the collection, only the beginning of each article (as well as the newspaper name and issue number) has been photocopied onto acid-free paper.</p>
+                    </processinfo>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents</head>
+                        <p>Clippings of articles on Ukrainian-related topics in English from Ukrainian-American newspapers (The Weekly, The Way), as well as from general circulation papers like The Baltimore Sun.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Ephemera</unittitle>
+                        <container id="cid135006" type="Box" label="Text">1</container>
+                        <container parent="cid135006" type="Folder">16</container>
+                        <unitdate normal="1951/1979" type="inclusive">1951-1979</unitdate>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents</head>
+                        <p>Posters, flyers, leaflets, concert program, song lyrics, and other miscellaneous material. Also includes the "Constitution of the Ukrainian Students Society of Baltimore, Maryland".</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref42" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>Series 7.</unitid>
+                    <container id="cid135010" type="Oversize" label="Text">1</container>
+                    <container id="cid135009" type="Box" label="Text">1</container>
+                    <container parent="cid135009" type="Folder">17</container>
+                    <unitdate>1931-circa 1985, bulk 1931- 1953</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
