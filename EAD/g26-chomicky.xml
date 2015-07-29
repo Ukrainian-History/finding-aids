@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>g.26</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center of NJ Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-07-29T11:28-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Fr. Gregory Chomicky papers</unittitle>
+            <unitid>g.26</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center of NJ Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>19.5 Linear feet</extent>
+            </physdesc>
+            <unitdate>circa 1913-1975</unitdate>
+            <abstract id="ref3" label="Abstract">This collection houses the personal and professional papers of Fr. Gregory Chomicky, a "first wave" (pre-World War I) Ukrainian immigrant to the United States. It contains material related to his work as a clergyman, both as a parish priest and as a member of the leadership of the Ukrainian Orthodox Church in America and the Ukrainian Orthodox Church of the USA. It also documents his personal and family life as well as parish and Ukrainian-American community activities.</abstract>
+            <langmaterial id="ref8" label="Language of Materials">Approximately 75% Ukrainian, 20% English, and the remainder in Croatian, Polish, German, and other languages. More language details are given at the series level.</langmaterial>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Chomicky, Gregory, 1891-1974</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Fr. Gregory Chomicky (Григорій Хомицький, Hryhorii Khomyts'kyi) was one of the first Ukrainian Orthodox clergymen in the United States. He was a leader of the proto-Orthodox "Ukrainian National Church" in the mid-1910s, and later played a major role in both the Ukrainian Orthodox Church in America and the Ukrainian Orthodox Church of the USA. He helped to found St. Vladimir Ukrainian Orthodox Church in Cleveland (now St. Vladimir Cathedral) and St. Michael parish in Jeannette, Pennsylvania, and served at a number of parishes in Delaware and Pennsylvania from the 1940s through the 1960s.</p>
+            <p>Fr. Gregory was born on October 11, 1891 in the village of Lubianky Vyshchi near Zbarazh in the Austro-Hungarian province of Galicia (now in Zbarazh raion, Ternopil' oblast', Ukraine) to Mykhailo Khomyts'kyi and Domitselia Adamovych. He completed his secondary education at the Ternopil' Gymnasium in 1911, then studied philosophy at the Franz Joseph Imperial University in L'viv. He emigrated to the United States in February, 1913. He continued his studies at the Roman Catholic seminary of Sts. Cyril and Methodius in Orchard Lake, Michigan, and then (at the request of the Ukrainian Greek Catholic Bishop Soter Ortyns'kyi) at St. Mary Seminary in Baltimore. His formal education was interrupted by illness in the fall of 1914, but he continued his studies independently.</p>
+            <p>He was ordained to the deaconate and priesthood in May 1915 by the Old Catholic Bishop Carmel Henry Carfora in Youngstown, Ohio, and was named Vicar General of the Ukrainian National Church. Due to concern about Bishop Carfora's canonicity, Fr. Gregory was re-ordained by Bishop Stephen Dzubay of the Russian Orthodox Mission in 1918. Fr. Gregory joined the eparchy of Archbishop Ioan (Teodorovych) upon his arrival in the United States in 1924. In the 1930s, he changed his allegiance to Bp. Bohdan (Shpyl'ka) of the Ukrainian Orthodox Church in America.</p>
+            <p>The late 1940s saw major changes in the landscape of Ukrainian Orthodoxy in North America, precipitated in part by the arrival of large numbers of post-war Displaced Persons, which, in contrast to previous immigration waves, included significant numbers of Orthodox Christians from central and eastern Ukraine. Among the refugees were Orthodox bishops such as Mstyslav (Skrypnyk) and Ilarion (Ohienko), and many Orthodox clergy. Fr. Gregory was literally in the middle of these events. In 1948, a Sobor (general Church Council) took place at the cathedral in Allentown, Pennsylvania, where he was the rector. This Sobor ratified the appointment of Abp. Mstyslav (then with the Ukrainian Greek Orthodox Church of Canada) to join Bp. Bohdan's eparchy. Fr. Gregory was heavily involved in the preparations for the Sobor, as well as with its aftermath (Bp. Bohdan and some priests and parishes did not go along with the Council's decisions and friction developed between him and the governing board of the Church). In 1950, joint Sobors of the Ukrainian Orthodox Church in America and the American Ukrainian Orthodox Church of the USA met in New York City, followed by an Extraordinary Sobor which unified the two Churches to form the present Ukrainian Orthodox Church of the USA (UOC of USA). Fr. Gregory remained with the UOC of USA until his death in 1974.</p>
+            <p>Fr. Gregory served as parish priest at Holy Trinity parish, Chicago (1915-1916, 1924); Sts. Peter and Paul Croatian Byzantine Catholic parish, Chicago (1916-1924, 1930-1937); St. Vladimir parish, Cleveland (circa 1925-1930); Buffalo, NY (1930); St. Michael parish, Jeannette, Penn. (1937-1939); Sts. Peter and Paul parish, Wilmington, Del. (1939-1941); the Ukrainian Orthodox Church of the Most Holy Mother of God, Allentown, Penn. (1941-1950); the Ukrainian Orthodox Church of St. Volodymyr, Ambridge, Penn. (1950-1954); and St. Michael parish, Scranton, Penn. (from 1954 until his retirement).</p>
+        </bioghist>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for researcher use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <userestrict id="ref6">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <processinfo id="ref370">
+            <head>Processing Information</head>
+            <p>This collection arrived at the Center in various degrees of disarray. Apart from the professional papers (which had evidence of both chronological and activity-based arrangement) and the sermons (which were partially arranged according to the liturgical calendar), much of the materials had only occasionally discernable original order. Much of the present arrangement was imposed by the processing archivist.</p>
+        </processinfo>
+        <custodhist id="ref7">
+            <head>Custodial History</head>
+            <p>After the death of Fr. Gregory, the collection resided with his widow and his daughter Elaine Chomicky White. The collection arrived in the Center in the form of three accruals. The first consisted of photocopies made by Elaine White of portions of the professional records (these make up the bulk of the current Series 12). She subsequently donated the originals of those records, which make up most of the current Series 1. The rest of the collection remained in the custody of Elaine White, and were donated to the Center by her nephew (Fr. Gregory's grandson) John Tockston acting as her power-of-attorney.</p>
+        </custodhist>
+        <prefercite id="ref9">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Fr. Gregory Chomicky Papers; box number; folder number; Ukrainian Historical and Educational Center of NJ Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <scopecontent id="ref394">
+            <head>Зміст фонду</head>
+            <p>Цей фонд включає в собі особисті та професійні документи о. Григорія Хомицького, іммігрант "першої хвилі" до США. Фонд містить матеріали, пов'язані з його діяльністю як настоятелем парафій, і як член керівництва Української Православної Церкви в Америці та Української Православної Церкви в США. У фонді також особисті та сімейні листи та документи, а також матеріяли про громадську та парафіялну діяльність українців в Америці.</p>
+            <p>Фонд містить кореспонденцію, протоколи зборів та церковних соборів, рукописи, проповіді, парафіяльні матеріяли (метрики хрещення та шлюбу, церковні оголошення), фотографії, газетні вирізки, та публікації.</p>
+            <p>Ця колекція відрізняється тим, що вона містить значну кількість матеріалу, яка документує критичний період 1948-го до 1950-го року в історії Української Православної церкви в США. Вона також містить листи та інші документи, пов'язані з життям українців в Америці в 1910-х і 1920-х роках, період з якого первинні джерела досить рідкісні. Метричні записи, шлюбні оприлюднення, і подібні матеріяли з українських і хорватських церковних громад Чикаго та Аллентаун, штат Пенсільванія, також будуть допоміжні генеалогам.</p>
+        </scopecontent>
+        <scopecontent id="ref10">
+            <head>Scope and Contents</head>
+            <p>This collection houses the personal and professional papers of Fr. Gregory Chomicky, a "first wave" (pre-World War I) Ukrainian immigrant to the United States. It contains material related to his work as a clergyman, both as a parish priest and as a member of the leadership of the Ukrainian Orthodox Church in America and the Ukrainian Orthodox Church of the USA. It also documents his personal and family life as well as parish and Ukrainian-American community activities.</p>
+            <p>The collection contains correspondence, minutes, Church Council (Sobor) records, manuscripts, sermons, parish records (such as records of baptism and marriage, as well as notes of church announcements and marriage banns), photographs, newspaper clippings, ephemera, published materials, and realia.</p>
+            <p>This collection is distinctive in that it contains significant quantities of material documenting the critical period in Ukrainian Orthodox church history from 1948 to 1950, and will therefore be of interest to religious historians of. It is also unusual in that it contains letters and other documents relating to Ukrainian-American life in the 1910s and 1920s, a time period which in general is poorly documented in terms of primary sources. The collection has correspondence, ephemera, and photographs related to Ukrainian-American cultural events in Cleveland, Ohio in the 1920s and early 1930s, including community participation in the "All Nations Exposition" and the "Theater of the Nations". Notebooks containing church announcements provide a unique snapshot of the daily life of Ukrainian Orthodox parishes in the 1950s and 1960s. The sacramental records, marriage banns, and related materials will also be of considerable interest to genealogists.</p>
+        </scopecontent>
+        <arrangement id="ref387">
+            <head>Arrangement</head>
+            <p>Arranged in twelve series as follows</p>
+            <list numeration="arabic" type="ordered">
+                <item>Professional records and correspondence</item>
+                <item>Personal and family correspondence</item>
+                <item>Subject files</item>
+                <item>Writings</item>
+                <item>Church announcements and notes</item>
+                <item>Parish records</item>
+                <item>Address books, notebooks, and diary</item>
+                <item>Photographs</item>
+                <item>Ephemera and newspaper clippings</item>
+                <item>Books and other published materials</item>
+                <item>Realia</item>
+                <item>Photocopies</item>
+            </list>
+        </arrangement>
+        <controlaccess>
+            <corpname rules="dacs" source="local">American Ukrainian Orthodox Church of the USA.</corpname>
+            <persname rules="local" source="local">Bilon, Peter, 1879-1959</persname>
+            <persname source="local">Bohdan (Shpylka), Metropolitan, 1892-1965</persname>
+            <persname source="local">Hundiak, Ivan, 1895-1985</persname>
+            <persname source="naf">Mstyslav, Patriarch of Kiev and All Ukraine, 1898-1993 </persname>
+            <corpname source="naf">Old Catholic Church in America.</corpname>
+            <persname source="naf">Teodorovych, Ivan, Metropolitan, 1887-1971</persname>
+            <corpname source="local">Ukrainian Orthodox Church in America.</corpname>
+            <corpname rules="aacr" source="local">Ukrainian Orthodox Church of the USA.</corpname>
+            <subject source="lcsh">Croatian Americans--Illinois--Chicago</subject>
+            <subject source="lcsh">Registers of births, etc.</subject>
+            <genreform source="yabelgft">Sermons</genreform>
+            <subject source="lcsh">Sermons, Croatian</subject>
+            <subject source="lcsh">Sermons, Ukrainian</subject>
+            <subject source="lcsh">Ukrainian American churches</subject>
+            <subject source="lcsh">Ukrainian Americans--Illinois--Chicago</subject>
+            <subject source="lcsh">Ukrainian Americans--Ohio--Cleveland</subject>
+            <subject source="lcsh">Ukrainian Americans--Pennsylvania</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref161" level="series">
+                <did>
+                    <unittitle>Professional records and correspondence</unittitle>
+                    <unitid>Series 1.</unitid>
+                    <physdesc>
+                        <extent>2.75 Linear feet</extent>
+                    </physdesc>
+                    <unitdate>circa 1915-1971</unitdate>
+                    <langmaterial id="ref173" label="Language of Materials">Approximately 90% Ukrainian and 10% English, with small quantities of Croatian.</langmaterial>
+                </did>
+                <scopecontent id="ref172">
+                    <head>Scope and Contents</head>
+                    <p>Correspondence and records associated with Fr. Gregory's work as a priest and member of national-level Church leadership. Includes incoming and copies of outgoing correspondence with bishops Carmel Henry Carfora, Ioan (Teodorovych), Joseph (Zuk), Bohdan (Shpyl'ka), and Mstyslav (Skrypnyk); correspondence with Church Consistory and Board; correspondence with fellow clergy (most prominently Fr. Andrii Ivanyshyn, Fr. Petro Bilon, and Fr. Ivan Hundiak) and laity; parish-related correspondence and records; certificates; mailings from the UOC of USA Consistory; records related to Sobors (Church Councils); correspondence with and manuscripts from the editorial office of the periodical "Ukrains'kyi Vistnyk"; deanery records and mailings; and related materials. Additional or unusual materials are noted at the file level.</p>
+                </scopecontent>
+                <arrangement id="ref197">
+                    <head>Arrangement</head>
+                    <p>Arranged primarily by date, except for some subject-based groupings that reflect what appears to be the original order.</p>
+                </arrangement>
+                <relatedmaterial id="ref373">
+                    <head>Related Archival Materials</head>
+                    <p>Given the difficulty of separating personal from professional material in the papers of members of the clergy, researchers should also consult the "Personal and family correspondence" series in this collection.</p>
+                </relatedmaterial>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid150001" type="Box" label="Text">1</container>
+                        <container parent="cid150001" type="Folder">1-4</container>
+                        <physdesc>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1915/1919" type="inclusive">circa 1915-1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid150002" type="Box" label="Text">1</container>
+                        <container parent="cid150002" type="Folder">5-9</container>
+                        <physdesc>
+                            <extent>6 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1920/1929" type="inclusive">1920-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid150003" type="Box" label="Text">1</container>
+                        <container parent="cid150003" type="Folder">10-11</container>
+                        <container id="cid150004" type="Box" label="Text">2</container>
+                        <container parent="cid150004" type="Folder">1-3</container>
+                        <physdesc>
+                            <extent>5 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1930/1940" type="inclusive">1930-1940</unitdate>
+                    </did>
+                    <scopecontent id="ref177">
+                        <head>Scope and Contents</head>
+                        <p>Also includes undated materials, incidental prayer and speech, archpastoral letters by Bp. Bohdan (some in holograph), and newspaper clippings and other published materials.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid151001" type="Box" label="Text">2</container>
+                        <container parent="cid151001" type="Folder">4-5</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate>1940, 1946 (bulk 1940)</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid151002" type="Box" label="Text">2</container>
+                        <container parent="cid151002" type="Folder">6</container>
+                        <unitdate normal="1941/1941">1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid151003" type="Box" label="Text">2</container>
+                        <container parent="cid151003" type="Folder">7</container>
+                        <unitdate normal="1942/1942">1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid151004" type="Box" label="Text">2</container>
+                        <container parent="cid151004" type="Folder">8</container>
+                        <unitdate normal="1943/1943">1943</unitdate>
+                    </did>
+                    <scopecontent id="ref182">
+                        <head>Scope and Contents</head>
+                        <p>Also includes item from 1942.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref183" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid151005" type="Box" label="Text">2</container>
+                        <container parent="cid151005" type="Folder">9</container>
+                        <unitdate normal="1944/1944">1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid151006" type="Box" label="Text">2</container>
+                        <container parent="cid151006" type="Folder">10</container>
+                        <unitdate normal="1945/1945">1945</unitdate>
+                    </did>
+                    <scopecontent id="ref193">
+                        <head>Scope and Contents</head>
+                        <p>Also includes donor lists and letters and telegrams of greeting for a banquet honoring Bp. Bohdan and celebrating the Allentown parish's "mortgage burning".</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid151007" type="Box" label="Text">2</container>
+                        <container parent="cid151007" type="Folder">11</container>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid151009" type="Box" label="Text">3</container>
+                        <container parent="cid151009" type="Folder">1</container>
+                        <container id="cid151008" type="Box" label="Text">2</container>
+                        <container parent="cid151008" type="Folder">12</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1947/1947">1947</unitdate>
+                    </did>
+                    <scopecontent id="ref187">
+                        <head>Scope and Contents</head>
+                        <p>Also includes material dated 1942.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid151011" type="Box" label="Text">3</container>
+                        <container parent="cid151011" type="Folder">2</container>
+                        <unitdate normal="1942/1950" type="inclusive">1942-1950</unitdate>
+                    </did>
+                    <scopecontent id="ref189">
+                        <head>Scope and Contents</head>
+                        <p>Also contains eparchial financial statements and parish sacramental register book extracts for Allentown, PA.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>Consistory meeting minutes</unittitle>
+                        <container id="cid151010" type="Box" label="Text">3</container>
+                        <container parent="cid151010" type="Folder">3</container>
+                        <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>Displaced Person clergy</unittitle>
+                        <container id="cid151012" type="Box" label="Text">3</container>
+                        <container parent="cid151012" type="Folder">4-5</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1945/1950" type="inclusive">1945-1950</unitdate>
+                    </did>
+                    <scopecontent id="ref195">
+                        <head>Scope and Contents</head>
+                        <p>Contains letters from clergy in Displaced Persons camps in Germany seeking help from the Ukrainian Orthodox Church in America (addressed to Fr. Ivanyshyn and Fr. Forostii), along with their biographical information, IRO certificates, and related documentation. Also includes correspondence related to the resettlement of Abp. Ilarion (Ohienko), and publications by the Ukrainian Congress Committee of America, the United Ukrainian American Relief Committee, and the newsletter of the Ukrainian prisoner of war camp in Rimini, Italy.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>1948 and 1950 Sobors</unittitle>
+                        <container id="cid152001" type="Box" label="Text">3</container>
+                        <container parent="cid152001" type="Folder">6-12</container>
+                        <container id="cid152002" type="Oversize" label="Text">1</container>
+                        <container id="cid152003" type="Box" label="Text">5</container>
+                        <container parent="cid152003" type="Folder">1-4</container>
+                        <container id="cid152004" type="Box" label="Text">4</container>
+                        <container parent="cid152004" type="Folder">1-9</container>
+                        <physdesc>
+                            <extent>0.75 Linear feet</extent>
+                            <extent>21 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1947/1950" type="inclusive">1947-1950</unitdate>
+                    </did>
+                    <scopecontent id="ref192">
+                        <head>Scope and Contents</head>
+                        <p>Primarily contains materials pertaining to the preparation, activity, and aftermath of the 1948 and 1950 General Church Councils (Sobors) which lead to the creation of the present Ukrainian Orthdox Church of the USA. It includes correspondence, meeting minutes, Sobor minutes, and messages of support and dissent sent to the Sobor. It also includes materials related to legal disputes between the Board of the Ukrainian Orthodox Church in America and Bp. Bohdan, and letters to Ecumenical Patriarch Athenagoras regarding the Board's dissatisfaction with Bp. Bohdan. Some folders contain materials dated 1941 to 1946. It also contains some incidental materials related to general Church administration and parish business during the this time period.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid152005" type="Box" label="Text">5</container>
+                        <container parent="cid152005" type="Folder">5-10</container>
+                        <container id="cid152006" type="Box" label="Text">6</container>
+                        <container parent="cid152006" type="Folder">1-7</container>
+                        <physdesc>
+                            <extent>13 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1951/1959" type="inclusive">1951-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>Fr. W. Fedak correspondence</unittitle>
+                        <container id="cid152007" type="Box" label="Text">6</container>
+                        <container parent="cid152007" type="Folder">8</container>
+                        <unitdate normal="1954/1954">1954</unitdate>
+                    </did>
+                    <scopecontent id="ref200">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with Fr. Fedak of Hamilton, Ontario. Fr. Fedak is requesting information missionary work done by Fr. Gregory in Hamilton in the 1920s for use in a parish anniversary book. Also includes items related to Hamilton, Ontario dated 1926.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>St. Michael parish (Scranton, Penn.) and UOC of USA Consistory</unittitle>
+                        <container id="cid152008" type="Box" label="Text">6</container>
+                        <container parent="cid152008" type="Folder">9</container>
+                        <unitdate normal="1958/1962" type="inclusive">1958-1962</unitdate>
+                    </did>
+                    <scopecontent id="ref202">
+                        <head>Scope and Contents</head>
+                        <p>Contains correspondence related to disputes between the parish and the Consistory of the Ukrainian Orthodox Church of the USA.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid152009" type="Box" label="Text">7</container>
+                        <container parent="cid152009" type="Folder">1-5</container>
+                        <container id="cid152010" type="Box" label="Text">6</container>
+                        <container parent="cid152010" type="Folder">10-11</container>
+                        <physdesc>
+                            <extent>7 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1960/1971" type="inclusive">1960-1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref391" level="file">
+                    <did>
+                        <unittitle>Undated</unittitle>
+                        <container id="cid171001" type="Box" label="Text">7</container>
+                        <container parent="cid171001" type="Folder">6</container>
+                    </did>
+                    <scopecontent id="ref392">
+                        <head>Scope and Contents</head>
+                        <p>Contains handwritten notes of meetings, possibly from the 1930s and/or 1940s.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref138" level="series">
+                <did>
+                    <unittitle>Personal and family correspondence</unittitle>
+                    <unitid>Series 2.</unitid>
+                    <physdesc>
+                        <extent>1.2 Linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1913/1969" type="inclusive">circa 1913-1969</unitdate>
+                    <langmaterial id="ref375" label="Language of Materials">Primarily Ukrainian, with some Polish and English.</langmaterial>
+                </did>
+                <relatedmaterial id="ref374">
+                    <head>Related Archival Materials</head>
+                    <p>Given the difficulty of separating personal from professional material in the papers of members of the clergy, researchers should also consult the "Professional records and correspondence" series in this collection.</p>
+                </relatedmaterial>
+                <arrangement id="ref376">
+                    <head>Arrangement</head>
+                    <p>Arranged chronologically by decade.</p>
+                </arrangement>
+                <scopecontent id="ref390">
+                    <head>Scope and Contents</head>
+                    <p>Contains letters and postcards from individuals throughout the US and Canada, as well as from family members in inter-war Galicia, Poland (Kalisz), Austria (Vienna), and Czechoslovakia (Terezín and Liberec/Reichenberg).</p>
+                </scopecontent>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid153001" type="Box" label="Text">7</container>
+                        <container parent="cid153001" type="Folder">7-8</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1913/1919" type="inclusive">circa 1913-1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid153002" type="Box" label="Text">7</container>
+                        <container parent="cid153002" type="Folder">9</container>
+                        <container id="cid153003" type="Box" label="Text">8</container>
+                        <container parent="cid153003" type="Folder">1-2</container>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1920/1929" type="inclusive">1920-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid153004" type="Box" label="Text">8</container>
+                        <container parent="cid153004" type="Folder">3-4</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1930/1939" type="inclusive">1930-1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid153006" type="Box" label="Text">9</container>
+                        <container parent="cid153006" type="Folder">1-3</container>
+                        <container id="cid153005" type="Box" label="Text">8</container>
+                        <container parent="cid153005" type="Folder">5</container>
+                        <physdesc>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1940/1949" type="inclusive">1940-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid153007" type="Box" label="Text">9</container>
+                        <container parent="cid153007" type="Folder">4-5</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1950/1969" type="inclusive">1950-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>Undated</unittitle>
+                        <container id="cid153008" type="Box" label="Text">9</container>
+                        <container parent="cid153008" type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Holiday greeting cards</unittitle>
+                        <container id="cid153009" type="Box" label="Text">9</container>
+                        <container parent="cid153009" type="Folder">7</container>
+                        <unitdate>circa 1920-circa 1960</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref145" level="series">
+                <did>
+                    <unittitle>Subject files</unittitle>
+                    <unitid>Series 3.</unitid>
+                    <physdesc>
+                        <extent>0.75 Linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1927/1975" type="inclusive">1927-1975</unitdate>
+                </did>
+                <c02 id="ref142" level="subseries">
+                    <did>
+                        <unittitle>Cleveland cultural events</unittitle>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1927/1931" type="inclusive">1927-1931</unitdate>
+                        <langmaterial id="ref377" label="Language of Materials">Primarily English.</langmaterial>
+                    </did>
+                    <scopecontent id="ref213">
+                        <head>Scope and Contents</head>
+                        <p>Contains materials related to Ukrainian-American cultural events in Cleveland, including concerts, dance performances, the "All Nations Exposition", and the "Theater of the Nations". Includes correspondence with the City of Cleveland, the Cleveland Plain Dealer, the Cleveland Press, and other individuals; photographs; programs and other ephemera; theater seating charts; blueprint of the layout of the "All Nations Exposition"; and period accounts in the English and Ukrainian press.</p>
+                    </scopecontent>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Correspondence, photographs, and ephemera</unittitle>
+                            <container id="cid154002" type="Box" label="Text">10</container>
+                            <container parent="cid154002" type="Folder">1</container>
+                            <unitdate normal="1927/1931" type="inclusive">1927-1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="file">
+                        <did>
+                            <unittitle>"Cleveland All Nations Exposition" program book</unittitle>
+                            <container id="cid154003" type="Box" label="Text">10</container>
+                            <container parent="cid154003" type="Folder">2</container>
+                            <unitdate normal="1929/1929">1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="file">
+                        <did>
+                            <unittitle>Seating charts, exhibit blueprint, and newspaper clippings</unittitle>
+                            <container id="cid154001" type="Oversize" label="Text">2-3</container>
+                            <container id="cid167001" type="Box" label="Text">10</container>
+                            <container parent="cid167001" type="Folder">3</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref214" level="subseries">
+                    <did>
+                        <unittitle>Personal documents and certificates</unittitle>
+                        <unitdate normal="1925/1965" type="inclusive">1925-1965</unitdate>
+                    </did>
+                    <c03 id="ref360" level="file">
+                        <did>
+                            <unittitle>Family documents</unittitle>
+                            <container id="cid167003" type="Box" label="Text">10</container>
+                            <container parent="cid167003" type="Folder">4</container>
+                            <container id="cid167002" type="Oversize" label="Text">4</container>
+                            <unitdate normal="1928/1950" type="inclusive">1928-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref361">
+                            <head>Scope and Contents</head>
+                            <p>Contains certificates, diplomas, and other personal documents and ephemera.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref362" level="file">
+                        <did>
+                            <unittitle>Certificate from the All-Ukrainian Church Council of the Ukrainian Autocephalous Orthodox Church (Kyiv, Ukrainian SSR)</unittitle>
+                            <container id="cid167004" type="Oversize" label="Text">5</container>
+                            <unitdate normal="1925/1925">1925</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref363" level="file">
+                        <did>
+                            <unittitle>Resolution of appreciation from Sts. Peter and Paul Church (Chicago)</unittitle>
+                            <container id="cid167005" type="Oversize" label="Text">6</container>
+                            <unitdate normal="1936/1936">1936</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref364" level="file">
+                        <did>
+                            <unittitle>Certificate from St. Michael Parish (Scranton, Penn.)</unittitle>
+                            <container id="cid167006" type="Oversize" label="Text">7</container>
+                            <unitdate normal="1965/1965">1965</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref70" level="series">
+                    <did>
+                        <unittitle>Golden Anniversary Testimonial Dinner</unittitle>
+                        <physdesc>
+                            <extent>5 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1965/1965">1965</unitdate>
+                    </did>
+                    <scopecontent id="ref378">
+                        <head>Scope and Contents</head>
+                        <p>Contains material related to the celebration of the 50th anniversary of Fr. Gregory's priesthood.</p>
+                    </scopecontent>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Greetings</unittitle>
+                            <container id="cid155002" type="Box" label="Text">10</container>
+                            <container parent="cid155002" type="Folder">5-7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Newspaper clippings and telegrams</unittitle>
+                            <container id="cid155003" type="Box" label="Text">11</container>
+                            <container parent="cid155003" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Banquet program and attendee list</unittitle>
+                            <container id="cid155004" type="Box" label="Text">11</container>
+                            <container parent="cid155004" type="Folder">2</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref136" level="series">
+                    <did>
+                        <unittitle>Funeral</unittitle>
+                        <container id="cid155005" type="Box" label="Text">11</container>
+                        <container parent="cid155005" type="Folder">3-6</container>
+                        <physdesc>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+                    </did>
+                    <scopecontent id="ref216">
+                        <head>Scope and Contents</head>
+                        <p>Contains material related to the funeral of Fr. Gregory, including funeral home paperwork, condolence book, condolence cards, and obituaries.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref160" level="series">
+                <did>
+                    <unittitle>Writings</unittitle>
+                    <unitid>Series 4.</unitid>
+                    <physdesc>
+                        <extent>2.5 Linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1933/1968" type="inclusive">1933-1968 and undated</unitdate>
+                </did>
+                <scopecontent id="ref229">
+                    <head>Scope and Contents</head>
+                    <p>Contains manuscripts and notes written by Fr. Gregory or by third parties (authorship is unclear in many cases).</p>
+                </scopecontent>
+                <c02 id="ref11" level="subseries">
+                    <did>
+                        <unittitle>Sermons for the church year</unittitle>
+                        <physdesc>
+                            <extent>2.0 Linear feet</extent>
+                            <extent>55 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1933/1968" type="inclusive">1933-1968</unitdate>
+                        <langmaterial id="ref219" label="Language of Materials">Approximately 50% Ukrainian, 40% English, and 10% Croatian.</langmaterial>
+                    </did>
+                    <arrangement id="ref12">
+                        <head>Arrangement</head>
+                        <p>Arranged according to the Eastern Christian liturgical calendar.</p>
+                    </arrangement>
+                    <scopecontent id="ref371">
+                        <head>Scope and Contents</head>
+                        <p>Contains sermons given at church services for Sundays, church Feast Days, and during Great Lent. Most sermons are dated with the year in which they were written. Many are also annotated with additional years, presumably indicating the years in which that sermon was "re-used" (presumably at a different parish).</p>
+                    </scopecontent>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>Sundays after Pentecost</unittitle>
+                            <container id="cid155006" type="Box" label="Text">13</container>
+                            <container parent="cid155006" type="Folder">1-11</container>
+                            <container id="cid155008" type="Box" label="Text">11</container>
+                            <container parent="cid155008" type="Folder">7-9</container>
+                            <container id="cid155007" type="Box" label="Text">12</container>
+                            <container parent="cid155007" type="Folder">1-11</container>
+                            <container id="cid155009" type="Box" label="Text">14</container>
+                            <container parent="cid155009" type="Folder">1-7</container>
+                            <physdesc>
+                                <extent>32 folders</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent id="ref217">
+                            <head>Scope and Contents</head>
+                            <p>Sermons for the 1st through the 32nd Sunday after Pentecost.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>Paschal cycle</unittitle>
+                            <container id="cid155010" type="Box" label="Text">15</container>
+                            <container parent="cid155010" type="Folder">1-9</container>
+                            <container id="cid155011" type="Box" label="Text">14</container>
+                            <container parent="cid155011" type="Folder">8-16</container>
+                            <physdesc>
+                                <extent>18 folders</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent id="ref218">
+                            <head>Scope and Contents</head>
+                            <p>Sermons from the Sunday of the Publican and Pharisee through Pentecost, including the Sundays of Lent and Easter.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref14" level="file">
+                        <did>
+                            <unittitle>Immovable feasts</unittitle>
+                            <container id="cid156001" type="Box" label="Text">16</container>
+                            <container parent="cid156001" type="Folder">1</container>
+                            <container id="cid156002" type="Box" label="Text">15</container>
+                            <container parent="cid156002" type="Folder">10-13</container>
+                            <physdesc>
+                                <extent>5 folders</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent id="ref220">
+                            <head>Scope and Contents</head>
+                            <p>Contains sermons for Nativity season (from the Sunday of the Holy Forefathers through the Sunday after Theophany), Civil New Year, and various Saint's and Feast Days.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref221" level="file">
+                        <did>
+                            <unittitle>Great Lent</unittitle>
+                            <container id="cid156003" type="Box" label="Text">16</container>
+                            <container parent="cid156003" type="Folder">2</container>
+                        </did>
+                        <scopecontent id="ref222">
+                            <head>Scope and Contents</head>
+                            <p>Contains sermons for mid-week services during Great Lent, as well as sermons for Lenten "mission" events.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>Sermons for special occasions</unittitle>
+                        <container id="cid156004" type="Box" label="Text">16</container>
+                        <container parent="cid156004" type="Folder">3</container>
+                        <unitdate normal="1941/1951" type="inclusive">1941-1951</unitdate>
+                    </did>
+                    <scopecontent id="ref224">
+                        <head>Scope and Contents</head>
+                        <p>Contains sermons for occasions not based on the liturgical calendar, including Memorial Day, Mother's Day, sermon for returning veterans, funeral eulogies (for Ol'ha Basarabova, Lt. Michael Staso, Natalia Hrypevets'ka, and one with an illegible name), and a sermon for radio broadcast.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>Sermon fragments</unittitle>
+                        <container id="cid156005" type="Box" label="Text">16</container>
+                        <container parent="cid156005" type="Folder">4</container>
+                    </did>
+                    <scopecontent id="ref226">
+                        <head>Scope and Contents</head>
+                        <p>Contains incomplete sermons, detached pages, and notes.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>"The One Holy Catholic and Apostolic Church"</unittitle>
+                        <container id="cid156006" type="Box" label="Text">16</container>
+                        <container parent="cid156006" type="Folder">5</container>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Prayers and liturgical texts</unittitle>
+                        <container id="cid156008" type="Box" label="Text">16</container>
+                        <container parent="cid156008" type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>"'Know Your Church!' sermons on Church history"</unittitle>
+                        <container id="cid156007" type="Box" label="Text">16</container>
+                        <container parent="cid156007" type="Folder">7</container>
+                        <unitdate normal="1931/1945" type="inclusive">1931-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>"Catechism or A short exposition of the truths of the Christian Religion"</unittitle>
+                        <container id="cid156009" type="Box" label="Text">16</container>
+                        <container parent="cid156009" type="Folder">8</container>
+                        <unitdate normal="1940/1941" type="inclusive">circa 1940-1941</unitdate>
+                    </did>
+                    <scopecontent id="ref230">
+                        <head>Scope and Contents</head>
+                        <p>Contains the manuscript of the published book, as well as the US Copyright Office registration certificate and letter to Fr. John Hundiak from Abp. Athenagoras commending the catechism.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Sunday School materials</unittitle>
+                        <container id="cid168001" type="Box" label="Text">16</container>
+                        <container parent="cid168001" type="Folder">9</container>
+                    </did>
+                    <scopecontent id="ref231">
+                        <head>Scope and Contents</head>
+                        <p>Contains religious education materials of uncertain authorship.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>"Kofechik - slavna indyians'ka kniahynia"</unittitle>
+                        <container id="cid156010" type="Box" label="Text">16</container>
+                        <container parent="cid156010" type="Folder">10</container>
+                    </did>
+                    <scopecontent id="ref232">
+                        <head>Scope and Contents</head>
+                        <p>Contains holograph manuscript with title page: "Кофечік - славна індиянська княгиня. Правдиве оповіданя про ґенерала De Soto і його жовнірів. З англійського переклав: Гр. Хомицький" ("Kofechik - The glorious Indian princess. A true story of General De Soto and his soldiers. Translated from the English by G. Chomicky")</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>General writings</unittitle>
+                        <container id="cid156011" type="Box" label="Text">17</container>
+                        <container parent="cid156011" type="Folder">1</container>
+                    </did>
+                    <scopecontent id="ref234">
+                        <head>Scope and Contents</head>
+                        <p>Contains autobiographical information, articles, poems, skits, and notes on both religious and secular themes. Most appear to be by Fr. Gregory, but do not have authorship explicitly indicated.</p>
+                    </scopecontent>
+                    <userestrict id="ref235">
+                        <head>Conditions Governing Use</head>
+                        <p>Requires special handling precautions due to fragile paper.</p>
+                    </userestrict>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Third-party writings</unittitle>
+                        <container id="cid156012" type="Box" label="Text">17</container>
+                        <container parent="cid156012" type="Folder">2</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref132" level="series">
+                <did>
+                    <unittitle>Church announcements and notes</unittitle>
+                    <unitid>Series 5.</unitid>
+                    <physdesc>
+                        <extent>0.25 Linear feet</extent>
+                    </physdesc>
+                    <unitdate>1920s-1967</unitdate>
+                </did>
+                <c02 id="ref365" level="file">
+                    <did>
+                        <unittitle>Announcement and address book</unittitle>
+                        <container id="cid168002" type="Box" label="Text">17</container>
+                        <container parent="cid168002" type="Folder">3-4</container>
+                        <unitdate>likely 1920s</unitdate>
+                    </did>
+                    <processinfo id="ref367">
+                        <head>Processing Information</head>
+                        <p>Loose inserted items that appeared to be causing acid migration have been segregated into a separate folder, and their former locations have been marked.</p>
+                    </processinfo>
+                    <scopecontent id="ref366">
+                        <head>Scope and Contents</head>
+                        <p>Notebook containing announcements to be read to the congregation during Sunday and Holy Day services (announcements of parish activities, donations, and related information), as well as addresses of parishioners and other notes. Entries are labeled by the Sunday in the Eastern Christian liturgical calendar, and most do not have a year indicated. It appears that the notebook contains entries from both Chicago, Ill. and Cleveland, Oh.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref144" level="subseries">
+                    <did>
+                        <unittitle>Announcements</unittitle>
+                        <unitdate normal="1943/1967" type="inclusive">1943-1967 with gaps</unitdate>
+                        <langmaterial id="ref266" label="Language of Materials">Ukrainian and English</langmaterial>
+                    </did>
+                    <scopecontent id="ref256">
+                        <head>Scope and Contents</head>
+                        <p>Notebooks containing announcements to be read to the congregation during Sunday and Holy Day services. Includes announcements of parish activities, donations, and related information.</p>
+                    </scopecontent>
+                    <c03 id="ref237" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157017" type="Box" label="Text">17</container>
+                            <container parent="cid157017" type="Folder">5</container>
+                            <unitdate>1943 September-1945 January</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref238" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157001" type="Box" label="Text">17</container>
+                            <container parent="cid157001" type="Folder">6</container>
+                            <unitdate normal="1950/1950">1950 February-September</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref239" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157002" type="Box" label="Text">17</container>
+                            <container parent="cid157002" type="Folder">7</container>
+                            <unitdate normal="1958/1958">1958 January-June</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref240" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157003" type="Box" label="Text">17</container>
+                            <container parent="cid157003" type="Folder">8</container>
+                            <unitdate normal="1958/1958">1958 June-November</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref241" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157004" type="Box" label="Text">17</container>
+                            <container parent="cid157004" type="Folder">9</container>
+                            <unitdate normal="1958/1959" type="inclusive">1958 November-1959 February</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref242" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157005" type="Box" label="Text">17</container>
+                            <container parent="cid157005" type="Folder">10</container>
+                            <unitdate normal="1959/1959">1959 March-September</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref243" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157006" type="Box" label="Text">17</container>
+                            <container parent="cid157006" type="Folder">11</container>
+                            <unitdate normal="1959/1960" type="inclusive">1959 September-1960 April</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref244" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157007" type="Box" label="Text">17</container>
+                            <container parent="cid157007" type="Folder">12</container>
+                            <unitdate normal="1960/1960">1960 April-September</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref245" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157008" type="Box" label="Text">17</container>
+                            <container parent="cid157008" type="Folder">13</container>
+                            <unitdate>1960 September-1961 March</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref246" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157009" type="Box" label="Text">17</container>
+                            <container parent="cid157009" type="Folder">14</container>
+                            <unitdate normal="1961/1961">1961 March-July</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref247" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157010" type="Box" label="Text">17</container>
+                            <container parent="cid157010" type="Folder">15</container>
+                            <unitdate normal="1961/1962" type="inclusive">1961 July-1962 January</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157011" type="Box" label="Text">17</container>
+                            <container parent="cid157011" type="Folder">16</container>
+                            <unitdate normal="1962/1962">1962 May-October</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref249" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157012" type="Box" label="Text">17</container>
+                            <container parent="cid157012" type="Folder">17</container>
+                            <unitdate normal="1962/1963" type="inclusive">1962 October-1963 February</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157013" type="Box" label="Text">17</container>
+                            <container parent="cid157013" type="Folder">18</container>
+                            <unitdate normal="1963/1963">1963 March-December</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref251" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157014" type="Box" label="Text">18</container>
+                            <container parent="cid157014" type="Folder">1</container>
+                            <unitdate normal="1964/1964">1964 January-August</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref252" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157015" type="Box" label="Text">18</container>
+                            <container parent="cid157015" type="Folder">2</container>
+                            <unitdate normal="1964/1965" type="inclusive">1964 August-1965 January</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="file">
+                        <did>
+                            <unittitle></unittitle>
+                            <container id="cid157016" type="Box" label="Text">18</container>
+                            <container parent="cid157016" type="Folder">3</container>
+                            <unitdate normal="1967/1967">1967 May-December</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>"Sorokousty" notebook</unittitle>
+                        <container id="cid157018" type="Box" label="Text">18</container>
+                        <container parent="cid157018" type="Folder">4</container>
+                        <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+                        <langmaterial id="ref268" label="Language of Materials">Ukrainian</langmaterial>
+                    </did>
+                    <scopecontent id="ref254">
+                        <head>Scope and Contents</head>
+                        <p>Notebook containing lists of names of deceased individuals who were to be commemorated during services for the departed during Lent. Also contains a newspaper clipping.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref255" level="file">
+                    <did>
+                        <unittitle>Marriage banns notebook</unittitle>
+                        <container id="cid157019" type="Box" label="Text">18</container>
+                        <container parent="cid157019" type="Folder">5</container>
+                        <unitdate normal="1947/1950" type="inclusive">1947-1950</unitdate>
+                        <langmaterial id="ref267" label="Language of Materials">English</langmaterial>
+                    </did>
+                    <scopecontent id="ref257">
+                        <head>Scope and Contents</head>
+                        <p>Notebook containing information for the reading of marriage banns. Most entries include the names, birth dates, places of baptism, and places of residence of the intended bride and groom, as well as the dates on which the banns were read and the date of the wedding.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref155" level="series">
+                <did>
+                    <unittitle>Parish records</unittitle>
+                    <unitid>Series 6.</unitid>
+                    <unitdate normal="1915/1967" type="inclusive">1915-1967</unitdate>
+                </did>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Baptismal register</unittitle>
+                        <container id="cid168003" type="Box" label="Text">18</container>
+                        <container parent="cid168003" type="Folder">6</container>
+                        <unitdate normal="1915/1916" type="bulk">Bulk, 1915-1916</unitdate>
+                        <unitdate normal="1915/1924" type="inclusive">1915-1924</unitdate>
+                        <langmaterial id="ref261" label="Language of Materials">Ukrainian and Latin</langmaterial>
+                    </did>
+                    <scopecontent id="ref259">
+                        <head>Scope and Contents</head>
+                        <p>Pages from a register book that were removed from their binding containing records of baptisms at the Holy Trinity Parish (Chicago) from 1915 to 1916, as well as at other locations in Chicago from 1916 to 1924.</p>
+                    </scopecontent>
+                    <userestrict id="ref260">
+                        <head>Conditions Governing Use</head>
+                        <p>Requires special handling precautions due to poor condition.</p>
+                    </userestrict>
+                </c02>
+                <c02 id="ref262" level="file">
+                    <did>
+                        <unittitle>Marriage register</unittitle>
+                        <container id="cid168005" type="Volume" label="Text">1</container>
+                        <container id="cid168004" type="Box" label="Text">18</container>
+                        <container parent="cid168004" type="Folder">7</container>
+                        <unitdate normal="1915/1925" type="inclusive">1915-1925</unitdate>
+                        <langmaterial id="ref264" label="Language of Materials">Ukrainian and Croatian</langmaterial>
+                    </did>
+                    <scopecontent id="ref263">
+                        <head>Scope and Contents</head>
+                        <p>Ledger book containing marriage records from the Holy Trinity parish, Chicago (1915 and 1916), Sts. Peter and Paul parish, Chicago (1917 to 1924), and Cleveland, Ohio (1925).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Baptismal certificate pad</unittitle>
+                        <container id="cid158001" type="Box" label="Text">18</container>
+                        <container parent="cid158001" type="Folder">8</container>
+                        <unitdate normal="1915/1921" type="inclusive">1915-1921</unitdate>
+                    </did>
+                    <scopecontent id="ref265">
+                        <head>Scope and Contents</head>
+                        <p>Certificate pad containing stubs for baptism certificates issued between 1915 and 1921 for baptisms performed between 1872 and 1921 (bulk 1900 to 1920). It contains both Ukrainian and Croatian surnames, therefore it likely covers Holy Trinity and Sts. Peter and Paul parishes in Chicago.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref272" level="file">
+                    <did>
+                        <unittitle>Name lists</unittitle>
+                        <container id="cid159002" type="Box" label="Text">18</container>
+                        <container parent="cid159002" type="Folder">9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <scopecontent id="ref273">
+                        <head>Scope and Contents</head>
+                        <p>Two undated sheets of parishioners, donors, or participants in an event or activity.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref258" level="file">
+                    <did>
+                        <unittitle>St. Vladimir parish (Cleveland)</unittitle>
+                        <container id="cid159001" type="Box" label="Text">18</container>
+                        <container parent="cid159001" type="Folder">10</container>
+                        <unitdate normal="1926/1929" type="inclusive">1926-1929</unitdate>
+                    </did>
+                    <scopecontent id="ref274">
+                        <head>Scope and Contents</head>
+                        <p>Handwritten draft of bylaws in English dated 1926, and two receipts.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle>St. Michael parish (Jeannette, Penn.) real estate purchase agreement</unittitle>
+                        <container id="cid168006" type="Box" label="Text">18</container>
+                        <container parent="cid168006" type="Folder">11</container>
+                        <unitdate normal="1937/1937">1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>St. Volodymyr parish (Ambridge, Penn.) donation receipts</unittitle>
+                        <container id="cid159003" type="Box" label="Text">18</container>
+                        <container parent="cid159003" type="Folder">12</container>
+                        <unitdate normal="1951/1951">1951</unitdate>
+                    </did>
+                    <scopecontent id="ref275">
+                        <head>Scope and Contents</head>
+                        <p>Receipts, "thank you" letters, and holy cards from the Consistory of the UOC of USA to individual parishioners who contributed to the building fund for St. Andrew Memorial Church in S. Bound Brook, NJ. These were presumably to be distributed to the donors, but never were.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref276" level="file">
+                    <did>
+                        <unittitle>Parish bulletins</unittitle>
+                        <container id="cid159004" type="Box" label="Text">18</container>
+                        <container parent="cid159004" type="Folder">13</container>
+                        <unitdate normal="1965/1967" type="inclusive">1965-1967</unitdate>
+                    </did>
+                    <scopecontent id="ref277">
+                        <head>Scope and Contents</head>
+                        <p>Parish bulletins from St. Michael's parish (Scranton, Penn.) and St. Andrew's parish (Blakely, Penn.).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref278" level="file">
+                    <did>
+                        <unittitle>St. Michael parish (Scranton, Penn.) choir book</unittitle>
+                        <container id="cid160001" type="Box" label="Text">18</container>
+                        <container parent="cid160001" type="Box">14</container>
+                    </did>
+                    <scopecontent id="ref279">
+                        <head>Scope and Contents</head>
+                        <p>"Choir directors book" - scores and texts of liturgical music for the Divine Liturgy of St. John Chrysostom.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref143" level="series">
+                <did>
+                    <unittitle>Address books, notebooks, and diary</unittitle>
+                    <unitid>Series 7.</unitid>
+                </did>
+                <c02 id="ref280" level="file">
+                    <did>
+                        <unittitle>Address book</unittitle>
+                        <container id="cid160002" type="Box" label="Text">18</container>
+                        <container parent="cid160002" type="Folder">15</container>
+                        <unitdate>likely late 1920s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref281" level="file">
+                    <did>
+                        <unittitle>Diary</unittitle>
+                        <container id="cid160003" type="Box" label="Text">18</container>
+                        <container parent="cid160003" type="Folder">16</container>
+                        <unitdate normal="1928/1928">1928</unitdate>
+                    </did>
+                    <scopecontent id="ref282">
+                        <head>Scope and Contents</head>
+                        <p>Small pocket diary with addresses, business cards, and some diary entries.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref283" level="file">
+                    <did>
+                        <unittitle>Address book</unittitle>
+                        <container id="cid160004" type="Box" label="Text">18</container>
+                        <container parent="cid160004" type="Folder">17</container>
+                        <unitdate>likely late 1930s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref284" level="file">
+                    <did>
+                        <unittitle>Notebook</unittitle>
+                        <container id="cid160005" type="Box" label="Text">18</container>
+                        <container parent="cid160005" type="Folder">18</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref285" level="file">
+                    <did>
+                        <unittitle>Address book</unittitle>
+                        <container id="cid160006" type="Box" label="Text">18</container>
+                        <container parent="cid160006" type="Folder">19-20</container>
+                        <unitdate>likely 1960s</unitdate>
+                    </did>
+                    <scopecontent id="ref286">
+                        <head>Scope and Contents</head>
+                        <p>Inserted materials have been moved to separate folder.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref288" level="file">
+                    <did>
+                        <unittitle>Notebook</unittitle>
+                        <container id="cid160007" type="Box" label="Text">19</container>
+                        <container parent="cid160007" type="Folder">1-2</container>
+                        <container id="cid164002" type="Oversize" label="Text">8</container>
+                        <unitdate>undated</unitdate>
+                        <langmaterial id="ref290" label="Language of Materials">Primarily English, but some Ukrainian, and small amounts of German and Greek.</langmaterial>
+                    </did>
+                    <scopecontent id="ref289">
+                        <head>Scope and Contents</head>
+                        <p>Notebook containing fragments of text, primarily on religious and spiritual topics. Some of these may be original writings, but many appear to have been copied out of books or other publications. Also included folded-in newspaper clippings, cards, and other materials. These have been moved to separate folders.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref292" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>Series 8.</unitid>
+                    <physdesc>
+                        <extent>0.5 Linear feet</extent>
+                    </physdesc>
+                    <unitdate>1914-1970s</unitdate>
+                </did>
+                <arrangement id="ref297">
+                    <head>Arrangement</head>
+                    <p>Arranged in two files chronologically by date or inferred date (for unlabeled photographs), except for panorama photos and recent photocopies, which form their own separate file. Inferred dates are extremely uncertain, therefore researchers searching for mid-century items should consult both files.</p>
+                </arrangement>
+                <scopecontent id="ref300">
+                    <head>Scope and Contents</head>
+                    <p>Some folders include related newspaper clippings.</p>
+                </scopecontent>
+                <c02 id="ref296" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid163006" type="Oversize" label="Text">9-11</container>
+                        <container id="cid163003" type="Box" label="Text">20</container>
+                        <container parent="cid163003" type="Folder">1-8</container>
+                        <container id="cid163001" type="Box" label="Text">19</container>
+                        <container parent="cid163001" type="Folder">3</container>
+                        <physdesc>
+                            <extent>12 folders</extent>
+                        </physdesc>
+                        <unitdate>1914-circa 1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref298" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid163007" type="Oversize" label="Text">12</container>
+                        <container id="cid163004" type="Box" label="Text">20</container>
+                        <container parent="cid163004" type="Folder">9-10</container>
+                        <container id="cid163002" type="Box" label="Text">19</container>
+                        <container parent="cid163002" type="Folder">4-9</container>
+                        <physdesc>
+                            <extent>9 folders</extent>
+                        </physdesc>
+                        <unitdate>circa 1940-1970s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref295" level="file">
+                    <did>
+                        <unittitle>Panorama photographs</unittitle>
+                        <container id="cid162001" type="Oversize" label="Text">13</container>
+                        <unitdate>1918-circa 1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref299" level="file">
+                    <did>
+                        <unittitle>Photocopies of photographs</unittitle>
+                        <container id="cid163005" type="Box" label="Text">19</container>
+                        <container parent="cid163005" type="Folder">10</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref153" level="series">
+                <did>
+                    <unittitle>Ephemera and newspaper clippings</unittitle>
+                    <unitid>Series 9.</unitid>
+                    <physdesc>
+                        <extent>0.5 Linear feet</extent>
+                    </physdesc>
+                    <unitdate>1915-1970s</unitdate>
+                </did>
+                <scopecontent id="ref393">
+                    <head>Scope and Contents</head>
+                    <p>Contains ephemera and newspaper clippings that could not be associated with another series based on original order, as well as religious tracts, holy cards, and similar material.</p>
+                </scopecontent>
+                <c02 id="ref302" level="file">
+                    <did>
+                        <unittitle>Ephemera and near-print materials</unittitle>
+                        <container id="cid165002" type="Box" label="Text">21</container>
+                        <container parent="cid165002" type="Folder">1-3</container>
+                        <container id="cid165001" type="Box" label="Text">19</container>
+                        <container parent="cid165001" type="Folder">11-12</container>
+                        <physdesc>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                        <unitdate>1915-1960s (bulk 1930s-1960s)</unitdate>
+                    </did>
+                    <scopecontent id="ref305">
+                        <head>Scope and Contents</head>
+                        <p>Concert programs, flyers, pamphlets, brochures, and similar materials.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref306" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings</unittitle>
+                        <container id="cid165003" type="Box" label="Text">21</container>
+                        <container parent="cid165003" type="Folder">4-6</container>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate>1920s-1970s</unitdate>
+                        <langmaterial id="ref379" label="Language of Materials">Primarily English</langmaterial>
+                    </did>
+                </c02>
+                <c02 id="ref307" level="file">
+                    <did>
+                        <unittitle>Prayer books, tracts, and holy cards</unittitle>
+                        <container id="cid165004" type="Box" label="Text">21</container>
+                        <container parent="cid165004" type="Folder">7-8</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate>circa 1915-circa 1960</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref135" level="series">
+                <did>
+                    <unittitle>Books and other published materials</unittitle>
+                    <unitid>Series 10.</unitid>
+                    <physdesc>
+                        <extent>9.75 Linear feet</extent>
+                    </physdesc>
+                </did>
+                <c02 id="ref308" level="subseries">
+                    <did>
+                        <unittitle>Commemorative books</unittitle>
+                        <unitdate normal="1933/1974" type="inclusive">1933-1974</unitdate>
+                        <langmaterial id="ref381" label="Language of Materials">Ukrainian</langmaterial>
+                    </did>
+                    <scopecontent id="ref315">
+                        <head>Scope and Contents</head>
+                        <p>Publications created by parishes or the UOC of USA to commemorate major events or anniversaries. They typically contain historical narratives, photographs, advertisements, and (in some cases) event programs.</p>
+                    </scopecontent>
+                    <c03 id="ref309" level="file">
+                        <did>
+                            <unittitle>St. Vladimir parish (Cleveland, Oh.)</unittitle>
+                            <container id="cid166002" type="Box" label="Text">22</container>
+                            <container parent="cid166002" type="Folder">1</container>
+                            <unitdate>1933, 1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="item">
+                        <did>
+                            <unittitle>St. Andrew parish (Boston, Mass.)</unittitle>
+                            <container id="cid166001" type="Box" label="Text">22</container>
+                            <container parent="cid166001" type="Folder">2</container>
+                            <unitdate normal="1958/1958">1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref311" level="item">
+                        <did>
+                            <unittitle>St. Volodymyr parish (Chicago, Ill.)</unittitle>
+                            <container id="cid166003" type="Box" label="Text">22</container>
+                            <container parent="cid166003" type="Folder">3</container>
+                            <unitdate normal="1966/1966">1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref312" level="item">
+                        <did>
+                            <unittitle>Fr. Joseph Zelechivsky 50th anniversary of priesthood</unittitle>
+                            <container id="cid166004" type="Box" label="Text">22</container>
+                            <container parent="cid166004" type="Folder">4</container>
+                            <unitdate normal="1969/1969">1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref313" level="item">
+                        <did>
+                            <unittitle>Anniversary of the 1921 All-Ukrainian Church Council</unittitle>
+                            <container id="cid166005" type="Box" label="Text">22</container>
+                            <container parent="cid166005" type="Folder">5</container>
+                            <unitdate normal="1971/1971">1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref314" level="item">
+                        <did>
+                            <unittitle>St. Vladimir parish (Parma, Oh.)</unittitle>
+                            <container id="cid166006" type="Box" label="Text">22</container>
+                            <container parent="cid166006" type="Folder">6</container>
+                            <unitdate normal="1974/1974">1974</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref316" level="file">
+                    <did>
+                        <unittitle>UOC of USA almanacs</unittitle>
+                        <container id="cid166007" type="Box" label="Text">22</container>
+                        <container parent="cid166007" type="Folder">7</container>
+                        <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
+                        <langmaterial id="ref382" label="Language of Materials">Ukrainian</langmaterial>
+                    </did>
+                    <scopecontent id="ref317">
+                        <head>Scope and Contents</head>
+                        <p>Annual publications of the Ukrainian Orthodox Church of the USA containing a liturgical calendar and articles on religious and Ukrainian historical and cultural topics. The calendar portion of these issues contain handwritten annotations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref318" level="item">
+                    <did>
+                        <unittitle>Proceedings of the Convention of the Russian Orthodox Mission (Cleveland, Oh.)</unittitle>
+                        <container id="cid166008" type="Box" label="Text">22</container>
+                        <container parent="cid166008" type="Folder">8</container>
+                        <unitdate normal="1919/1919">1919</unitdate>
+                        <langmaterial id="ref383" label="Language of Materials">Russian</langmaterial>
+                    </did>
+                </c02>
+                <c02 id="ref319" level="file">
+                    <did>
+                        <unittitle>Periodicals</unittitle>
+                        <container id="cid166009" type="Box" label="Text">22</container>
+                        <container parent="cid166009" type="Folder">9</container>
+                        <unitdate normal="1930/1972" type="inclusive">1930-1972</unitdate>
+                        <langmaterial id="ref369" label="Language of Materials">Primarily Ukrainian</langmaterial>
+                    </did>
+                    <scopecontent id="ref320">
+                        <head>Scope and Contents</head>
+                        <p>Individual issues of periodicals, including "Dlia sil's'koho zhinotstva" (Kolomyia, 1933), "Ukrains'kyi natsionalist" (1935), "Ukrainian Orthodox League Bulletin" (1953), "The Word" (1961), "Lemko" (Cleveland, 1930), "Zumbrcani napred" (Chicago, 1935), "Holos Bratstva" (Trenton, NJ, 1958), "Ukrainian Orthodox Word" (1961, 1972), and "Ukrains'kyi Vistnyk" (1949-1950, 1954-1955).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref321" level="file">
+                    <did>
+                        <unittitle>Books</unittitle>
+                        <container id="cid169001" type="Box" label="Text">23</container>
+                        <container id="cid170004" type="Box" label="Text">27-28</container>
+                        <container id="cid170005" type="Box" label="Text">24-26</container>
+                        <physdesc>
+                            <extent>9.5 Linear feet</extent>
+                        </physdesc>
+                        <langmaterial id="ref389" label="Language of Materials">Approximately 40% Ukrainian, 40% English, and the remainder in Church Slavonic, Serbian, Croatian, Russian, Latin, Polish, and German.</langmaterial>
+                    </did>
+                    <scopecontent id="ref344">
+                        <head>Scope and Contents</head>
+                        <p>Volumes from Fr. Gregory's library, including books on religion, theology, history, literature, Latin theology textbooks that he may have used as a seminarian, liturgical books, Bibles, dictionaries and reference books, and primary-level textbooks for Ukrainian language instruction. A number of the books are inscribed by the author or as presentations to Fr. Gregory from various individuals or parish organizations.</p>
+                    </scopecontent>
+                    <c03 id="ref372" level="file">
+                        <did>
+                            <unittitle>Items found between pages of books</unittitle>
+                            <container id="cid170006" type="Box" label="Text">22</container>
+                            <container parent="cid170006" type="Folder">10</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref154" level="series">
+                <did>
+                    <unittitle>Realia</unittitle>
+                    <unitid>Series 11.</unitid>
+                    <container id="cid170002" type="Box" label="Realia">29</container>
+                    <container id="cid170001" type="Box" label="Realia">30</container>
+                </did>
+                <scopecontent id="ref386">
+                    <head>Scope and Contents</head>
+                    <p>Contains objects owned by Fr. Gregory, including items presented to him; liturgical and ritual items (chrismatories, altar bells, etc.); icons and crucifixes; Cyrillic typewriter; and similar objects.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref171" level="series">
+                <did>
+                    <unittitle>Photocopies</unittitle>
+                    <unitid>Series 12.</unitid>
+                    <container id="cid170003" type="Box" label="Text">31</container>
+                    <physdesc>
+                        <extent>1.25 Linear feet</extent>
+                    </physdesc>
+                </did>
+                <scopecontent id="ref384">
+                    <head>Scope and Contents</head>
+                    <p>Contains photocopies, primarily of the professional papers of Series 1, that were made by Elaine Chomicky White. It has not been verified whether the originals of all the items in this series are contained in the other series of this collection.</p>
+                </scopecontent>
+                <arrangement id="ref385">
+                    <head>Arrangement</head>
+                    <p>Arranged in approximate chronological order, as boxed by Elaine Chomicky White.</p>
+                </arrangement>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
