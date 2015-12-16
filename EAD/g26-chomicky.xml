@@ -24,7 +24,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2015-07-29T11:28-0400</date>
+                <date>2015-12-16T11:36-0500</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
@@ -481,7 +481,7 @@
                 </c02>
                 <c02 id="ref209" level="file">
                     <did>
-                        <unittitle>Holiday greeting cards</unittitle>
+                        <unittitle>Postcards and holiday greeting cards</unittitle>
                         <container id="cid153009" type="Box" label="Text">9</container>
                         <container parent="cid153009" type="Folder">7</container>
                         <unitdate>circa 1920-circa 1960</unitdate>
