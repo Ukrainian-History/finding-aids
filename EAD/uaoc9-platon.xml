@@ -14,7 +14,7 @@
                 <p>
                     <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
                 </p>
-                <publisher>Ukrainian Historical and Educational Center Archives</publisher>
+                <publisher>Ukrainian Historical and Educational Center of NJ Archives</publisher>
                 <address>
                     <addressline>135 Davidson Ave.</addressline>
                     <addressline>Somerset, NJ, 08873</addressline>
@@ -26,7 +26,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-01-13T10:49-0500</date>
+                <date>2016-02-03T10:52-0500</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
@@ -36,7 +36,7 @@
             <unittitle>Bishop Platon Papers</unittitle>
             <unitid>uaoc.9</unitid>
             <repository>
-                <corpname>Ukrainian Historical and Educational Center Archives</corpname>
+                <corpname>Ukrainian Historical and Educational Center of NJ Archives</corpname>
             </repository>
             <langmaterial>
                 <language langcode="ukr"/>
@@ -295,7 +295,7 @@
                         </did>
                         <scopecontent id="ref53">
                             <head>Scope and Contents</head>
-                            <p>Original signed minutes of meetings of the Sobor of Bishops. Encyclicals. Parish bylaws. Syllibi for religious instruction in elementary schools and Gymnasia. Minutes of meetings of March 14-17, 1946 (Esslingen), June 14-17, 1946 (Esslingen), August 23-26, 1946 (Munich), November 19-23, 1946 (Kornberg), May 10-15, 1947 (Munich), August 5-8, 1947 (Mainz-Kastel), October 21-24, 1947 (extraordinary meeting in Aschaffenburg), April 15-17 and 19-20, 1948 (Augsburg), November 12-14, 1948 (Ellwangen), June 15-17, 1949 (Munich), and November 1-5, 1949 (Dillingen).</p>
+                            <p>Original signed minutes of meetings of the Sobor of Bishops. Encyclicals. Parish bylaws. Syllibi for religious instruction in elementary schools and Gymnasia. Minutes of meetings of March 14-17, 1946 (Esslingen), June 14-17, 1946 (Esslingen), August 23-26, 1946 (Munich), November 19-23, 1946 (Cornberg), May 10-15, 1947 (Munich), August 5-8, 1947 (Mainz-Kastel), October 21-24, 1947 (extraordinary meeting in Aschaffenburg), April 15-17 and 19-20, 1948 (Augsburg), November 12-14, 1948 (Ellwangen), June 15-17, 1949 (Munich), and November 1-5, 1949 (Dillingen).</p>
                         </scopecontent>
                     </c03>
                     <c03 id="ref54" level="subseries">
@@ -330,7 +330,7 @@
                         </c04>
                         <c04 id="ref57" level="file">
                             <did>
-                                <unittitle>Kornberg, November 1946</unittitle>
+                                <unittitle>Cornberg, November 1946</unittitle>
                                 <container id="cid112011" type="Box" label="Text">2</container>
                                 <container parent="cid112011" type="Folder">7</container>
                             </did>
