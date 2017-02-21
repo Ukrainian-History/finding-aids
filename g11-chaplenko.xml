@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid url="http://ead.ukrhec.org/g11-chaplenko.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>g.11</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center of NJ Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-05-18T18:57-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Vasyl' Chaplenko papers</unittitle>
+            <unitid>g.11</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center of NJ Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="ukr"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.1 Linear feet</extent>
+                <extent>8 boxes</extent>
+            </physdesc>
+            <unitdate normal="1970/1990" type="bulk">Bulk, 1970-1990</unitdate>
+            <unitdate normal="1936/1990" type="inclusive">1936-1990</unitdate>
+            <langmaterial id="ref54" label="Language of Materials">Almost exclusively Ukrainian, with a handful of articles and letters in English.</langmaterial>
+            <abstract id="ref10" label="Abstract">This collection houses the personal and professional papers of the writer, linguist, and editor Vasyl' Chaplenko. It documents his studies of the Ukrainian language, politics, and literature through typescripts of his articles, his correspondence, and through his large collection of annotated newspaper and periodical articles.</abstract>
+            <origination label="creator">
+                <persname source="naf">Chaplenko, Vasyl', 1900-1990</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref1">
+            <head>Related Archival Materials</head>
+            <p>Some of Chaplenko's writings can also be found in the collections of the Ukrainian Academy of Sciences (UVAN) in New York, the Shevchenko Scientific Society (NTSh-A) in New York, the New York Public Library, and Winnipeg University.</p>
+        </relatedmaterial>
+        <prefercite id="ref3">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Vasyl' Chaplenko papers; box number; folder number; Ukrainian Historical and Educational Center Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for researcher use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <userestrict id="ref7">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Anna Krawczuk, stepdaughter of Vasyl' Chaplenko.</p>
+        </acqinfo>
+        <scopecontent id="ref9">
+            <head>Scope and Contents</head>
+            <p>This collection houses the papers of the Ukrainian American writer, linguist, and editor Vasyl' Chaplenko, primarily from the last decades of his life. It contains typescript copies of his many articles on politics, literature, linguistics, and Ukrainian scholarship, as well as works of fiction. It also includes personal and family correspondence, photographs, and an extensive collection of periodicals and newspaper clippings, many of which have his handwritten annotations.</p>
+        </scopecontent>
+        <processinfo id="ref43">
+            <head>Processing Information</head>
+            <p>Collection had been partially arranged by the donor Anna Osinska Krawczuk (stepdaughter of Vasyl' Chaplenko) at the time of acquisition. The folder-level arrangement has been generally retained, but a new series structure has been imposed by the processing archivist. The original box/folder lists as well as a complete crosswalk between the original and current folder numbering is available in the last folder of the final series.</p>
+        </processinfo>
+        <bioghist id="ref44">
+            <head>Biographical/Historical note</head>
+            <p>Vasyl' Chaplenko (Василь Чапленко), also known as Vasyl' Chaplia (Василь Чапля) was a Ukrainian and Ukrainian American scholar, linguist, writer, and editor. He was born on March 18, 1900 in Mylolaivka, Ekaterynoslav governate, Russian Empire (today Dnipropetrovs'k oblast', Ukraine). He attended the Teacher's Seminary in Pavlohrad, and the Pedagogical Institute in Dnipropetrovs'k. He became head of the Department of Linguistics at the Pedagogical Institute of Luhans'k, and in 1933 moved to the Pedagogical Institute of Ashkhabad (Turkmenistan). From 1937 to 1941 he was Dean and professor in the Department of Linguistics at the Pedagogical Institutes of Voroshilovsk and Piatigorsk.</p>
+            <p>As a Displaced Person, he taught General Linguistics and Ukrainian at the Institute of Modern Languages in Augsburg, Germany and edited the newspaper "Nashe Zhyttia". After emigrating to the United States in the 1950s, he served as Chairman and Professor at the Ukrainian Technical Institute in New York, and editor of the Sunday Supplement of the newspaper "Svoboda".</p>
+        </bioghist>
+        <arrangement id="ref55">
+            <head>Arrangement</head>
+            <p>Arranged in eight series, as follows:</p>
+            <list type="ordered">
+                <item>Articles, essays, and lectures</item>
+                <item>Writings on linguistics</item>
+                <item>Fiction, verse, and theatrical works</item>
+                <item>Notebooks</item>
+                <item>Correspondence</item>
+                <item>Photographs</item>
+                <item>Third-party materials</item>
+                <item>Published materials, clippings, and ephemera</item>
+            </list>
+        </arrangement>
+        <dsc>
+            <c01 id="ref28" level="series">
+                <did>
+                    <unittitle>Articles, essays, and lectures</unittitle>
+                    <unitid>Series 1.</unitid>
+                    <container id="cid175002" type="Box" label="Text">1</container>
+                    <container parent="cid175002" type="Folder">1-11</container>
+                    <container id="cid175003" type="Box" label="Text">3</container>
+                    <container parent="cid175003" type="Folder">1-9</container>
+                    <container id="cid175001" type="Box" label="Text">2</container>
+                    <container parent="cid175001" type="Folder">1-11</container>
+                    <physdesc>
+                        <extent>1.25 Linear feet</extent>
+                        <extent>31 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1970/1990" type="bulk">Bulk, 1970-1990</unitdate>
+                    <unitdate normal="1960/1990" type="inclusive">circa 1960-1990</unitdate>
+                </did>
+                <scopecontent id="ref29">
+                    <head>Scope and Contents</head>
+                    <p>Typescripts, primarily of articles on topics of politics, literature, linguistics, and Ukrainian scholarship, many with handwritten annotations, corrections, and additions. Also includes a few short fiction works and poetry, as well as occasional correspondence with publishers, editorial offices, and colleagues, and reprints and newspaper clippings (often with handwritten annotations).</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref30" level="series">
+                <did>
+                    <unittitle>Writings on linguistics</unittitle>
+                    <unitid>Series 2.</unitid>
+                    <container id="cid175004" type="Box" label="Text">3</container>
+                    <container parent="cid175004" type="Folder">10</container>
+                    <container id="cid175005" type="Box" label="Text">4</container>
+                    <container parent="cid175005" type="Folder">1-5</container>
+                    <physdesc>
+                        <extent>0.25 Linear feet</extent>
+                        <extent>6 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1970/1990" type="inclusive">circa 1970-late 1980s</unitdate>
+                </did>
+                <scopecontent id="ref31">
+                    <head>Scope and Contents</head>
+                    <p>Typescripts (many with handwritten annotations) and handwritten notes on etymologies of ethnonyms, names of places and regions, and surnames; his "Adyghe theory"; draft for a Ukrainian etymological dictionary; and other related topics. Also includes a small number of letters.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref32" level="series">
+                <did>
+                    <unittitle>Fiction, verse, and theatrical works</unittitle>
+                    <unitid>Series 3.</unitid>
+                    <physdesc>
+                        <extent>0.25 Linear feet</extent>
+                        <extent>5 folders</extent>
+                    </physdesc>
+                </did>
+                <scopecontent id="ref36">
+                    <head>Scope and Contents</head>
+                    <p>Typescripts of unpublished works, typescripts of published works, and copies of published works with revisions.</p>
+                </scopecontent>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>"Gava Ïs'ko" (1984 revision)</unittitle>
+                        <container id="cid175006" type="Box" label="Text">4</container>
+                        <container parent="cid175006" type="Folder">6</container>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>"Bezorudavka"</unittitle>
+                        <container id="cid175007" type="Box" label="Text">4</container>
+                        <container parent="cid175007" type="Folder">7</container>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>"Pyvoriz"</unittitle>
+                        <container id="cid175008" type="Box" label="Text">4</container>
+                        <container parent="cid175008" type="Folder">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Theatrical works</unittitle>
+                        <container id="cid175009" type="Box" label="Text">5</container>
+                        <container parent="cid175009" type="Folder">1-2</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref40" level="series">
+                <did>
+                    <unittitle>Notebooks</unittitle>
+                    <unitid>Series 4.</unitid>
+                    <container id="cid175010" type="Box" label="Text">5</container>
+                    <container parent="cid175010" type="Folder">3</container>
+                </did>
+            </c01>
+            <c01 id="ref56" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>Series 5.</unitid>
+                    <physdesc>
+                        <extent>0.3 Linear feet</extent>
+                        <extent>12 folders</extent>
+                    </physdesc>
+                </did>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>General correspondence</unittitle>
+                        <container id="cid175011" type="Box" label="Text">5</container>
+                        <container parent="cid175011" type="Folder">4-11</container>
+                        <physdesc>
+                            <extent>0.25 Linear feet</extent>
+                            <extent>8 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1977/1986" type="bulk">Bulk, 1977-1986</unitdate>
+                        <unitdate normal="1951/1990" type="inclusive">1951-1990</unitdate>
+                    </did>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents</head>
+                        <p>Incoming and outgoing letters to friends and colleagues in the US and abroad (Great Britain and Australia). Also includes typescripts of some articles and writings.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="subseries">
+                    <did>
+                        <unittitle>Family correspondence and documents</unittitle>
+                        <physdesc>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1935/1989" type="inclusive">1935-1989</unitdate>
+                    </did>
+                    <c03 id="ref12" level="file">
+                        <did>
+                            <unittitle>Natalia Rudnyts'ka Chaplenko correspondence</unittitle>
+                            <container id="cid175012" type="Box" label="Text">5</container>
+                            <container parent="cid175012" type="Folder">12</container>
+                            <unitdate normal="1947/1950" type="inclusive">1947-1950</unitdate>
+                        </did>
+                        <scopecontent id="ref14">
+                            <head>Scope and Contents</head>
+                            <p>Letters from Vasyl' Chaplenko to Natalia Rudnyts'ka Chaplenko and Rev. Dr. Aldo Rudnyts'kyi. Letters from Ivan Korol' to Vasyl' Chaplenko regarding Natalia Rudnyts'ka Chaplenko.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref15" level="file">
+                        <did>
+                            <unittitle>Natalia Rudnyts'ka Chaplenko documents</unittitle>
+                            <container id="cid175013" type="Box" label="Text">5</container>
+                            <container parent="cid175013" type="Folder">13</container>
+                            <unitdate normal="1935/1951" type="inclusive">1935-1951</unitdate>
+                        </did>
+                        <scopecontent id="ref16">
+                            <head>Scope and Contents</head>
+                            <p>Identification cards, Green Card, naturalization Declaration of Intention, calendars, address books, and ephemera.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref17" level="file">
+                        <did>
+                            <unittitle>Natalia Rudnyts'ka Chaplenko funeral records</unittitle>
+                            <container id="cid175015" type="Box" label="Text">6</container>
+                            <container parent="cid175015" type="Folder">1</container>
+                            <unitdate normal="1953/1953">1953</unitdate>
+                        </did>
+                        <scopecontent id="ref18">
+                            <head>Scope and Contents</head>
+                            <p>Includes condolence book, photographs, funeral home records, and letters.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref13" level="file">
+                        <did>
+                            <unittitle>Natalia Osinska Chaplenko correspondence</unittitle>
+                            <container id="cid175014" type="Box" label="Text">6</container>
+                            <container parent="cid175014" type="Folder">2</container>
+                            <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref26" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>Series 6.</unitid>
+                    <container id="cid175016" type="Box" label="Text">6</container>
+                    <container parent="cid175016" type="Folder">3</container>
+                    <unitdate normal="1936/1970" type="inclusive">1936-1970</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref45" level="series">
+                <did>
+                    <unittitle>Third-party materials</unittitle>
+                    <unitid>Series 7.</unitid>
+                    <container id="cid175017" type="Box" label="Text">6</container>
+                    <container parent="cid175017" type="Folder">4</container>
+                </did>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Published materials, clippings, and ephemera</unittitle>
+                    <unitid>Series 8.</unitid>
+                    <physdesc>
+                        <extent>1.5 Linear feet</extent>
+                        <extent>22 folders, approximately 40 bound volumes, and 1 object</extent>
+                    </physdesc>
+                    <unitdate normal="1975/1975">1975</unitdate>
+                </did>
+                <scopecontent id="ref25">
+                    <head>Scope and Contents</head>
+                    <p>This series primarily contains published materials, either in the form of complete journal issues, clippings, or photocopies. These include articles by Chaplenko and others, and many of them have handwritten annotations by Chaplenko.</p>
+                </scopecontent>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Pre-1950 publications</unittitle>
+                        <container id="cid175018" type="Box" label="Text">6</container>
+                        <container parent="cid175018" type="Folder">5-6</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1935/1947" type="inclusive">1935-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Complete issues of journals</unittitle>
+                        <container id="cid175020" type="Box" label="Text">7</container>
+                        <container id="cid175019" type="Box" label="Text">8</container>
+                        <physdesc>
+                            <extent>1.1 Linear feet</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Reprints, clippings, and photocopies of journal articles</unittitle>
+                        <container id="cid175021" type="Box" label="Text">6</container>
+                        <container parent="cid175021" type="Folder">7-10</container>
+                        <physdesc>
+                            <extent>4 folders</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Yukhym Mykhailiv exhibit catalog</unittitle>
+                        <container id="cid175022" type="Box" label="Text">6</container>
+                        <container parent="cid175022" type="Folder">11</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings</unittitle>
+                        <container id="cid175025" type="Box" label="Text">7</container>
+                        <container parent="cid175025" type="Folder">1-11</container>
+                        <container id="cid175023" type="Box" label="Text">6</container>
+                        <container parent="cid175023" type="Folder">12</container>
+                        <physdesc>
+                            <extent>0.3 Linear feet</extent>
+                            <extent>12 folders</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Ephemera</unittitle>
+                        <container id="cid175024" type="Box" label="Text">6</container>
+                        <container parent="cid175024" type="Folder">13-14</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>Wall hanging depicting a crane</unittitle>
+                        <container id="cid175026" type="Box" label="Realia">8</container>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Original box/folder lists</unittitle>
+                        <container id="cid175027" type="Box" label="Text">6</container>
+                        <container parent="cid175027" type="Folder">15</container>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

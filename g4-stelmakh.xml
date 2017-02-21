@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the papers of Fr. Petro Stel'makh
+                    <num>g.4</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center of NJ Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+                <date>02-24-2016</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-02-24T14:14-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Fr. Petro Stel'makh papers</unittitle>
+            <unitid>g.4</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center of NJ Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="ukr"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+                <extent>3 boxes</extent>
+            </physdesc>
+            <unitdate normal="1944/1962" type="inclusive">1944-1962</unitdate>
+            <langmaterial id="ref1" label="Language of Materials">Primarily Ukrainian, with some German and Russian.</langmaterial>
+            <physdesc id="ref6" label="General Physical Description note">Some items have significant water damage and staining.</physdesc>
+            <abstract id="ref45" label="Abstract">This collection houses the personal papers of Fr. Petro Stel'makh, a Ukrainian Orthodox clergyman who was active in German displaced persons camps, and played a significant role in the breakaway "Conciliar" Ukrainian Autocephalous Orthodox Church. It also contains administrative records of the UAOC(C), and records from Ukrainian Orthodox parishes in German displaced persons camps.</abstract>
+            <origination label="creator">
+                <persname source="local">Stel'mach, Petro, 1898-1973</persname>
+            </origination>
+        </did>
+        <prefercite id="ref33">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Fr. Petro Stel'makh papers; box number; folder number; Ukrainian Historical and Educational Center of NJ Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <userestrict id="ref37">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <accessrestrict id="ref36">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for researcher use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements.</p>
+        </accessrestrict>
+        <processinfo id="ref38">
+            <head>Processing Information</head>
+            <p>The current arrangment at the file level reflects the original order. The arrangment at the series level has been imposed by the processing archivist.</p>
+        </processinfo>
+        <bioghist id="ref34">
+            <head>Biographical/Historical note</head>
+            <p>Father Petro Stel'makh (Петро Стельмах, also spelled Stelmach) was a Ukrainian Orthodox clergyman who played an active role in the "Conciliar" ("Sobornopravna") faction of the Ukrainian Autocephalous Orthodox Church in post-World War II Germany and the United States.</p>
+            <p>He was born 22 December 1898 in the town of Myropil', Novohrad-Volyns'kyi county, Volyn' governate of the Russian Empire (today Romanivs'kyi raion, Zhytomyrs'ka oblast', Ukraine) to Tryfon Stel'makh and Ahafia Diachenko. He took pastoral courses sponsored by the Ukrainian Autocephalous Orthodox Church (UAOC) in Kyiv in 1921 and 1922. He married Dina Adamuk on 4 May 1922, and was ordained a priest on the following day by Bishop Hryhorii (Storozhenko). He served as rector of several parishes in Ukraine from 1922 to 1928.</p>
+            <p>As a refugee in Germany after the war, he served as rector of the St. Michael parish in the Cornberg Displaced Persons Camp (1945-1947) and the St. Nicholas parish in the Somme-Kaserne camp in Augsburg (1948-1951). During this period, there was increasing conflict between the Synod of Bishops of the UAOC that was re-established in 1942 and those who wanted a greater voice for rank-and-file clergy and laity (inspired by the radical democratic and patriotic tradition of the 1921 UAOC under Metropolitan Vasyl' Lypkivs'kyi). The conflict began with the formation of a "Commission for the Convocation of the All-Church Sobor" in 1945, and culminated in the August 1947 "First Church Congress of the Ukrainian Autocephalous Orthodox Church in Emigration" in Aschaffenburg, which created the break-away "Conciliar" UAOC (UAOC(C)) under the leadership of Fr. Ivan Harashchenko and Bishop Hryhorii (Ohiichuk). As a result of their participation in these events, Fr. Petro Stel'makh, Bishop Hryhorii (Ohiichuk), Fr. Ivan Hubarzhevs'kyi, Fr. Ivan Harashchenko, and others were defrocked by the UAOC Synod of Bishops in the fall of 1947.</p>
+            <p>Fr. Petro emigrated to the USA in 1951 and served as priest for the UAOC(C) parish of St. Michael in New York, NY from 1951 to 1954. He was accepted into the Ukrainian Orthodox Church of USA in 1955 and served at Sts. Peter and Paul parish in Babylon, Long Island (1956-1960), the Pokrova parish in Paterson, NJ (1961-1962), and St. Mary the Protectress parish in Clifton, NJ (1967). He died on 5 August 1973.</p>
+        </bioghist>
+        <arrangement id="ref42">
+            <head>Arrangement</head>
+            <p>This collection is arranged in five series as follows:</p>
+            <list type="ordered">
+                <item>General records and correspondence</item>
+                <item>Ukrainian Autocephalous Orthodox Church (Conciliar) records</item>
+                <item>Registers, certificates, and sacramental records</item>
+                <item>Third-party materials, articles, and published matter</item>
+                <item>Photographs</item>
+            </list>
+        </arrangement>
+        <scopecontent id="ref43">
+            <head>Scope and Contents</head>
+            <p>This collection houses the personal papers of Fr. Petro Stel'makh, a Ukrainian Orthodox clergyman who was active in German displaced persons camps, and played a significant role in the breakaway "Conciliar" Ukrainian Autocephalous Orthodox Church (the UAOC(C)). It also contains administrative records of the UAOC(C), and records from Ukrainian Orthodox parishes in German displaced persons camps.</p>
+            <p>The collection contains correspondence, minutes, registers (including sacramental records, sworn baptismal testimonies, employment, housing, and emigration lists), published and unpublished writings by Fr. Petro and others, and photographs.</p>
+            <p>This collection is significant in that it is one of the largest easily accessible collections documenting the UAOC(C), and provides a useful counterpoint to the viewpoint seen in the records of the main line UAOC. The registers are also of significant genealogical interest.</p>
+        </scopecontent>
+        <scopecontent id="ref44">
+            <head>Зміст фонду</head>
+            <p>Цей фонд включає в собі особисті документи о. Петра Стельмаха - українського православного священика, який був активний в таборах біженців “Ді-Пі” ви Німеччині. Він також зіграв важливу ролю в Українські Автокефальні Православні Церкві “Соборноправні”. Фонд також містить адміністративні матеріали та протоколи засідань УАПЦ (Соборноправної), та документи з українських православних парафій в німецьких таборах біженців.</p>
+            <p>Фонд містить листування, протоколи, офіційні списки (метричні записи, свідоцтва хрещення, еміграційні та житлові списки, і т.п.), опубліковані і неопубліковані праці о. Петра та інших, і фотографії.</p>
+            <p>Ця колекція відрізняється тим, що вона онда з найбільших легкодоступних фондів в якій можна знайти документи УАПЦ (Cоборноправної), а офіційні списки також будуть допоміжні генеалогам.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Ukrainian Orthodox Church of the USA.</corpname>
+            <subject source="lcsh">Refugee camps--Germany </subject>
+            <subject source="lcsh">Registers of births, etc.</subject>
+            <subject source="lcsh">Ukraïnsʹka avtokefalʹna pravoslavna t︠s︡erkva--Germany</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref39" level="series">
+                <did>
+                    <unittitle>General records and correspondence</unittitle>
+                    <unitid>Series 1.</unitid>
+                    <physdesc>
+                        <extent>8 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1945/1957" type="inclusive">1945-1957</unitdate>
+                </did>
+                <c02 id="ref3" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid172001" type="Box" label="Text">1</container>
+                        <container parent="cid172001" type="Folder">1-2</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1945/1957" type="inclusive">1945-1957</unitdate>
+                    </did>
+                    <scopecontent id="ref5">
+                        <head>Scope and Contents</head>
+                        <p>Includes minutes of meeting of the Cornberg parish council, and minutes, records, and correspondence related to the UAOC, UAOC(C), and UOC of USA. Correspondence with Archbishops Sylvestr, Ihor and Hryhorii, and other clergy and individuals. Typed copies of articles and pastoral letters, including articles by Fr. Ivan Harashchenko. Obituaries for Deacon Vasyl' Potienko and Andrii Pererva, and biographical statements for several individuals. Fr. Petro's 1945 Red Cross certificate, receipt for expenses for the funeral Fr. Ivan Harashchenko, concert program, newspaper clippings, and other ephemera.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid173001" type="Box" label="Text">1</container>
+                        <container parent="cid173001" type="Folder">3</container>
+                        <unitdate normal="1949/1955" type="inclusive">1949-1955</unitdate>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with Fr. Petro Maievs'kyi (Los Angeles, CA), Viktor Boruta and Fr. Ievhen Popivs'kyi (UK), Fr. Lavrentij Sklonnyi (Syracuse, NY), Fr. Dmytro Burtan, and Dunya Winter regarding agricultural real estate in Wisconsin.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid173002" type="Box" label="Text">1</container>
+                        <container parent="cid173002" type="Folder">4</container>
+                        <unitdate normal="1950/1957" type="bulk">Bulk, 1950-1957</unitdate>
+                        <unitdate normal="1947/1957" type="inclusive">1947-1957</unitdate>
+                    </did>
+                    <scopecontent id="ref15">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with Fr. Ivan Hubarzhevs'kyi (UK), Fr. Oleksander Popiv (Detroit), Ievhen Bachyns'kyi (Switzerland), and Fr. Mytrofan Yavdas' (Germany). Copies of minutes of a parish meeting in Aschaffenburg (1947), and UAOC(C) councils of 1951 and 1952.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid173003" type="Box" label="Text">1</container>
+                        <container parent="cid173003" type="Folder">5</container>
+                        <unitdate normal="1946/1956" type="inclusive">1946-1956</unitdate>
+                    </did>
+                    <scopecontent id="ref17">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with Fedir Bul'benko (?) (1952-1954) and Oleksander Narizhnij (1946, 1949, 1953). Publications related to emigration. "Newspaper" published aboard ship. Material related to St. Volodymyr parish, Hartford CT (1956). Records related to the funeral of Fr. Harashchenko. Miscellaneous correspondence from Germany and USA.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid173004" type="Box" label="Text">1</container>
+                        <container parent="cid173004" type="Folder">6</container>
+                        <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with Fr. O. Bykovets'. Minutes of UAOC(C) church council. Minutes and records of St. Michael's Church, New York NY. Correspondence with Archbishops Bohdan and Hryhorij.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Arkadii Yaremenko correspondence</unittitle>
+                        <container id="cid173005" type="Box" label="Text">1</container>
+                        <container parent="cid173005" type="Folder">7-8</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1948/1960" type="inclusive">1948-1960</unitdate>
+                    </did>
+                    <scopecontent id="ref21">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with Arkadii Iaremenko of Aschaffenburg, Baltimore, South Plainfield NJ, and Chicago, primarily regarding matters related to the UAOC(C). Also includes copies of correspondence of Yaremenko with other individuals, and ephemera.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Ukrainian Autocephalous Orthodox Church (Conciliar) records</unittitle>
+                    <unitid>Series 2.</unitid>
+                    <container id="cid172002" type="Box" label="Text">2</container>
+                    <container parent="cid172002" type="Folder">1-2</container>
+                    <physdesc>
+                        <extent>2 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1946/1954" type="inclusive">1946-1954</unitdate>
+                </did>
+                <scopecontent id="ref8">
+                    <head>Scope and Contents</head>
+                    <p>Minutes and resolutions of meetings of the "Initiative Group" and the "Small" and "Large" Councils of the UAOC(C) in Germany and the USA. Minutes of parish meetings in the Hersfeld and Somme-Kaserne (Augsburg) camps. UAOC(C) clergy conference minutes. Typescript of the essay "Історичні-канонічні основи Української Автокефальної Православної Церкви" ("Historical-Canonical Foundations of the Ukrainian Autocephalous Orthodox Church") (25 pages) of unknown authorship.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref24" level="series">
+                <did>
+                    <unittitle>Registers, certificates, and sacramental records</unittitle>
+                    <unitid>Series 3.</unitid>
+                    <physdesc>
+                        <extent>1 folder, 2 bound volumes</extent>
+                    </physdesc>
+                    <unitdate normal="1944/1953" type="inclusive">1944-1953</unitdate>
+                </did>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Certificates, testimonies, and metrical documents</unittitle>
+                        <container id="cid173007" type="Box" label="Text">2</container>
+                        <container parent="cid173007" type="Folder">3</container>
+                        <unitdate normal="1944/1953" type="inclusive">1944-1953</unitdate>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents</head>
+                        <p>Sworn testimonies regarding birth and baptism information, certificates of parish membership, as well as baptism, wedding, and funeral records from DP camp churches and New York City.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Register of birth and baptismal testimonies</unittitle>
+                        <container id="cid173006" type="Box" label="Text">3</container>
+                        <container parent="cid173006" type="Folder">1</container>
+                        <physdesc>
+                            <extent>1 bound volume</extent>
+                        </physdesc>
+                        <unitdate normal="1947/1951" type="inclusive">1947-1951</unitdate>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents</head>
+                        <p>Bound volume of sworn testimonies regarding the particulars of birth and baptism for individuals who presumably were left without access to original sacremental records due to the war. Most of the recorded births took place in the early decades of the 20th century.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Employment, housing, and emigration register</unittitle>
+                        <container id="cid173008" type="Box" label="Text">3</container>
+                        <container parent="cid173008" type="Folder">2</container>
+                        <physdesc>
+                            <extent>1 bound volume</extent>
+                        </physdesc>
+                        <unitdate>Undated, likely late 1940s</unitdate>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents</head>
+                        <p>Bound volume containing lists of applicants for jobs and housing, as well as lists of individuals seeking to emigrate to the United States. Most lists have the individual's name, sex, marital status, birth date, occupation, DP number, and the DP camp where they reside.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref40" level="series">
+                <did>
+                    <unittitle>Third-party materials, articles, and published matter</unittitle>
+                    <unitid>Series 4.</unitid>
+                    <physdesc>
+                        <extent>5 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate>
+                </did>
+                <c02 id="ref9" level="series">
+                    <did>
+                        <unittitle>Articles and periodical publications</unittitle>
+                        <container id="cid172003" type="Box" label="Text">2</container>
+                        <container parent="cid172003" type="Folder">4-6</container>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate>
+                    </did>
+                    <scopecontent id="ref10">
+                        <head>Scope and Contents</head>
+                        <p>Contains holograph and typed manuscripts, as well as pamphlets and periodical publications from the 1940s,including a typescript copy of an anthology of articles on the 25th anniversary of the 1921 rebirth of the UAOC, the May 1946 issue of "Христова Громада" (Mainz-Kastel), "Христіянський Світ і Українська Автокефальна Православна Церква", "Християанство і майбутнє людства" and "Братства на Україні: минуле і сучасне" (Бібліотека Братства Св. Покрови, Munich, 1946-1947), three issues of "Распоряжения Высокопреосвященнейшего Серафима Митриполита Берлинского и Германского и Средне-Европейского Митрополичьего Округа" (Munich, June 1947, September 1947, February 1948), "Кредо Революції" by Taras Bul'lba-Borovets' (Paris, 1946), and a holograph of a lectionary of Old Testament liturgical readings ("Paremiinyk").</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="series">
+                    <did>
+                        <unittitle>Sermons of Metropolitan Vasyl' Lypkivs'kyi</unittitle>
+                        <container id="cid173010" type="Box" label="Text">2</container>
+                        <container parent="cid173010" type="Folder">7-8</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate>undated, likely late 1940s</unitdate>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Contents</head>
+                        <p>Holograph copies of the sermons of Metr. Vasyl' Lypkivs'kyi made by Fr. Stel'mach.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref22" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>Series 5.</unitid>
+                    <container id="cid173009" type="Box" label="Graphic materials">2</container>
+                    <container parent="cid173009" type="Folder">9</container>
+                    <physdesc>
+                        <extent>1 folder (29 photographs)</extent>
+                    </physdesc>
+                    <unitdate normal="1946/1962" type="inclusive">1946-1962</unitdate>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Contents</head>
+                    <p>Photographs, primarily personal, from Germany and the USA, including photographs of ceremonies associated with the visit of Metropolitan Polikarp to the Cornberg DP camp.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

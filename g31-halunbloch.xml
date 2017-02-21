@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>g.31</num>
+                </titleproper>
+                <author>Finding aid prepared by Michael Andrec</author>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.ukrhec.org/sites/default/files/banner3.png"/>
+                </p>
+                <publisher>Ukrainian Historical and Educational Center of NJ Archives</publisher>
+                <address>
+                    <addressline>135 Davidson Ave.</addressline>
+                    <addressline>Somerset, NJ, 08873</addressline>
+                    <addressline>732-356-0090 x141</addressline>
+                    <addressline>archives@UkrHEC.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-11-01T16:38-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Marie Halun Bloch papers</unittitle>
+            <unitid>g.31</unitid>
+            <repository>
+                <corpname>Ukrainian Historical and Educational Center of NJ Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.3 Linear feet</extent>
+                <extent>6 boxes, 6 bound volumes, 1 oversize folder</extent>
+            </physdesc>
+            <unitdate normal="1960/1996" type="bulk">Bulk, 1960-1996</unitdate>
+            <unitdate normal="1941/1998" type="inclusive">1941-1998</unitdate>
+            <abstract id="ref8" label="Abstract">Marie Halun Bloch is best known for her Ukrainian-themed children's books, but also was a writer and translator on a variety of subjects. She did considerable research into her family history and the history of her ancestral villages. She travelled extensively to Ukraine and Eastern Europe beginning in the 1960s through the 1990s, and wrote extensively about her experiences. This collection contains her published and unpublished writings on her genealogy, the history of her ancestral villages, travel accounts, research notes, correspondence, and photographs.</abstract>
+            <langmaterial id="ref13" label="Language of Materials">All writings are in English, but correspondence, source materials, clippings, and ephemera include substantial materials in Ukrainian. Some source material is also in Polish.</langmaterial>
+            <origination label="creator">
+                <persname source="naf">Bloch, Marie Halun, 1910-1998</persname>
+            </origination>
+        </did>
+        <bioghist id="ref9">
+            <head>Biographical/Historical note</head>
+            <p>Marie Halun Bloch is best known for her Ukrainian-themed children's books, but also was a writer and translator on a variety of subjects. She also did considerable research into her family history and the history of her ancestral villages. She travelled extensively to Ukraine and Eastern Europe beginning in the 1960s through the 1990s, and wrote extensively about her experiences.</p>
+            <p>She was born in 1909 in Komarno, Ukraine, daughter of Rudolf Halun and Sofia Pelensky Halun, and emigrated to the United States with her family as a young child. She received her primary and secondary school education in the Evanston, Ill. public school system and received a Bachelor of Philosophy degree in economics from the University of Chicago. She worked as an economist for the U.S. Department of Labor in the 1930s.</p>
+            <p>She was the author of 18 fiction and non-fiction books for children and two books for adults. Her most popular works included "Aunt America", an American Library Association Notable Book, and "Ukrainian Folk Tales", which was illustrated by Jacques Hnizdovsky. She was a longtime member of the Authors' League of America, the Authors' Guild, the Society of Children's Book Writers and Illustrators, from which she received several awards, the Colorado Authors' League, and the Denver Women's Press Club. A resident of Denver, Colorado for 50 years, she lived in Cambridge, Massachusetts from 1993 until her death in 1998. She was a member of the parishes of the Ukrainian Orthodox Church in both Denver and Boston.</p>
+            <p>Note that for much of her life she believed that she was born in 1910, not 1909, therefore her LOC name authority record has her years as 1910-1998.</p>
+        </bioghist>
+        <accessrestrict id="ref10">
+            <head>Conditions Governing Access</head>
+            <p>The collection is open for researcher use. Please contact the archivist (archives@ukrhec.org) for more information and to make arrangements. Audio or moving image materials may require on-demand digitization for access.</p>
+        </accessrestrict>
+        <userestrict id="ref11">
+            <head>Conditions Governing Use</head>
+            <p>Copyright restrictions may apply.</p>
+        </userestrict>
+        <acqinfo id="ref12">
+            <head>Immediate Source of Acquisition</head>
+            <p>Gift of Hilary Hopkins, daughter of Marie Halun Bloch.</p>
+        </acqinfo>
+        <processinfo id="ref20">
+            <head>Processing Information</head>
+            <p>The donor Hilary Hopkins provided a detailed inventory at the time of the donation (copy included in Series 5), and her original inventory numbers are indicated in Processing Information notes at the series and file level. File titles in quotation marks are taken directly from the folder or item labels, while those without quotation marks are devised titles.</p>
+        </processinfo>
+        <prefercite id="ref14">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: Identification of item, date (if known); Marie Halun Bloch papers; box number; folder number; Ukrainian Historical and Educational Center Archives, Somerset, New Jersey.</p>
+        </prefercite>
+        <relatedmaterial id="ref15">
+            <head>Related Archival Materials</head>
+            <p>The University of Minnesota Libraries Children's Literature Research Collections holds the papers of Marie Halun Bloch that relate to the writing and publication of her children's books (http://special.lib.umn.edu/findaid/xml/CLRC-796.xml).</p>
+        </relatedmaterial>
+        <scopecontent id="ref138">
+            <head>Зміст фонду</head>
+            <p>Цей фонд містить включає в собі праці Марії Ганлун Блох на теми генеалогічних дослідів, історію та звичаїв Комарна, Гусакова, та Щиртця, нотатки та щоденники від подорожів на Україну та східню Европу, неопубліковані короткі роботи по Україну, і проекти невиданої книги по історію ріки Дніпро. Фонд також включає значні дослідницькі замітки, джерела, і листування пов'язані з історією Комарна, а також фотографії Комарна з часів перед Другої світової війни до 1995 р. Її поїздки в Україну задокументовано у понад 500 фотографіях з 1960-х до 1990-х років. Фонд також містить деякі особисті записи і копії своїх опублікованих робіт, деякі з яких мають власноруні написи та анотації автора.</p>
+        </scopecontent>
+        <scopecontent id="ref16">
+            <head>Scope and Contents</head>
+            <p>The collection contains extensive writings by Marie Halun Bloch on her genealogy; the history and customs of her ancestral villages of Komarno, Husakiv, and Shchyrets'; travel diaries and travelogues; unpublished short works on Ukraine; and drafts of an unpublished book on the history of the Dnipro River. The collection also includes considerable research notes, source material, and correspondence related to the history of Komarno, as well as photographs of Komarno from before World War II through 1995. Her travels to Ukraine are documented by over 500 photographs from the 1960s to the 1990s. The collection also contains some personal records and copies of her published works, some of which have been inscribed or annotated by the author.</p>
+        </scopecontent>
+        <arrangement id="ref137">
+            <head>Arrangement</head>
+            <p>Arranged in five series as follows:</p>
+            <list numeration="arabic" type="ordered">
+                <item>Family and genealogy</item>
+                <item>History of Komarno, Husakiv, and Shchyrets'</item>
+                <item>Travels</item>
+                <item>Other writings</item>
+                <item>Personal and third-party materials</item>
+            </list>
+        </arrangement>
+        <controlaccess>
+            <subject source="lcsh">Dnieper River--History</subject>
+            <subject source="lcsh">Husakiv (Ukraine)--History</subject>
+            <subject source="lcsh">Komarno (Ukraine)--History</subject>
+            <subject source="lcsh">Shchyrets' (Ukraine)--History</subject>
+            <subject source="lcsh">Ukraine, Western--History</subject>
+            <subject source="lcsh">Ukraine, Western--Social life and customs</subject>
+            <subject source="lcsh">Ukraine--Description and travel </subject>
+            <subject source="lcsh">Ukraine--Genealogy</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>Family and genealogy</unittitle>
+                    <unitid>Series 1.</unitid>
+                    <unitdate normal="1966/1994" type="inclusive">1966-1994</unitdate>
+                </did>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>"The Halun and Pelensky Families of Ukraine and the United States: Containing Reminiscences of Sophia Pelenska Halun And Material From Other Sources."</unittitle>
+                        <container id="cid177003" type="Volume" label="Text">1</container>
+                        <container id="cid177002" type="Box" label="Text">1</container>
+                        <container parent="cid177002" type="Folder">1</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                    <processinfo id="ref19">
+                        <head>Processing Information</head>
+                        <p>Inventory #19. Inserted materials have been rehoused in a separate folder.</p>
+                    </processinfo>
+                    <scopecontent id="ref18">
+                        <head>Scope and Contents</head>
+                        <p>Privately published 489 page book (number 15 of an edition of 20) compiled and edited by MHB. It is the culmination of her research on her family history. It contains facsimiles of source documents, correspondence, photographs, maps, and diagrams of houses, home furnishings, and utensils. It also contains correspondence and genealogical charts with letter/number codes that uniquely identify each individual. These codes were used by MHB in her other family history and travel writings.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>"Pelensky - Descendants of Mykhailo Y41"</unittitle>
+                        <container id="cid177004" type="Box" label="Text">1</container>
+                        <container parent="cid177004" type="Folder">2</container>
+                        <unitdate normal="1991/1996" type="inclusive">1991-1996</unitdate>
+                    </did>
+                    <processinfo id="ref22">
+                        <head>Processing Information</head>
+                        <p>Inventory #11</p>
+                    </processinfo>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents</head>
+                        <p>Letters, death notices, and obituaries related to individuals who were descendants of Mykhailo Pelensky (Y41).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>"Writings by and about Ivan Dzyuba (Y386 in Pelensky Family Chart)"</unittitle>
+                        <container id="cid178001" type="Box" label="Text">1</container>
+                        <container parent="cid178001" type="Folder">3-5</container>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1966/1994" type="inclusive">1966-1994</unitdate>
+                    </did>
+                    <processinfo id="ref27">
+                        <head>Processing Information</head>
+                        <p>Inventory #10.</p>
+                    </processinfo>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents</head>
+                        <p>Contains materials on the Ukrainian literary critic, social activist, dissident, and Minister of Culture of Ukraine (1992—1994) Ivan Dzyuba (Dziuba), who has a family relationship to MHB. Consists primarily of newspaper clippings and other published material, but also has some correspondence and two audio cassettes of Dzyuba speaking in Toronto in 1989.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Yaroslav Zapotochny visit to United States</unittitle>
+                        <container id="cid178002" type="Box" label="Text">1</container>
+                        <container parent="cid178002" type="Folder">6</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                    <processinfo id="ref30">
+                        <head>Processing Information</head>
+                        <p>Inventory #13, 14, and 15</p>
+                    </processinfo>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents</head>
+                        <p>Materials related to the visit of Yaroslav Zapotochny to MHB and HBH, including letters, notes and article by HBH describing the event.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>"Pelenskies of Unspecified Origin"</unittitle>
+                        <container id="cid178003" type="Box" label="Text">1</container>
+                        <container parent="cid178003" type="Folder">7</container>
+                        <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+                    </did>
+                    <processinfo id="ref110">
+                        <head>Processing Information</head>
+                        <p>Inventory #12</p>
+                    </processinfo>
+                    <scopecontent id="ref111">
+                        <head>Scope and Contents</head>
+                        <p>Contains newspaper clippings.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>History of Komarno, Husakiv, and Shchyrets'</unittitle>
+                    <unitid>Series 2.</unitid>
+                    <unitdate normal="1964/1991" type="inclusive">1964-1991</unitdate>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Contents</head>
+                    <p>Contains writings by MHB about her family's ancestral villages, as well as extensive files of clippings. correspondence, and research notes. Some of these materials were also used in the book "The Halun and Pelensky Families" in Series 1.</p>
+                </scopecontent>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>"Komarno, Schyrets, Husakiw"</unittitle>
+                        <container id="cid178004" type="Box" label="Text">1</container>
+                        <container parent="cid178004" type="Folder">8-9</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1984/1984" type="bulk">Bulk, 1984</unitdate>
+                        <unitdate normal="1984/1990" type="inclusive">1984-1990</unitdate>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents</head>
+                        <p>Contains two typescript copies of the 256 page manuscript of "Komarno, Schyrets, Husakiw, Halychyna Province Ukraine. A collection of Articles and Other Materials Assembled from Various Sources by Marie Halun Bloch. Denver, Colorado 1984", some with pencil corrections. It also includes a translation of an article from "Svoboda" (December, 1990).</p>
+                    </scopecontent>
+                    <processinfo id="ref36">
+                        <head>Processing Information</head>
+                        <p>Inventory #2 and 4</p>
+                    </processinfo>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>"Ukraine and Komarno"</unittitle>
+                        <container id="cid178005" type="Box" label="Text">1</container>
+                        <container parent="cid178005" type="Folder">10</container>
+                        <unitdate normal="1982/1982">1982</unitdate>
+                    </did>
+                    <processinfo id="ref42">
+                        <head>Processing Information</head>
+                        <p>Inventory #5</p>
+                    </processinfo>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents</head>
+                        <p>Two copies of a 109 page typescript entitled "Komarno", with corrections.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="subseries">
+                    <did>
+                        <unittitle>"Documents and Other Materials on Hussakiw, Komarno, and Schyrets, Ukraine"</unittitle>
+                        <unitdate normal="1964/1987" type="inclusive">1964-1987</unitdate>
+                    </did>
+                    <processinfo id="ref59">
+                        <head>Processing Information</head>
+                        <p>Inventory #7</p>
+                    </processinfo>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents</head>
+                        <p>Contains correspondence, copies of source materials, maps, drawings, musical notation, and ephemera related to the history of Komarno and Husakiv.</p>
+                    </scopecontent>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Maps</unittitle>
+                            <container id="cid178006" type="Box" label="Text">2</container>
+                            <container parent="cid178006" type="Folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>"Source Materials Pertaining to Hussakiw"</unittitle>
+                            <container id="cid178007" type="Box" label="Text">2</container>
+                            <container parent="cid178007" type="Folder">2</container>
+                            <unitdate normal="1975/1987" type="inclusive">1975-1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>"Articles re Komarno by Natives"</unittitle>
+                            <container id="cid178008" type="Box" label="Text">2</container>
+                            <container parent="cid178008" type="Folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>"Source Materials pertaining to Komarno and Shchyrets"</unittitle>
+                            <container id="cid178009" type="Box" label="Text">2</container>
+                            <container parent="cid178009" type="Folder">4</container>
+                            <unitdate normal="1964/1980" type="inclusive">1964-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>"Komarno Meeting 1965"</unittitle>
+                            <container id="cid178010" type="Box" label="Text">2</container>
+                            <container parent="cid178010" type="Folder">5</container>
+                            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+                        </did>
+                        <scopecontent id="ref67">
+                            <head>Scope and Contents</head>
+                            <p>Contains announcements, correspondence, and ephemera related to the Komarno reunions at the Ukrainian Workingmen's Association Resort Center in Glen Spey, N.Y.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>"Komarno People/Komarno Artifacts"</unittitle>
+                            <container id="cid178011" type="Box" label="Text">2</container>
+                            <container parent="cid178011" type="Folder">6</container>
+                            <unitdate normal="1968/1982" type="inclusive">1968-1982</unitdate>
+                        </did>
+                        <scopecontent id="ref69">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence, obituaries, newspaper clippings, and original drawings that were included in "The Halun and Pelensky Families" book of Series 1.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Holos Kombatanta</unittitle>
+                            <container id="cid178013" type="Box" label="Text">2</container>
+                            <container parent="cid178013" type="Folder">7</container>
+                        </did>
+                        <scopecontent id="ref71">
+                            <head>Scope and Contents</head>
+                            <p>Three issues of the journal "Голос Комбатанта" (Autumn-Winter 1959, Spring 1960, Autumn 1960).</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref44" level="subseries">
+                    <did>
+                        <unittitle>Sources, correspondence, drafts, and research notes</unittitle>
+                        <unitdate normal="1964/1991" type="inclusive">1964-1991</unitdate>
+                    </did>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>Correspondence, drafts, and research notes</unittitle>
+                            <container id="cid178014" type="Oversize" label="Text">1</container>
+                            <container id="cid178012" type="Box" label="Text">2</container>
+                            <container parent="cid178012" type="Folder">8-10</container>
+                            <physdesc>
+                                <extent>4 folders</extent>
+                            </physdesc>
+                            <unitdate normal="1965/1991" type="inclusive">1965-1991</unitdate>
+                        </did>
+                        <processinfo id="ref39">
+                            <head>Processing Information</head>
+                            <p>Inventory #3</p>
+                        </processinfo>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>"Correspondence re Book on Komarno"</unittitle>
+                            <container id="cid178015" type="Box" label="Text">2</container>
+                            <container parent="cid178015" type="Folder">11</container>
+                            <unitdate normal="1980/1987" type="bulk">Bulk, 1980-1987</unitdate>
+                            <unitdate normal="1964/1987" type="inclusive">1964-1987</unitdate>
+                        </did>
+                        <processinfo id="ref47">
+                            <head>Processing Information</head>
+                            <p>Part of inventory #6</p>
+                        </processinfo>
+                        <scopecontent id="ref46">
+                            <head>Scope and Contents</head>
+                            <p>Correspondence related to Komarno from various individuals, particularly Anna and Mykola Radowych.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>"Meeting of Komarno People in Glen Spey, N.Y. 1965"</unittitle>
+                            <container id="cid178016" type="Box" label="Text">3</container>
+                            <container parent="cid178016" type="Folder">1</container>
+                            <physdesc>
+                                <extent>4 items</extent>
+                            </physdesc>
+                            <unitdate normal="1965/1981" type="inclusive">1965, 1980-1981</unitdate>
+                        </did>
+                        <processinfo id="ref50">
+                            <head>Processing Information</head>
+                            <p>Part of inventory #6</p>
+                        </processinfo>
+                        <scopecontent id="ref51">
+                            <head>Scope and Contents</head>
+                            <p>Announcements and meeting minutes of organization of former Komarno residents.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>"Komarno (+ Husakiw) Residuum old notes, etc."</unittitle>
+                            <container id="cid178017" type="Box" label="Text">3</container>
+                            <container parent="cid178017" type="Folder">2</container>
+                        </did>
+                        <processinfo id="ref53">
+                            <head>Processing Information</head>
+                            <p>Part of inventory #6</p>
+                        </processinfo>
+                        <scopecontent id="ref54">
+                            <head>Scope and Contents</head>
+                            <p>Research notes, copies of sources, and ephemera.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>"Original pictures of Komarno (+ Husakiw)"</unittitle>
+                            <container id="cid178018" type="Box" label="Text">3</container>
+                            <container parent="cid178018" type="Folder">3</container>
+                        </did>
+                        <processinfo id="ref56">
+                            <head>Processing Information</head>
+                            <p>Inventory #8</p>
+                        </processinfo>
+                        <scopecontent id="ref57">
+                            <head>Scope and Contents</head>
+                            <p>67 corner mounted photographs of Komarno and Husakiv, primarily from the 1960s and 1970s, but also some pre-World War II photographs, as well as photocopies of older historical photographs. Also includes photographs from reunions of former Komarno natives in the United States, and a hand-drawn map. All photographs are captioned by MHB in English.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref3" level="series">
+                <did>
+                    <unittitle>Travels</unittitle>
+                    <unitid>Series 3.</unitid>
+                    <unitdate normal="1960/1995" type="inclusive">1960-1995</unitdate>
+                </did>
+                <c02 id="ref72" level="subseries">
+                    <did>
+                        <unittitle>"Diaries of Travel to Ukraine, Eastern Europe, and Germany"</unittitle>
+                        <unitdate normal="1960/1970" type="inclusive">1960-1970</unitdate>
+                    </did>
+                    <processinfo id="ref73">
+                        <head>Processing Information</head>
+                        <p>Inventory #1</p>
+                    </processinfo>
+                    <scopecontent id="ref74">
+                        <head>Scope and Contents</head>
+                        <p>Material documenting MHB's travels which were contained in a document file box labeled "Diaries of Travel to Ukraine, Eastern Europe, and Germany/by Marie Halun Bloch/Contain much genealogical material on the Pelensky and the Halun Families, as well as material on Komarno and Hussakiw, and should therefore be kept as supplements to the volumes of materials on these families."</p>
+                    </scopecontent>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>"13 Lvivska Street"</unittitle>
+                            <container id="cid178019" type="Box" label="Text">3</container>
+                            <container parent="cid178019" type="Folder">4</container>
+                            <unitdate normal="1960/1960">1960</unitdate>
+                        </did>
+                        <scopecontent id="ref76">
+                            <head>Scope and Contents</head>
+                            <p>Typescript journal of MHB's trip to Ukraine (including Komarno), 199 pages. Includes three original photographs.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>"Three Generations"</unittitle>
+                            <container id="cid178020" type="Box" label="Text">3</container>
+                            <container parent="cid178020" type="Folder">5</container>
+                            <unitdate normal="1963/1963">1963</unitdate>
+                        </did>
+                        <scopecontent id="ref78">
+                            <head>Scope and Contents</head>
+                            <p>Typescript of travelogue (118 pages) with photographs from Ukraine and Denver, Colorado. Also includes original travel notes and itinerary.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>"Travels in East Europe"</unittitle>
+                            <container id="cid178021" type="Box" label="Text">3</container>
+                            <container parent="cid178021" type="Folder">6</container>
+                            <unitdate normal="1965/1965">1965</unitdate>
+                        </did>
+                        <scopecontent id="ref80">
+                            <head>Scope and Contents</head>
+                            <p>Typescript travel diary of trip to Poland, Czechoslovakia, and Germany (59 pages).</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>"Diary of Marie Halun Bloch on Visit to Stepan Pelensky of Prague"</unittitle>
+                            <container id="cid178022" type="Box" label="Text">3</container>
+                            <container parent="cid178022" type="Folder">7</container>
+                            <unitdate normal="1970/1970">1970</unitdate>
+                        </did>
+                        <scopecontent id="ref82">
+                            <head>Scope and Contents</head>
+                            <p>Typescript travel diary (22 pages), as well as drawings and other associated material.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>Photographs of Kyiv</unittitle>
+                            <container id="cid178023" type="Box" label="Graphic materials">3</container>
+                            <container parent="cid178023" type="Folder">8</container>
+                            <physdesc>
+                                <extent>1 folder (15 color photographs)</extent>
+                            </physdesc>
+                            <unitdate>undated, likely 1960s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Notes and newspaper clipping</unittitle>
+                            <container id="cid178024" type="Box" label="Text">3</container>
+                            <container parent="cid178024" type="Folder">9</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref91" level="subseries">
+                    <did>
+                        <unittitle>"Trip Journals by MHB"</unittitle>
+                        <unitdate normal="1977/1995" type="inclusive">1977-1995</unitdate>
+                    </did>
+                    <processinfo id="ref93">
+                        <head>Processing Information</head>
+                        <p>Inventory #31. Material related to 1991 English language teaching trip have been moved to the file corresponding to that subject below.</p>
+                    </processinfo>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>"The Web: Journey to Ukraine, July 4 to 25, 1977"</unittitle>
+                            <container id="cid178025" type="Box" label="Text">3</container>
+                            <container parent="cid178025" type="Folder">10</container>
+                            <unitdate normal="1977/1977">1977</unitdate>
+                        </did>
+                        <scopecontent id="ref90">
+                            <head>Scope and Contents</head>
+                            <p>Typescript travelogue (89 pages).</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Other travel writings</unittitle>
+                            <container id="cid178026" type="Box" label="Text">3</container>
+                            <container parent="cid178026" type="Folder">11</container>
+                            <unitdate normal="1977/1995" type="inclusive">1977-1995</unitdate>
+                        </did>
+                        <scopecontent id="ref95">
+                            <head>Scope and Contents</head>
+                            <p>Various travel writings, including multiple drafts of the essay "Castles in Ukraine".</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Slides from 1977 trip to Ukraine</unittitle>
+                        <container id="cid178027" type="Box" label="Text">3</container>
+                        <container parent="cid178027" type="Folder">12-14</container>
+                        <container id="cid178028" type="Box" label="Graphic materials">6</container>
+                        <physdesc>
+                            <extent>344 slides, 3 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                    <processinfo id="ref86">
+                        <head>Processing Information</head>
+                        <p>Inventory #9</p>
+                    </processinfo>
+                    <scopecontent id="ref87">
+                        <head>Scope and Contents</head>
+                        <p>Contents of three 35mm slide carousels, as well as travel notes and identifying information. These slides were taken by John and Hilary Hopkins on their trip to Ukraine with their daughters, Susannah and Alyson, and Marie Halun Bloch, Hilary's mother.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Teaching English in Ukraine</unittitle>
+                        <container id="cid178029" type="Box" label="Text">3</container>
+                        <container parent="cid178029" type="Folder">15-16</container>
+                        <container id="cid178030" type="Box" label="Text">4</container>
+                        <container parent="cid178030" type="Folder">1</container>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                    <processinfo id="ref96">
+                        <head>Processing Information</head>
+                        <p>Inventory #20, 32, and material separated from 31.</p>
+                    </processinfo>
+                    <scopecontent id="ref97">
+                        <head>Scope and Contents</head>
+                        <p>Material related to MHB's trip to Ukraine as a volunteer teacher of English. Includes a 53 page typescript diary, 15 color photographs taken by Zenia Kunasz while in Ivano-Frankivs'k, newspaper clippings, notebook, and travel documents.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                        <container id="cid178033" type="Box" label="Graphic materials">4</container>
+                        <container parent="cid178033" type="Folder">2</container>
+                        <physdesc>
+                            <extent>1 folder (184 photographs)</extent>
+                        </physdesc>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                    </did>
+                    <scopecontent id="ref140">
+                        <head>Scope and Contents note</head>
+                        <p>Approximately 180 color photographs taken by MHB and her granddaughter Susannah Hopkins Leisher in L'viv, Odessa, Komarno, and other locations in Ukraine. Some have annotations (MHB in pen, SHL on yellow notes).</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Other writings</unittitle>
+                    <unitid>Series 4.</unitid>
+                    <unitdate normal="1941/1998" type="inclusive">1941-1998</unitdate>
+                </did>
+                <c02 id="ref5" level="file">
+                    <did>
+                        <unittitle>Unpublished book manuscript on the Dnipro River</unittitle>
+                        <container id="cid178032" type="Box" label="Text">4</container>
+                        <container parent="cid178032" type="Folder">3-6</container>
+                        <container id="cid178031" type="Box" label="Text">5</container>
+                        <container parent="cid178031" type="Folder">1-3</container>
+                        <physdesc>
+                            <extent>7 folders</extent>
+                        </physdesc>
+                        <unitdate normal="1985/1998" type="inclusive">1985-1998</unitdate>
+                    </did>
+                    <scopecontent id="ref99">
+                        <head>Scope and Contents</head>
+                        <p>Contains a number of draft manuscripts of MHB's book on the Dnipro River, which she was working on at the time of her death and which remains unpublished. It is variously entitled "The Dnipro River of Ukraine: Its Life; Its Times", "The Ninth River" (referring to its world rank in terms of length), or "Fabulous River: Story of the Dnieper". It includes an early 1985 holograph draft, two typescript drafts of approximately 300 pages from the 1990s, floppy discs, a manually assembled panorama photograph, and bibliographic material.</p>
+                    </scopecontent>
+                    <processinfo id="ref100">
+                        <head>Processing Information</head>
+                        <p>Inventory #26, 27, 28, 29, and 30.</p>
+                    </processinfo>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>"Short pieces re Ukraine"</unittitle>
+                        <container id="cid178039" type="Box" label="Text">5</container>
+                        <container parent="cid178039" type="Folder">4</container>
+                        <unitdate normal="1991/1992" type="inclusive">1991-1992 and undated</unitdate>
+                    </did>
+                    <scopecontent id="ref142">
+                        <head>Scope and Contents note</head>
+                        <p>Published and unpublished short works on the topic of Ukraine, including pieces on the Peace Corps in Ukraine, Ukrainian Christmas customs, post-Independence Ukraine, and others.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref6" level="subseries">
+                    <did>
+                        <unittitle>Published works and translations</unittitle>
+                        <unitdate normal="1941/1983" type="inclusive">1941-1983</unitdate>
+                    </did>
+                    <processinfo id="ref108">
+                        <head>Processing Information</head>
+                        <p>Inventory #18, 22, 23, 24, 25</p>
+                    </processinfo>
+                    <c03 id="ref101" level="file">
+                        <did>
+                            <unittitle>The Post Impressionist</unittitle>
+                            <container id="cid178034" type="Box" label="Text">5</container>
+                            <container parent="cid178034" type="Folder">5</container>
+                            <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate>
+                        </did>
+                        <scopecontent id="ref102">
+                            <head>Scope and Contents</head>
+                            <p>Photocopies of MHB's "The Post Impressionist" newspaper column which she wrote for the Washington Post.</p>
+                        </scopecontent>
+                        <processinfo id="ref103">
+                            <head>Processing Information</head>
+                            <p>Inventory #22</p>
+                        </processinfo>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>The Ukrainian Quarterly articles</unittitle>
+                            <container id="cid178035" type="Box" label="Text">5</container>
+                            <container parent="cid178035" type="Folder">6</container>
+                            <unitdate normal="1961/1964" type="inclusive">1961-1964</unitdate>
+                        </did>
+                        <processinfo id="ref105">
+                            <head>Processing Information</head>
+                            <p>Inventory #24 and 25</p>
+                        </processinfo>
+                        <scopecontent id="ref106">
+                            <head>Scope and Contents</head>
+                            <p>Two issues of the Ukrainian Quarterly (vol. XVII, No. 2. Summer, 1961, and vol. XX, No. 3. Autumn, 1964) containing articles by MHB under the pseudonym "Lesya Svobodna".</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref107" level="item">
+                        <did>
+                            <unittitle>Marya of Clark Avenue</unittitle>
+                            <container id="cid178036" type="Box" label="Text">5</container>
+                            <container parent="cid178036" type="Folder">7</container>
+                            <unitdate normal="1957/1957">1957</unitdate>
+                        </did>
+                        <scopecontent id="ref118">
+                            <head>Scope and Contents</head>
+                            <p>Inscribed by MHB to her mother.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref112" level="item">
+                        <did>
+                            <unittitle>Aunt America</unittitle>
+                            <container id="cid178037" type="Box" label="Text">5</container>
+                            <container parent="cid178037" type="Folder">8-9</container>
+                            <unitdate normal="1963/1963">1963</unitdate>
+                        </did>
+                        <processinfo id="ref119">
+                            <head>Processing Information</head>
+                            <p>Inserted material has been rehoused in separate folder.</p>
+                        </processinfo>
+                    </c03>
+                    <c03 id="ref113" level="item">
+                        <did>
+                            <unittitle>Ukrainian Folk Tales</unittitle>
+                            <container id="cid178038" type="Volume" label="Text">2</container>
+                            <unitdate normal="1964/1964">1964</unitdate>
+                        </did>
+                        <scopecontent id="ref120">
+                            <head>Scope and Contents</head>
+                            <p>Inscribed by MHB to her mother.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref114" level="item">
+                        <did>
+                            <unittitle>The Two Worlds of Damyan</unittitle>
+                            <container id="cid178040" type="Volume" label="Text">3</container>
+                            <unitdate normal="1966/1966">1966</unitdate>
+                        </did>
+                        <scopecontent id="ref121">
+                            <head>Scope and Contents</head>
+                            <p>Inscribed by MHB to her daughter Hilary Hopkins.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref115" level="item">
+                        <did>
+                            <unittitle>Ivanko and the Dragon: An Old Ukrainian Folk Tale</unittitle>
+                            <container id="cid178041" type="Box" label="Text">5</container>
+                            <container parent="cid178041" type="Folder">10-11</container>
+                            <unitdate normal="1969/1969">1969</unitdate>
+                        </did>
+                        <processinfo id="ref122">
+                            <head>Processing Information</head>
+                            <p>Inserted materials have been rehoused in a separate folder.</p>
+                        </processinfo>
+                        <scopecontent id="ref123">
+                            <head>Scope and Contents</head>
+                            <p>Contains inscription by MHB critiquing the illustrations. Inserted materials include a note from illustrator Yaroslava Surmach Mills, a photograph of a 3rd grade float based on the book, and newspaper clippings.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref116" level="item">
+                        <did>
+                            <unittitle>Bern, Son of Mikula</unittitle>
+                            <container id="cid178042" type="Box" label="Text">5</container>
+                            <container parent="cid178042" type="Folder">12</container>
+                            <container id="cid178043" type="Volume" label="Text">4</container>
+                            <unitdate normal="1972/1972">1972</unitdate>
+                        </did>
+                        <scopecontent id="ref124">
+                            <head>Scope and Contents</head>
+                            <p>Contains comments and corrections by MHB. Inserted materials include publisher footnote, notes, a dedication (though apparently not to this book), and newspaper clippings.</p>
+                        </scopecontent>
+                        <processinfo id="ref125">
+                            <head>Processing Information</head>
+                            <p>Inserted materials have been rehoused in a separate folder.</p>
+                        </processinfo>
+                    </c03>
+                    <c03 id="ref117" level="item">
+                        <did>
+                            <unittitle>Displaced Person</unittitle>
+                            <container id="cid178044" type="Volume" label="Text">5</container>
+                            <unitdate normal="1978/1978">1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="item">
+                        <did>
+                            <unittitle>Pilgrims of the Prairie</unittitle>
+                            <container id="cid178045" type="Volume" label="Text">6</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                        <scopecontent id="ref127">
+                            <head>Scope and Contents</head>
+                            <p>By Andrew Dubovy, translation by MHB. Contains pencil corrections.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Personal and third-party materials</unittitle>
+                    <unitid>Series 5.</unitid>
+                </did>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Hnizdovsky bookplate design</unittitle>
+                        <container id="cid178048" type="Box" label="Text">5</container>
+                        <container parent="cid178048" type="Folder">13</container>
+                        <container id="cid178047" type="Oversize" label="Graphic materials">2</container>
+                        <unitdate normal="1972/1972">1972</unitdate>
+                    </did>
+                    <scopecontent id="ref131">
+                        <head>Scope and Contents</head>
+                        <p>Correspondence with Jacques Hnizdovsky regarding the design of a bookplate (ex libris) for MHB, as well as proofs and printing plate.</p>
+                    </scopecontent>
+                    <processinfo id="ref132">
+                        <head>Processing Information</head>
+                        <p>Inventory #17. Originally housed in kraft paper envelope with the notation "My ex libris by Hnizdovsky. Contains his alternate one. Have this one printed!"</p>
+                    </processinfo>
+                </c02>
+                <c02 id="ref133" level="item">
+                    <did>
+                        <unittitle>Portrait photograph</unittitle>
+                        <container id="cid178049" type="Oversize" label="Graphic materials">2</container>
+                        <unitdate normal="1968/1968">1968</unitdate>
+                    </did>
+                    <processinfo id="ref134">
+                        <head>Processing Information</head>
+                        <p>Inventory #21</p>
+                    </processinfo>
+                    <scopecontent id="ref136">
+                        <head>Scope and Contents</head>
+                        <p>Portrait of Marie Halun Bloch, taken May 1968 in Denver, Colorado.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Book donation to the Ukrainian Cultural Institute</unittitle>
+                        <container id="cid178046" type="Box" label="Text">5</container>
+                        <container parent="cid178046" type="Folder">14</container>
+                        <unitdate normal="1998/1998">1998</unitdate>
+                    </did>
+                    <scopecontent id="ref129">
+                        <head>Scope and Contents</head>
+                        <p>Contains a complete listing of the materials donated by Hilary Bloch Hopkins to The Ukrainian Cultural Institute, Dickinson, North Dakota, at the time of the death of Marie Halun Bloch in 1998. These materials now comprise The Marie Halun Bloch Library at UCI, and have been subsequently added to by other donors.</p>
+                    </scopecontent>
+                    <processinfo id="ref135">
+                        <head>Processing Information</head>
+                        <p>Inventory #16</p>
+                    </processinfo>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Donor inventory</unittitle>
+                        <container id="cid178050" type="Box" label="Text">5</container>
+                        <container parent="cid178050" type="Folder">15</container>
+                        <unitdate normal="2016/2016">2016</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
