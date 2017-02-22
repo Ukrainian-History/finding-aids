@@ -1,4 +1,4 @@
-#Ukrainian Historical and Educational Center of NJ - EAD Finding Aids
+#Ukrainian History and Education Center - EAD Finding Aids
 This directory contains archival finding aids for the processed collections at the Center's archives as EAD XML files. They were generated using Archivists Toolkit, and are released under the Creative Commons Attribution-NoDerivatives 4.0 license.
 
 ###Don't know what that means?
